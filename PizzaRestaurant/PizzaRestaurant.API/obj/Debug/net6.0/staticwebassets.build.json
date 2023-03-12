@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "G0XUh82TUSFZvuocZ/UhZ2+SMiCv/sv9WuYL8TMpGQk=",
+  "Source": "PizzaRestaurant.API",
+  "BasePath": "_content/PizzaRestaurant.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

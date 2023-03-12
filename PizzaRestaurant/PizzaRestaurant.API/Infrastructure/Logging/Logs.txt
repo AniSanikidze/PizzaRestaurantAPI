@@ -1,0 +1,5930 @@
+﻿
+*******Request Log*******
+IP = ::1
+Scheme = https
+Host = localhost:7167
+IsSecured = True
+Method = GET
+Query String = 
+Path = /api/Address/2
+Body = 
+Request Time = 29.01.2023 01:10:04
+
+*******Request Log*******
+IP = ::1
+Scheme = https
+Host = localhost:7167
+IsSecured = True
+Method = GET
+Query String = 
+Path = /api/Address/2
+Body = 
+Request Time = 29.01.2023 01:10:59
+
+*******Request Log*******
+IP = ::1
+Scheme = https
+Host = localhost:7167
+IsSecured = True
+Method = GET
+Query String = 
+Path = /api/Address/2
+Body = 
+Request Time = 29.01.2023 01:12:40
+
+*******Request Log*******
+IP = ::1
+Scheme = https
+Host = localhost:7167
+IsSecured = True
+Method = GET
+Query String = 
+Path = /api/Address/2
+Body = 
+Request Time = 29.01.2023 01:13:51
+Something
+*******Request Log*******
+IP = ::1
+Scheme = https
+Host = localhost:7167
+IsSecured = True
+Method = GET
+Query String = 
+Path = /api/Address/1
+Body = 
+Request Time = 29.01.2023 01:15:52
+
+*******Request Log*******
+IP = ::1
+Scheme = https
+Host = localhost:7167
+IsSecured = True
+Method = GET
+Query String = 
+Path = /api/Address/2
+Body = 
+Request Time = 29.01.2023 01:16:16
+
+*******Request Log*******
+IP = ::1
+Scheme = https
+Host = localhost:7167
+IsSecured = True
+Method = GET
+Query String = 
+Path = /api/Address/2
+Body = 
+Request Time = 29.01.2023 01:16:29
+
+*******Request Log*******
+IP = ::1
+Scheme = https
+Host = localhost:7167
+IsSecured = True
+Method = GET
+Query String = 
+Path = /api/Address/2
+Body = 
+Request Time = 29.01.2023 01:16:37
+
+*******Request Log*******
+IP = ::1
+Scheme = https
+Host = localhost:7167
+IsSecured = True
+Method = GET
+Query String = 
+Path = /api/Address/2
+Body = 
+Request Time = 29.01.2023 01:17:46
+
+*******Request Log*******
+IP = ::1
+Scheme = https
+Host = localhost:7167
+IsSecured = True
+Method = GET
+Query String = 
+Path = /api/Address/2
+Body = 
+Request Time = 29.01.2023 01:18:42
+
+*******Request Log*******
+IP = ::1
+Scheme = https
+Host = localhost:7167
+IsSecured = True
+Method = GET
+Query String = 
+Path = /api/Address/2
+Body = 
+Request Time = 29.01.2023 01:19:14
+
+*******Request Log*******
+IP = ::1
+Scheme = https
+Host = localhost:7167
+IsSecured = True
+Method = GET
+Query String = 
+Path = /api/Address/2
+Body = 
+Request Time = 29.01.2023 01:19:36
+
+*******Request Log*******
+IP = ::1
+Scheme = https
+Host = localhost:7167
+IsSecured = True
+Method = GET
+Query String = 
+Path = /api/Address/2
+Body = 
+Request Time = 29.01.2023 01:19:56
+
+*******Request Log*******
+IP = ::1
+Scheme = https
+Host = localhost:7167
+IsSecured = True
+Method = GET
+Query String = 
+Path = /api/Address/2
+Body = 
+Request Time = 29.01.2023 01:20:21
+
+*******Request Log*******
+IP = ::1
+Scheme = https
+Host = localhost:7167
+IsSecured = True
+Method = GET
+Query String = 
+Path = /api/Address
+Body = 
+Request Time = 29.01.2023 01:30:30
+
+*******Request Log*******
+Content type = application/json; charset=utf-8
+Status code = 200
+Headers = Content-Type:application/json; charset=utf-8
+Date:Sat, 28 Jan 2023 21:30:37 GMT
+Server:Kestrel
+
+*******Request Log*******
+IP = ::1
+Scheme = https
+Host = localhost:7167
+IsSecured = True
+Method = GET
+Query String = 
+Path = /api/User
+Body = 
+Request Time = 29.01.2023 20:57:15
+
+*******Response Log*******
+Content type = application/json; charset=utf-8
+Status code = 200
+Headers = Content-Type:application/json; charset=utf-8
+Date:Sun, 29 Jan 2023 16:57:20 GMT
+Server:Kestrel
+
+*******Request Log*******
+IP = ::1
+Scheme = https
+Host = localhost:7167
+IsSecured = True
+Method = GET
+Query String = 
+Path = /api/User/1
+Body = 
+Request Time = 29.01.2023 22:40:15
+
+*******Response Log*******
+Content type = application/json; charset=utf-8
+Status code = 200
+Headers = Content-Type:application/json; charset=utf-8
+Date:Sun, 29 Jan 2023 18:40:20 GMT
+Server:Kestrel
+
+*******Request Log*******
+IP = ::1
+Scheme = https
+Host = localhost:7167
+IsSecured = True
+Method = GET
+Query String = 
+Path = /api/User/100
+Body = 
+Request Time = 29.01.2023 22:48:56
+
+*******Request Log*******
+IP = ::1
+Scheme = https
+Host = localhost:7167
+IsSecured = True
+Method = GET
+Query String = 
+Path = /api/User/100
+Body = 
+Request Time = 29.01.2023 22:52:15
+
+*******Request Log*******
+IP = ::1
+Scheme = https
+Host = localhost:7167
+IsSecured = True
+Method = GET
+Query String = 
+Path = /api/User/100
+Body = 
+Request Time = 29.01.2023 22:58:40
+
+*******Request Log*******
+IP = ::1
+Scheme = https
+Host = localhost:7167
+IsSecured = True
+Method = POST
+Query String = 
+Path = /api/User
+Body = {
+  "firstName": "string1",
+  "lastName": "string1",
+  "email": "string1",
+  "phoneNumber": "string1"
+}
+Request Time = 29.01.2023 23:14:20
+
+*******Response Log*******
+Content type = application/problem+json; charset=utf-8
+Status code = 400
+Headers = Content-Type:application/problem+json; charset=utf-8
+Date:Sun, 29 Jan 2023 19:14:20 GMT
+Server:Kestrel
+
+*******Request Log*******
+IP = ::1
+Scheme = https
+Host = localhost:7167
+IsSecured = True
+Method = POST
+Query String = 
+Path = /api/User
+Body = {
+  "firstName": "aniNow",
+  "lastName": "absjhb",
+  "email": "test@gmail.com",
+  "phoneNumber": "577051420"
+}
+Request Time = 29.01.2023 23:44:01
+
+*******Request Log*******
+IP = ::1
+Scheme = https
+Host = localhost:7167
+IsSecured = True
+Method = POST
+Query String = 
+Path = /api/User
+Body = {
+  "firstName": "aniNow",
+  "lastName": "skjcbhsjh",
+  "email": "t@gmail.com",
+  "phoneNumber": "577051420"
+}
+Request Time = 29.01.2023 23:44:48
+
+*******Request Log*******
+IP = ::1
+Scheme = https
+Host = localhost:7167
+IsSecured = True
+Method = POST
+Query String = 
+Path = /api/User
+Body = {
+  "firstName": "string",
+  "lastName": "string",
+  "email": "s@gmail.com",
+  "phoneNumber": "s577585645"
+}
+Request Time = 29.01.2023 23:46:54
+
+*******Response Log*******
+Content type = application/problem+json; charset=utf-8
+Status code = 400
+Headers = Content-Type:application/problem+json; charset=utf-8
+Date:Sun, 29 Jan 2023 19:46:54 GMT
+Server:Kestrel
+
+*******Request Log*******
+IP = ::1
+Scheme = https
+Host = localhost:7167
+IsSecured = True
+Method = POST
+Query String = 
+Path = /api/User
+Body = {
+  "firstName": "string",
+  "lastName": "string",
+  "email": "s@gmail.com",
+  "phoneNumber": "577585645"
+}
+Request Time = 29.01.2023 23:47:04
+
+*******Request Log*******
+IP = ::1
+Scheme = https
+Host = localhost:7167
+IsSecured = True
+Method = POST
+Query String = 
+Path = /api/User
+Body = {
+  "firstName": "string",
+  "lastName": "string",
+  "email": "string@gmail.com",
+  "phoneNumber": "577051420"
+}
+Request Time = 29.01.2023 23:49:04
+
+*******Response Log*******
+Content type = application/json; charset=utf-8
+Status code = 200
+Headers = Content-Type:application/json; charset=utf-8
+Date:Sun, 29 Jan 2023 19:49:32 GMT
+Server:Kestrel
+
+*******Request Log*******
+IP = ::1
+Scheme = https
+Host = localhost:7167
+IsSecured = True
+Method = GET
+Query String = 
+Path = /api/User
+Body = 
+Request Time = 30.01.2023 00:22:30
+
+*******Request Log*******
+IP = ::1
+Scheme = https
+Host = localhost:7167
+IsSecured = True
+Method = GET
+Query String = 
+Path = /api/User
+Body = 
+Request Time = 30.01.2023 00:23:14
+
+*******Request Log*******
+IP = ::1
+Scheme = https
+Host = localhost:7167
+IsSecured = True
+Method = GET
+Query String = 
+Path = /api/User/1
+Body = 
+Request Time = 30.01.2023 00:29:02
+
+*******Request Log*******
+IP = ::1
+Scheme = https
+Host = localhost:7167
+IsSecured = True
+Method = GET
+Query String = 
+Path = /api/User/1
+Body = 
+Request Time = 30.01.2023 00:33:21
+
+*******Request Log*******
+IP = ::1
+Scheme = https
+Host = localhost:7167
+IsSecured = True
+Method = GET
+Query String = 
+Path = /api/User/1
+Body = 
+Request Time = 30.01.2023 00:37:54
+
+*******Request Log*******
+IP = ::1
+Scheme = https
+Host = localhost:7167
+IsSecured = True
+Method = GET
+Query String = 
+Path = /api/User/1
+Body = 
+Request Time = 30.01.2023 00:45:52
+
+*******Response Log*******
+Content type = application/json; charset=utf-8
+Status code = 200
+Body = {"id":1,"firstName":"AniSaniiiiiiiiiii","lastName":"string","email":"string","phoneNumber":"string","addresses":[]}
+Headers = Content-Type:application/json; charset=utf-8
+
+*******Request Log*******
+IP = ::1
+Scheme = https
+Host = localhost:7167
+IsSecured = True
+Method = GET
+Query String = 
+Path = /api/User/1
+Body = 
+Request Time = 30.01.2023 00:52:10
+
+*******Response Log*******
+Content type = application/json; charset=utf-8
+Status code = 200
+Body = {"id":1,"firstName":"AniSaniiiiiiiiiii","lastName":"string","email":"string","phoneNumber":"string","addresses":[]}
+Headers = Content-Type:application/json; charset=utf-8
+
+*******Response Log*******
+Content type = application/json; charset=utf-8
+Status code = 200
+Body = {"id":1,"firstName":"AniSaniiiiiiiiiii","lastName":"string","email":"string","phoneNumber":"string","addresses":[]}
+Headers = Content-Type:application/json; charset=utf-8
+
+*******Request Log*******
+IP = ::1
+Scheme = https
+Host = localhost:7167
+IsSecured = True
+Method = GET
+Query String = 
+Path = /api/User/1
+Body = 
+Request Time = 30.01.2023 00:52:45
+
+*******Response Log*******
+Content type = application/json; charset=utf-8
+Status code = 200
+Body = {"id":1,"firstName":"AniSaniiiiiiiiiii","lastName":"string","email":"string","phoneNumber":"string","addresses":[]}
+Headers = Content-Type:application/json; charset=utf-8
+
+*******Response Log*******
+Content type = application/json; charset=utf-8
+Status code = 200
+Body = {"id":1,"firstName":"AniSaniiiiiiiiiii","lastName":"string","email":"string","phoneNumber":"string","addresses":[]}
+Headers = Content-Type:application/json; charset=utf-8
+
+*******Request Log*******
+IP = ::1
+Scheme = https
+Host = localhost:7167
+IsSecured = True
+Method = GET
+Query String = 
+Path = /api/User/5
+Body = 
+Request Time = 30.01.2023 00:53:48
+
+*******Response Log*******
+Content type = application/json; charset=utf-8
+Status code = 200
+Body = {"id":5,"firstName":"string","lastName":"string","email":"string","phoneNumber":"string","addresses":[{"id":3,"userId":5,"city":"Prague","coutry":"Czech Republic","region":"shfbj","description":"string"},{"id":4,"userId":5,"city":"string","coutry":"string","region":"string","description":"string"}]}
+Headers = Content-Type:application/json; charset=utf-8
+
+*******Request Log*******
+IP = ::1
+Scheme = https
+Host = localhost:7167
+IsSecured = True
+Method = GET
+Query String = 
+Path = /api/Address/7
+Body = 
+Request Time = 30.01.2023 01:09:47
+
+*******Response Log*******
+Content type = application/json; charset=utf-8
+Status code = 200
+Body = 
+Headers = Content-Type:application/json; charset=utf-8
+Date:Sun, 29 Jan 2023 21:09:52 GMT
+Server:Kestrel
+
+*******Request Log*******
+IP = ::1
+Scheme = https
+Host = localhost:7167
+IsSecured = True
+Method = GET
+Query String = 
+Path = /api/Address/7
+Body = 
+Request Time = 30.01.2023 01:10:47
+
+*******Response Log*******
+Content type = application/json; charset=utf-8
+Status code = 200
+Body = {"id":7,"userId":8,"city":"Tblisi","coutry":"Goergia","region":"Goergia","description":"sdhbjshb..."}
+Headers = Content-Type:application/json; charset=utf-8
+
+*******Request Log*******
+IP = ::1
+Scheme = https
+Host = localhost:7167
+IsSecured = True
+Method = POST
+Query String = 
+Path = /api/User
+Body = {
+  "firstName": "string",
+  "lastName": "string",
+  "email": "string@gmail.com",
+  "phoneNumber": "string",
+  "addresses": [
+    {
+      "city": "string",
+      "coutry": "string",
+      "region": "string",
+      "description": "string"
+    }
+  ]
+}
+Request Time = 30.01.2023 12:23:57
+
+*******Response Log*******
+Content type = application/problem+json; charset=utf-8
+Status code = 400
+Body = {"type":"https://tools.ietf.org/html/rfc7231#section-6.5.1","title":"One or more validation errors occurred.","status":400,"traceId":"00-40b2d4c052e4e6b24211d1b9769845ce-bcf04e76456ba1da-00","errors":{"PhoneNumber":["Invalid phone number format"]}}
+Headers = Content-Type:application/problem+json; charset=utf-8
+
+*******Request Log*******
+IP = ::1
+Scheme = https
+Host = localhost:7167
+IsSecured = True
+Method = POST
+Query String = 
+Path = /api/User
+Body = {
+  "firstName": "string",
+  "lastName": "string",
+  "email": "string",
+  "phoneNumber": "577051420",
+  "addresses": [
+    {
+      "city": "string",
+      "coutry": "string",
+      "region": "string",
+      "description": "string"
+    }
+  ]
+}
+Request Time = 30.01.2023 12:24:14
+
+*******Response Log*******
+Content type = application/problem+json; charset=utf-8
+Status code = 400
+Body = {"type":"https://tools.ietf.org/html/rfc7231#section-6.5.1","title":"One or more validation errors occurred.","status":400,"traceId":"00-34d6f3cc6c2b4b21b2e93e93613e80ff-588acaa44719a235-00","errors":{"Email":["Invalid Email format"]}}
+Headers = Content-Type:application/problem+json; charset=utf-8
+
+*******Request Log*******
+IP = ::1
+Scheme = https
+Host = localhost:7167
+IsSecured = True
+Method = POST
+Query String = 
+Path = /api/User
+Body = {
+  "firstName": "string",
+  "lastName": "string",
+  "email": "string@",
+  "phoneNumber": "577051420",
+  "addresses": [
+    {
+      "city": "string",
+      "coutry": "string",
+      "region": "string",
+      "description": "string"
+    }
+  ]
+}
+Request Time = 30.01.2023 12:24:25
+
+*******Response Log*******
+Content type = application/problem+json; charset=utf-8
+Status code = 400
+Body = {"type":"https://tools.ietf.org/html/rfc7231#section-6.5.1","title":"One or more validation errors occurred.","status":400,"traceId":"00-4b0cfda098a2aaf93defb91d6637b4cf-f8b1922a786188b6-00","errors":{"Email":["Invalid Email format"]}}
+Headers = Content-Type:application/problem+json; charset=utf-8
+
+*******Request Log*******
+IP = ::1
+Scheme = https
+Host = localhost:7167
+IsSecured = True
+Method = POST
+Query String = 
+Path = /api/User
+Body = {
+  "firstName": "string",
+  "lastName": "string",
+  "email": "string@gmail.com",
+  "phoneNumber": "577051420",
+  "addresses": [
+    {
+      "city": "string",
+      "coutry": "string",
+      "region": "string",
+      "description": "string"
+    }
+  ]
+}
+Request Time = 30.01.2023 12:24:34
+
+*******Response Log*******
+Content type = application/json; charset=utf-8
+Status code = 200
+Body = {"id":24,"firstName":"string","lastName":"string","email":"string@gmail.com","phoneNumber":"577051420","addresses":[{"id":19,"userId":24,"city":"string","coutry":"string","region":"string","description":"string"}]}
+Headers = Content-Type:application/json; charset=utf-8
+
+*******Request Log*******
+IP = ::1
+Scheme = https
+Host = localhost:7167
+IsSecured = True
+Method = POST
+Query String = 
+Path = /api/User
+Body = {
+  "firstName": "stringA",
+  "lastName": "stringA",
+  "email": "ani@ani.com",
+  "phoneNumber": "577051420",
+  "addresses": [
+    {
+      "city": "string",
+      "coutry": "string",
+      "region": "string",
+      "description": "string"
+    }
+  ]
+}
+Request Time = 30.01.2023 12:30:50
+
+*******Response Log*******
+Content type = application/json; charset=utf-8
+Status code = 200
+Body = {"id":25,"firstName":"stringA","lastName":"stringA","email":"ani@ani.com","phoneNumber":"577051420","addresses":[{"id":20,"userId":25,"city":"string","coutry":"string","region":"string","description":"string"}]}
+Headers = Content-Type:application/json; charset=utf-8
+
+*******Request Log*******
+IP = ::1
+Scheme = https
+Host = localhost:7167
+IsSecured = True
+Method = POST
+Query String = 
+Path = /api/User
+Body = {
+  "firstName": "stringA",
+  "lastName": "stringA",
+  "email": "ani@ani.com",
+  "phoneNumber": "577051420",
+  "addresses": [
+    {
+      "city": "",
+      "coutry": "string",
+      "region": "string",
+      "description": "string"
+    }
+  ]
+}
+Request Time = 30.01.2023 12:32:01
+
+*******Request Log*******
+IP = ::1
+Scheme = https
+Host = localhost:7167
+IsSecured = True
+Method = POST
+Query String = 
+Path = /api/User
+Body = {
+  "firstName": "stringA",
+  "lastName": "stringA",
+  "email": "ani@ani.com",
+  "phoneNumber": "577051420",
+  "addresses": [
+    {
+      "city": "",
+      "coutry": "string",
+      "region": "string",
+      "description": "string"
+    }
+  ]
+}
+Request Time = 30.01.2023 12:32:02
+
+*******Request Log*******
+IP = ::1
+Scheme = https
+Host = localhost:7167
+IsSecured = True
+Method = POST
+Query String = 
+Path = /api/User
+Body = {
+  "firstName": "string",
+  "lastName": "string",
+  "email": "string",
+  "phoneNumber": "string",
+  "addresses": [
+    {
+      "city": "",
+      "coutry": "string",
+      "region": "string",
+      "description": "string"
+    }
+  ]
+}
+Request Time = 30.01.2023 12:32:45
+
+*******Response Log*******
+Content type = application/problem+json; charset=utf-8
+Status code = 400
+Body = {"type":"https://tools.ietf.org/html/rfc7231#section-6.5.1","title":"One or more validation errors occurred.","status":400,"traceId":"00-10262097aa0bb4a90f11691a40bf93fc-6dd3c756d068a97a-00","errors":{"Email":["Invalid Email format"],"PhoneNumber":["Invalid phone number format"]}}
+Headers = Content-Type:application/problem+json; charset=utf-8
+
+*******Request Log*******
+IP = ::1
+Scheme = https
+Host = localhost:7167
+IsSecured = True
+Method = POST
+Query String = 
+Path = /api/User
+Body = {
+  "firstName": "string",
+  "lastName": "string",
+  "email": "string",
+  "phoneNumber": "string",
+  "addresses": [
+    {
+      "city": "string",
+      "coutry": "string",
+      "region": "string",
+      "description": "string"
+    }
+  ]
+}
+Request Time = 30.01.2023 12:38:42
+*******Response Log*******
+Content type = application/problem+json; charset=utf-8
+Status code = 400
+Body = {"type":"https://tools.ietf.org/html/rfc7231#section-6.5.1","title":"One or more validation errors occurred.","status":400,"traceId":"00-cffd72aa62c38c464a7d2c110b8ba24d-5198b4e5f3c45ee8-00","errors":{"Email":["Invalid Email format"],"PhoneNumber":["Invalid phone number format"]}}
+Headers = Content-Type:application/problem+json; charset=utf-8
+
+*******Request Log*******
+IP = ::1
+Scheme = https
+Host = localhost:7167
+IsSecured = True
+Method = POST
+Query String = 
+Path = /api/User
+Body = {
+  "firstName": "string",
+  "lastName": "string",
+  "email": "string",
+  "phoneNumber": "string",
+  "addresses": [
+    {
+      "city": "",
+      "coutry": "",
+      "region": "",
+      "description": ""
+    }
+  ]
+}
+Request Time = 30.01.2023 12:38:56
+*******Response Log*******
+Content type = application/problem+json; charset=utf-8
+Status code = 400
+Body = {"type":"https://tools.ietf.org/html/rfc7231#section-6.5.1","title":"One or more validation errors occurred.","status":400,"traceId":"00-8b3cca0f55de949de4c8e051a78a0590-83bc3d6ead4730c8-00","errors":{"Email":["Invalid Email format"],"PhoneNumber":["Invalid phone number format"]}}
+Headers = Content-Type:application/problem+json; charset=utf-8
+
+*******Request Log*******
+IP = ::1
+Scheme = https
+Host = localhost:7167
+IsSecured = True
+Method = POST
+Query String = 
+Path = /api/User
+Body = {
+  "firstName": "string",
+  "lastName": "string",
+  "email": "string",
+  "phoneNumber": "string",
+  "addresses": [
+    {
+      "city": "",
+      "coutry": "string",
+      "region": "string",
+      "description": "string"
+    }
+  ]
+}
+Request Time = 30.01.2023 12:42:46
+*******Response Log*******
+Content type = application/problem+json; charset=utf-8
+Status code = 400
+Body = {"type":"https://tools.ietf.org/html/rfc7231#section-6.5.1","title":"One or more validation errors occurred.","status":400,"traceId":"00-0ddd14124e929177f7721e43dff1b9f6-6235972c979acea9-00","errors":{"Email":["Invalid Email format"],"PhoneNumber":["Invalid phone number format"],"Addresses[0].City":["City name shoud not be empty with maximum length of 20 characters"]}}
+Headers = Content-Type:application/problem+json; charset=utf-8
+
+*******Request Log*******
+IP = ::1
+Scheme = https
+Host = localhost:7167
+IsSecured = True
+Method = POST
+Query String = 
+Path = /api/User
+Body = {
+  "firstName": "string",
+  "lastName": "string",
+  "email": "string",
+  "phoneNumber": "string",
+  "addresses": null
+}
+Request Time = 30.01.2023 12:43:34
+*******Response Log*******
+Content type = application/problem+json; charset=utf-8
+Status code = 400
+Body = {"type":"https://tools.ietf.org/html/rfc7231#section-6.5.1","title":"One or more validation errors occurred.","status":400,"traceId":"00-77e9ff1826496bfcc05d50aab6b8c4e5-5a9176793bcd7695-00","errors":{"Email":["Invalid Email format"],"Addresses":["The Addresses field is required."],"PhoneNumber":["Invalid phone number format"]}}
+Headers = Content-Type:application/problem+json; charset=utf-8
+
+*******Request Log*******
+IP = ::1
+Scheme = https
+Host = localhost:7167
+IsSecured = True
+Method = POST
+Query String = 
+Path = /api/User
+Body = {
+  "firstName": "string",
+  "lastName": "string",
+  "email": "string",
+  "phoneNumber": "string",
+}
+Request Time = 30.01.2023 12:50:48
+*******Response Log*******
+Content type = application/problem+json; charset=utf-8
+Status code = 400
+Body = {"type":"https://tools.ietf.org/html/rfc7231#section-6.5.1","title":"One or more validation errors occurred.","status":400,"traceId":"00-443caa8bba6a7dbe4544b2cdba26474f-59d321c7dc5a7761-00","errors":{"$":["The JSON object contains a trailing comma at the end which is not supported in this mode. Change the reader options. Path: $ | LineNumber: 5 | BytePositionInLine: 0."],"request":["The request field is required."]}}
+Headers = Content-Type:application/problem+json; charset=utf-8
+
+*******Request Log*******
+IP = ::1
+Scheme = https
+Host = localhost:7167
+IsSecured = True
+Method = POST
+Query String = 
+Path = /api/User
+Body = {
+  "firstName": "string",
+  "lastName": "string",
+  "email": "string",
+  "phoneNumber": "string"
+}
+Request Time = 30.01.2023 12:51:08
+*******Request Log*******
+IP = ::1
+Scheme = https
+Host = localhost:7167
+IsSecured = True
+Method = POST
+Query String = 
+Path = /api/User
+Body = {
+  "firstName": "string",
+  "lastName": "string",
+  "email": "string",
+  "phoneNumber": "string"
+}
+Request Time = 30.01.2023 12:52:21
+*******Request Log*******
+IP = ::1
+Scheme = https
+Host = localhost:7167
+IsSecured = True
+Method = POST
+Query String = 
+Path = /api/User
+Body = {
+  "firstName": "string",
+  "lastName": "string",
+  "email": "string",
+  "phoneNumber": "string"
+}
+Request Time = 30.01.2023 13:01:23
+*******Response Log*******
+Content type = application/problem+json; charset=utf-8
+Status code = 400
+Body = {"type":"https://tools.ietf.org/html/rfc7231#section-6.5.1","title":"One or more validation errors occurred.","status":400,"traceId":"00-fdd82774923c7f8d9727429581a7f4a1-1e9705d3d2bc3ad2-00","errors":{"Email":["Invalid Email format"],"Addresses":["The Addresses field is required."],"PhoneNumber":["Invalid phone number format"]}}
+Headers = Content-Type:application/problem+json; charset=utf-8
+
+*******Request Log*******
+IP = ::1
+Scheme = https
+Host = localhost:7167
+IsSecured = True
+Method = POST
+Query String = 
+Path = /api/User
+Body = {
+  "firstName": "string",
+  "lastName": "string",
+  "email": "string",
+  "phoneNumber": "string",
+addresses: null
+}
+Request Time = 30.01.2023 13:01:45
+*******Response Log*******
+Content type = application/problem+json; charset=utf-8
+Status code = 400
+Body = {"type":"https://tools.ietf.org/html/rfc7231#section-6.5.1","title":"One or more validation errors occurred.","status":400,"traceId":"00-004594bb86c9ad6e760ca766c993b1f4-c8badf8e825fe3ec-00","errors":{"$":["'a' is an invalid start of a property name. Expected a '\"'. Path: $ | LineNumber: 5 | BytePositionInLine: 0."],"request":["The request field is required."]}}
+Headers = Content-Type:application/problem+json; charset=utf-8
+
+*******Request Log*******
+IP = ::1
+Scheme = https
+Host = localhost:7167
+IsSecured = True
+Method = POST
+Query String = 
+Path = /api/User
+Body = {
+  "firstName": "string",
+  "lastName": "string",
+  "email": "string",
+  "phoneNumber": "string",
+"addresses": null
+}
+Request Time = 30.01.2023 13:02:03
+*******Response Log*******
+Content type = application/problem+json; charset=utf-8
+Status code = 400
+Body = {"type":"https://tools.ietf.org/html/rfc7231#section-6.5.1","title":"One or more validation errors occurred.","status":400,"traceId":"00-76aa4c22cc4a2fd81f965b3199e033d2-984440d3b4acfc1a-00","errors":{"Email":["Invalid Email format"],"Addresses":["The Addresses field is required."],"PhoneNumber":["Invalid phone number format"]}}
+Headers = Content-Type:application/problem+json; charset=utf-8
+
+*******Request Log*******
+IP = ::1
+Scheme = https
+Host = localhost:7167
+IsSecured = True
+Method = POST
+Query String = 
+Path = /api/User
+Body = {
+  "firstName": "string",
+  "lastName": "string",
+  "email": "string",
+  "phoneNumber": "string",
+"addresses": "null"
+}
+Request Time = 30.01.2023 13:06:14
+*******Response Log*******
+Content type = application/problem+json; charset=utf-8
+Status code = 400
+Body = {"type":"https://tools.ietf.org/html/rfc7231#section-6.5.1","title":"One or more validation errors occurred.","status":400,"traceId":"00-5c053af6ec9e5b1ac5116d0ed3c40199-6451da995e977565-00","errors":{"request":["The request field is required."],"$.addresses":["The JSON value could not be converted to System.Collections.Generic.List`1[PizzaRestaurant.Application.Addresses.Requests.UserAddressRequestModel]. Path: $.addresses | LineNumber: 5 | BytePositionInLine: 19."]}}
+Headers = Content-Type:application/problem+json; charset=utf-8
+
+*******Request Log*******
+IP = ::1
+Scheme = https
+Host = localhost:7167
+IsSecured = True
+Method = POST
+Query String = 
+Path = /api/User
+Body = {
+  "firstName": "string",
+  "lastName": "string",
+  "email": "string",
+  "phoneNumber": "string",
+"addresses": NULL
+}
+Request Time = 30.01.2023 13:08:03
+*******Response Log*******
+Content type = application/problem+json; charset=utf-8
+Status code = 400
+Body = {"type":"https://tools.ietf.org/html/rfc7231#section-6.5.1","title":"One or more validation errors occurred.","status":400,"traceId":"00-bd5ee0c723120d0e85dbe5f41fca80e7-8299aa03264b3f80-00","errors":{"request":["The request field is required."],"$.addresses":["'N' is an invalid start of a value. Path: $.addresses | LineNumber: 5 | BytePositionInLine: 13."]}}
+Headers = Content-Type:application/problem+json; charset=utf-8
+
+*******Request Log*******
+IP = ::1
+Scheme = https
+Host = localhost:7167
+IsSecured = True
+Method = POST
+Query String = 
+Path = /api/User
+Body = {
+  "firstName": "string",
+  "lastName": "string",
+  "email": "string",
+  "phoneNumber": "string",
+  "addresses": null
+}
+Request Time = 30.01.2023 13:10:35
+*******Response Log*******
+Content type = application/problem+json; charset=utf-8
+Status code = 400
+Body = {"type":"https://tools.ietf.org/html/rfc7231#section-6.5.1","title":"One or more validation errors occurred.","status":400,"traceId":"00-30a6f89afe86e7fa93164bab0410e527-eb5a0a95cbf49536-00","errors":{"Email":["Invalid Email format"],"PhoneNumber":["Invalid phone number format"]}}
+Headers = Content-Type:application/problem+json; charset=utf-8
+
+*******Request Log*******
+IP = ::1
+Scheme = https
+Host = localhost:7167
+IsSecured = True
+Method = POST
+Query String = 
+Path = /api/User
+Body = {
+  "firstName": "string",
+  "lastName": "string",
+  "email": "string",
+  "phoneNumber": "string",
+  "addresses": []
+}
+Request Time = 30.01.2023 13:10:58
+*******Response Log*******
+Content type = application/problem+json; charset=utf-8
+Status code = 400
+Body = {"type":"https://tools.ietf.org/html/rfc7231#section-6.5.1","title":"One or more validation errors occurred.","status":400,"traceId":"00-7ab8cb100169546fd46e1e202b68a0f2-ccbe8c5a6ca6d675-00","errors":{"Email":["Invalid Email format"],"PhoneNumber":["Invalid phone number format"]}}
+Headers = Content-Type:application/problem+json; charset=utf-8
+
+*******Request Log*******
+IP = ::1
+Scheme = https
+Host = localhost:7167
+IsSecured = True
+Method = POST
+Query String = 
+Path = /api/User
+Body = {
+  "firstName": "string",
+  "lastName": "string",
+  "email": "stringEEEEEEEEEEEEEEEEEEEEE",
+  "phoneNumber": "566854595",
+  "addresses": []
+}
+Request Time = 30.01.2023 13:11:16
+*******Response Log*******
+Content type = application/problem+json; charset=utf-8
+Status code = 400
+Body = {"type":"https://tools.ietf.org/html/rfc7231#section-6.5.1","title":"One or more validation errors occurred.","status":400,"traceId":"00-ee0bbab7eaa3a423b5ed207664a7bf64-fdb7a9b6dcf2be85-00","errors":{"Email":["Invalid Email format"]}}
+Headers = Content-Type:application/problem+json; charset=utf-8
+
+*******Request Log*******
+IP = ::1
+Scheme = https
+Host = localhost:7167
+IsSecured = True
+Method = POST
+Query String = 
+Path = /api/User
+Body = {
+  "firstName": "string",
+  "lastName": "string",
+  "email": "stringEEEEEEEEEEEEEEEEEEEEE@gmail.com,
+  "phoneNumber": "566854595",
+  "addresses": []
+}
+Request Time = 30.01.2023 13:11:32
+*******Response Log*******
+Content type = application/problem+json; charset=utf-8
+Status code = 400
+Body = {"type":"https://tools.ietf.org/html/rfc7231#section-6.5.1","title":"One or more validation errors occurred.","status":400,"traceId":"00-a939cf4ec61b2020aa3bdcd6700938b9-6770f2648d403ff8-00","errors":{"request":["The request field is required."],"$.email":["'0x0A' is invalid within a JSON string. The string should be correctly escaped. Path: $.email | LineNumber: 3 | BytePositionInLine: 50."]}}
+Headers = Content-Type:application/problem+json; charset=utf-8
+
+*******Request Log*******
+IP = ::1
+Scheme = https
+Host = localhost:7167
+IsSecured = True
+Method = POST
+Query String = 
+Path = /api/User
+Body = {
+  "firstName": "string",
+  "lastName": "string",
+  "email": "stringEEEEEEEEEEEEEEEEEEEEE@gmail.com",
+  "phoneNumber": "566854595",
+  "addresses": []
+}
+Request Time = 30.01.2023 13:12:00
+*******Response Log*******
+Content type = application/json; charset=utf-8
+Status code = 200
+Body = {"id":26,"firstName":"string","lastName":"string","email":"stringEEEEEEEEEEEEEEEEEEEEE@gmail.com","phoneNumber":"566854595","addresses":[]}
+Headers = Content-Type:application/json; charset=utf-8
+
+*******Request Log*******
+IP = ::1
+Scheme = https
+Host = localhost:7167
+IsSecured = True
+Method = POST
+Query String = 
+Path = /api/User
+Body = {
+  "firstName": "string",
+  "lastName": "string",
+  "email": "stringEEEEEEEEEEEEEEEEEEEEE@gmail.com",
+  "phoneNumber": "566854595",
+}
+Request Time = 30.01.2023 13:13:07
+*******Response Log*******
+Content type = application/problem+json; charset=utf-8
+Status code = 400
+Body = {"type":"https://tools.ietf.org/html/rfc7231#section-6.5.1","title":"One or more validation errors occurred.","status":400,"traceId":"00-4ff860a34ec6f53815f7edf42694d8b4-9802b439bc4ca4f6-00","errors":{"$":["The JSON object contains a trailing comma at the end which is not supported in this mode. Change the reader options. Path: $ | LineNumber: 5 | BytePositionInLine: 0."],"request":["The request field is required."]}}
+Headers = Content-Type:application/problem+json; charset=utf-8
+
+*******Request Log*******
+IP = ::1
+Scheme = https
+Host = localhost:7167
+IsSecured = True
+Method = POST
+Query String = 
+Path = /api/User
+Body = {
+  "firstName": "string",
+  "lastName": "string",
+  "email": "stringEEEEEEEEEEEEEEEEEEEEE@gmail.com",
+  "phoneNumber": "566854595",
+  "addresses": []
+}
+Request Time = 30.01.2023 14:25:19
+*******Response Log*******
+Content type = application/json; charset=utf-8
+Status code = 200
+Body = {"id":27,"firstName":"string","lastName":"string","email":"stringEEEEEEEEEEEEEEEEEEEEE@gmail.com","phoneNumber":"566854595","addresses":[]}
+Headers = Content-Type:application/json; charset=utf-8
+
+*******Request Log*******
+IP = ::1
+Scheme = https
+Host = localhost:7167
+IsSecured = True
+Method = GET
+Query String = 
+Path = /api/User/100
+Body = 
+Request Time = 30.01.2023 15:19:55
+
+*******Request Log*******
+IP = ::1
+Scheme = https
+Host = localhost:7167
+IsSecured = True
+Method = GET
+Query String = 
+Path = /api/User/100
+Body = 
+Request Time = 30.01.2023 15:23:46
+
+*******Request Log*******
+IP = ::1
+Scheme = https
+Host = localhost:7167
+IsSecured = True
+Method = GET
+Query String = 
+Path = /api/User/100
+Body = 
+Request Time = 30.01.2023 15:27:45
+
+*******Request Log*******
+IP = ::1
+Scheme = https
+Host = localhost:7167
+IsSecured = True
+Method = GET
+Query String = 
+Path = /api/User/100
+Body = 
+Request Time = 30.01.2023 15:28:52
+
+*******Request Log*******
+IP = ::1
+Scheme = https
+Host = localhost:7167
+IsSecured = True
+Method = GET
+Query String = 
+Path = /api/User/100
+Body = 
+Request Time = 30.01.2023 15:31:47
+
+*******Request Log*******
+IP = ::1
+Scheme = https
+Host = localhost:7167
+IsSecured = True
+Method = GET
+Query String = 
+Path = /api/User/100
+Body = 
+Request Time = 30.01.2023 15:33:15
+
+*******Request Log*******
+IP = ::1
+Scheme = https
+Host = localhost:7167
+IsSecured = True
+Method = GET
+Query String = 
+Path = /api/User/100
+Body = 
+Request Time = 30.01.2023 15:34:26
+
+*******Request Log*******
+IP = ::1
+Scheme = https
+Host = localhost:7167
+IsSecured = True
+Method = GET
+Query String = 
+Path = /api/User/100
+Body = 
+Request Time = 30.01.2023 15:37:47
+
+*******Request Log*******
+IP = ::1
+Scheme = https
+Host = localhost:7167
+IsSecured = True
+Method = GET
+Query String = 
+Path = /api/User/100
+Body = 
+Request Time = 30.01.2023 15:39:56
+
+*******Request Log*******
+IP = ::1
+Scheme = https
+Host = localhost:7167
+IsSecured = True
+Method = GET
+Query String = 
+Path = /api/User/100
+Body = 
+Request Time = 30.01.2023 15:42:33
+
+*******Request Log*******
+IP = ::1
+Scheme = https
+Host = localhost:7167
+IsSecured = True
+Method = GET
+Query String = 
+Path = /api/User/100
+Body = 
+Request Time = 30.01.2023 15:43:21
+
+*******Request Log*******
+IP = ::1
+Scheme = https
+Host = localhost:7167
+IsSecured = True
+Method = GET
+Query String = 
+Path = /api/User/100
+Body = 
+Request Time = 30.01.2023 15:56:00
+
+*******Request Log*******
+IP = ::1
+Scheme = https
+Host = localhost:7167
+IsSecured = True
+Method = GET
+Query String = 
+Path = /api/User/100
+Body = 
+Request Time = 30.01.2023 15:56:40
+
+*******Request Log*******
+IP = ::1
+Scheme = https
+Host = localhost:7167
+IsSecured = True
+Method = POST
+Query String = 
+Path = /api/User
+Body = {
+  "firstName": "s",
+  "lastName": "string",
+  "email": "string",
+  "phoneNumber": "string",
+  "addresses": []
+}
+Request Time = 30.01.2023 16:07:00
+
+*******Response Log*******
+Content type = application/problem+json; charset=utf-8
+Status code = 400
+Body = {"type":"https://tools.ietf.org/html/rfc7231#section-6.5.1","title":"One or more validation errors occurred.","status":400,"traceId":"00-7528b9893849cc6ee12ae4fa73f2e140-32342a1661cbc6e9-00","errors":{"Email":["Invalid Email format"],"FirstName":["Firstname should consist of at least 2 characters and at most 20"],"PhoneNumber":["Invalid phone number format"]}}
+Headers = Content-Type:application/problem+json; charset=utf-8
+
+*******Request Log*******
+IP = ::1
+Scheme = https
+Host = localhost:7167
+IsSecured = True
+Method = POST
+Query String = 
+Path = /api/User
+Body = {
+  "firstName": "s",
+  "lastName": "string",
+  "email": "string",
+  "phoneNumber": "string",
+  "addresses": []
+}
+Request Time = 30.01.2023 16:08:08
+
+*******Response Log*******
+Content type = application/problem+json; charset=utf-8
+Status code = 415
+Body = {"type":"https://tools.ietf.org/html/rfc7231#section-6.5.13","title":"Unsupported Media Type","status":415,"traceId":"00-4c5f1f5fa7f8cce825a2bd57fae92b0e-5acbdb689626dfd3-00"}
+Headers = Content-Type:application/problem+json; charset=utf-8
+
+*******Request Log*******
+IP = ::1
+Scheme = https
+Host = localhost:7167
+IsSecured = True
+Method = POST
+Query String = 
+Path = /api/User
+Body = {
+  "firstName": "s",
+  "lastName": "string",
+  "email": "string",
+  "phoneNumber": "string",
+  "addresses": []
+}
+Request Time = 30.01.2023 16:09:00
+
+*******Response Log*******
+Content type = application/problem+json; charset=utf-8
+Status code = 400
+Body = {"type":"https://tools.ietf.org/html/rfc7231#section-6.5.1","title":"One or more validation errors occurred.","status":400,"traceId":"00-bec0694e55d7bbc59b6813398983a8e2-3d0729914f1ffa36-00","errors":{"Email":["Invalid Email format"],"FirstName":["Firstname should consist of at least 2 characters and at most 20"],"PhoneNumber":["Invalid phone number format"]}}
+Headers = Content-Type:application/problem+json; charset=utf-8
+
+*******Request Log*******
+IP = ::1
+Scheme = https
+Host = localhost:7167
+IsSecured = True
+Method = POST
+Query String = 
+Path = /api/User
+Body = {
+  "firstName": "s",
+  "lastName": "string",
+  "email": "string",
+  "phoneNumber": "string",
+  "addresses": []
+}
+Request Time = 30.01.2023 16:09:18
+
+*******Response Log*******
+Content type = application/problem+json; charset=utf-8
+Status code = 400
+Body = {"type":"https://tools.ietf.org/html/rfc7231#section-6.5.1","title":"One or more validation errors occurred.","status":400,"traceId":"00-a335e4f485b49488cc6bf31493745be0-6ab53a22cc086356-00","errors":{"Email":["Invalid Email format"],"FirstName":["სახელი უნდა შედგებოდეს მინიმუმ 2, მაქსიმუმ 20 სიმბოლოსგან"],"PhoneNumber":["Invalid phone number format"]}}
+Headers = Content-Type:application/problem+json; charset=utf-8
+
+*******Request Log*******
+IP = ::1
+Scheme = https
+Host = localhost:7167
+IsSecured = True
+Method = GET
+Query String = 
+Path = /api/User/1
+Body = 
+Request Time = 31.01.2023 13:50:07
+
+*******Response Log*******
+Content type = application/json; charset=utf-8
+Status code = 200
+Body = {"id":1,"firstName":"AniSaniiiiiiiiiii","lastName":"string","email":"string","phoneNumber":"string","addresses":[]}
+Headers = Content-Type:application/json; charset=utf-8
+
+*******Request Log*******
+IP = ::1
+Scheme = https
+Host = localhost:7167
+IsSecured = True
+Method = GET
+Query String = 
+Path = /api/User/100
+Body = 
+Request Time = 31.01.2023 13:50:26
+
+*******Request Log*******
+IP = ::1
+Scheme = https
+Host = localhost:7167
+IsSecured = True
+Method = GET
+Query String = 
+Path = /api/User/1
+Body = 
+Request Time = 31.01.2023 13:53:35
+
+*******Response Log*******
+Content type = application/json; charset=utf-8
+Status code = 200
+Body = {"id":1,"firstName":"AniSaniiiiiiiiiii","lastName":"string","email":"string","phoneNumber":"string","addresses":[]}
+Headers = Content-Type:application/json; charset=utf-8
+
+
+*******Request Log*******
+IP = ::1
+Scheme = https
+Host = localhost:7167
+IsSecured = True
+Method = GET
+Query String = 
+Path = /api/User/100
+Body = 
+Request Time = 31.01.2023 13:53:52
+
+*******Request Log*******
+IP = ::1
+Scheme = https
+Host = localhost:7167
+IsSecured = True
+Method = GET
+Query String = 
+Path = /api/User
+Body = {
+  "firstName": "s",
+  "lastName": "string",
+  "email": "string",
+  "phoneNumber": "string",
+  "addresses": []
+}
+Request Time = 31.01.2023 13:55:57
+
+*******Request Log*******
+IP = ::1
+Scheme = https
+Host = localhost:7167
+IsSecured = True
+Method = GET
+Query String = 
+Path = /api/User
+Body = {
+  "firstName": "s",
+  "lastName": "string",
+  "email": "string",
+  "phoneNumber": "string",
+  "addresses": []
+}
+Request Time = 31.01.2023 13:56:34
+
+*******Response Log*******
+Content type = application/json; charset=utf-8
+Status code = 200
+Body = [{"id":1,"firstName":"AniSaniiiiiiiiiii","lastName":"string","email":"string","phoneNumber":"string","addresses":[]},{"id":2,"firstName":"Ani","lastName":"Sani","email":"anni@gmail.com","phoneNumber":"Ani","addresses":[{"id":2,"userId":2,"city":"Mcxeta","coutry":"georgia","region":"Mcetamtianeti","description":"ajhvdajvd"}]},{"id":5,"firstName":"string","lastName":"string","email":"string","phoneNumber":"string","addresses":[{"id":3,"userId":5,"city":"Prague","coutry":"Czech Republic","region":"shfbj","description":"string"},{"id":4,"userId":5,"city":"string","coutry":"string","region":"string","description":"string"}]},{"id":6,"firstName":"ani","lastName":"Sani","email":"anni.sanikidze@gmail.com","phoneNumber":"577051420","addresses":[{"id":5,"userId":6,"city":"Tblisi","coutry":"Goergia","region":"Goergia","description":"sdhbjshb..."}]},{"id":7,"firstName":"ani","lastName":"Sani","email":"anni.sanikidze@gmail.com","phoneNumber":"577051420","addresses":[{"id":6,"userId":7,"city":"Tblisi","coutry":"Goergia","region":"Goergia","description":"sdhbjshb..."}]},{"id":8,"firstName":"ani","lastName":"Sani","email":"anni.sanikidze@gmail.com","phoneNumber":"577051420","addresses":[{"id":7,"userId":8,"city":"Tblisi","coutry":"Goergia","region":"Goergia","description":"sdhbjshb..."}]},{"id":9,"firstName":"ani","lastName":"Sani","email":"anni.sanikidze@gmail.com","phoneNumber":"577051420","addresses":[{"id":8,"userId":9,"city":"Tblisi","coutry":"Goergia","region":"Goergia","description":"sdhbjshb..."}]},{"id":10,"firstName":"ani","lastName":"Sani","email":"anni.sanikidze@gmail.com","phoneNumber":"577051420","addresses":[{"id":9,"userId":10,"city":"Tblisi","coutry":"Goergia","region":"Goergia","description":"sdhbjshb..."}]},{"id":11,"firstName":"ani","lastName":"Sani","email":"anni.sanikidze@gmail.com","phoneNumber":"577051420","addresses":[{"id":10,"userId":11,"city":"Tblisi","coutry":"Goergia","region":"Goergia","description":"sdhbjshb..."}]},{"id":12,"firstName":"ani","lastName":"Sani","email":"anni.sanikidze@gmail.com","phoneNumber":"577051420","addresses":[{"id":11,"userId":12,"city":"Tblisi","coutry":"Goergia","region":"Goergia","description":"sdhbjshb..."}]},{"id":13,"firstName":"ani","lastName":"Sani","email":"anni.sanikidze@gmail.com","phoneNumber":"577051420","addresses":[{"id":12,"userId":13,"city":"Tblisi","coutry":"Goergia","region":"Goergia","description":"sdhbjshb..."}]},{"id":14,"firstName":"ani","lastName":"Sani","email":"anni.sanikidze@gmail.com","phoneNumber":"577051420","addresses":[{"id":13,"userId":14,"city":"Tblisi","coutry":"Goergia","region":"Goergia","description":"sdhbjshb..."}]},{"id":15,"firstName":"aniko","lastName":"Saniko","email":"anni.sanikidze@gmail.com","phoneNumber":"577051420","addresses":[{"id":14,"userId":15,"city":"TblisiAniko","coutry":"GoergiaAniko","region":"GoergiaAniko","description":"sdhbjshb..."}]},{"id":16,"firstName":"ani","lastName":"Sani","email":"anni.sanikidze@gmail.com","phoneNumber":"577051420","addresses":[{"id":15,"userId":16,"city":"Tblisi","coutry":"Goergia","region":"Goergia","description":"sdhbjshb..."}]},{"id":17,"firstName":"ani","lastName":"Sani","email":"anni.sanikidze@gmail.com","phoneNumber":"577051420","addresses":[{"id":16,"userId":17,"city":"Tblisi","coutry":"Goergia","region":"Goergia","description":"sdhbjshb..."}]},{"id":18,"firstName":"ani","lastName":"Sani","email":"anni.sanikidze@gmail.com","phoneNumber":"577051420","addresses":[{"id":17,"userId":18,"city":"Tblisi","coutry":"Goergia","region":"Goergia","description":"sdhbjshb..."}]},{"id":19,"firstName":"ani","lastName":"Sani","email":"anni.sanikidze@gmail.com","phoneNumber":"577051420","addresses":[{"id":18,"userId":19,"city":"Tblisi","coutry":"Goergia","region":"Goergia","description":"sdhbjshb..."}]},{"id":20,"firstName":"aniko","lastName":"ann","email":"ann@gmail.com","phoneNumber":"577051420","addresses":[]},{"id":21,"firstName":"aniNow","lastName":"skjcbhsjh","email":"t@gmail.com","phoneNumber":"577051420","addresses":[]},{"id":22,"firstName":"string","lastName":"string","email":"s@gmail.com","phoneNumber":"577585645","addresses":[]},{"id":23,"firstName":"string","lastName":"string","email":"string@gmail.com","phoneNumber":"577051420","addresses":[]},{"id":24,"firstName":"string","lastName":"string","email":"string@gmail.com","phoneNumber":"577051420","addresses":[{"id":19,"userId":24,"city":"string","coutry":"string","region":"string","description":"string"}]},{"id":25,"firstName":"stringA","lastName":"stringA","email":"ani@ani.com","phoneNumber":"577051420","addresses":[{"id":20,"userId":25,"city":"string","coutry":"string","region":"string","description":"string"}]},{"id":26,"firstName":"string","lastName":"string","email":"stringEEEEEEEEEEEEEEEEEEEEE@gmail.com","phoneNumber":"566854595","addresses":[]},{"id":27,"firstName":"string","lastName":"string","email":"stringEEEEEEEEEEEEEEEEEEEEE@gmail.com","phoneNumber":"566854595","addresses":[]}]
+Headers = Content-Type:application/json; charset=utf-8
+
+
+*******Request Log*******
+IP = ::1
+Scheme = https
+Host = localhost:7167
+IsSecured = True
+Method = GET
+Query String = 
+Path = /api/User/1
+Body = {
+  "firstName": "s",
+  "lastName": "string",
+  "email": "string",
+  "phoneNumber": "string",
+  "addresses": []
+}
+Request Time = 31.01.2023 13:56:57
+
+*******Response Log*******
+Content type = application/json; charset=utf-8
+Status code = 200
+Body = {"id":1,"firstName":"AniSaniiiiiiiiiii","lastName":"string","email":"string","phoneNumber":"string","addresses":[]}
+Headers = Content-Type:application/json; charset=utf-8
+
+
+*******Request Log*******
+IP = ::1
+Scheme = https
+Host = localhost:7167
+IsSecured = True
+Method = GET
+Query String = 
+Path = /api/User/100
+Body = {
+  "firstName": "s",
+  "lastName": "string",
+  "email": "string",
+  "phoneNumber": "string",
+  "addresses": []
+}
+Request Time = 31.01.2023 13:57:03
+
+*******Request Log*******
+IP = ::1
+Scheme = https
+Host = localhost:7167
+IsSecured = True
+Method = GET
+Query String = 
+Path = /api/User
+Body = 
+Request Time = 31.01.2023 13:58:59
+
+*******Response Log*******
+Content type = application/json; charset=utf-8
+Status code = 200
+Body = [{"id":1,"firstName":"AniSaniiiiiiiiiii","lastName":"string","email":"string","phoneNumber":"string","addresses":[]},{"id":2,"firstName":"Ani","lastName":"Sani","email":"anni@gmail.com","phoneNumber":"Ani","addresses":[{"id":2,"userId":2,"city":"Mcxeta","coutry":"georgia","region":"Mcetamtianeti","description":"ajhvdajvd"}]},{"id":5,"firstName":"string","lastName":"string","email":"string","phoneNumber":"string","addresses":[{"id":3,"userId":5,"city":"Prague","coutry":"Czech Republic","region":"shfbj","description":"string"},{"id":4,"userId":5,"city":"string","coutry":"string","region":"string","description":"string"}]},{"id":6,"firstName":"ani","lastName":"Sani","email":"anni.sanikidze@gmail.com","phoneNumber":"577051420","addresses":[{"id":5,"userId":6,"city":"Tblisi","coutry":"Goergia","region":"Goergia","description":"sdhbjshb..."}]},{"id":7,"firstName":"ani","lastName":"Sani","email":"anni.sanikidze@gmail.com","phoneNumber":"577051420","addresses":[{"id":6,"userId":7,"city":"Tblisi","coutry":"Goergia","region":"Goergia","description":"sdhbjshb..."}]},{"id":8,"firstName":"ani","lastName":"Sani","email":"anni.sanikidze@gmail.com","phoneNumber":"577051420","addresses":[{"id":7,"userId":8,"city":"Tblisi","coutry":"Goergia","region":"Goergia","description":"sdhbjshb..."}]},{"id":9,"firstName":"ani","lastName":"Sani","email":"anni.sanikidze@gmail.com","phoneNumber":"577051420","addresses":[{"id":8,"userId":9,"city":"Tblisi","coutry":"Goergia","region":"Goergia","description":"sdhbjshb..."}]},{"id":10,"firstName":"ani","lastName":"Sani","email":"anni.sanikidze@gmail.com","phoneNumber":"577051420","addresses":[{"id":9,"userId":10,"city":"Tblisi","coutry":"Goergia","region":"Goergia","description":"sdhbjshb..."}]},{"id":11,"firstName":"ani","lastName":"Sani","email":"anni.sanikidze@gmail.com","phoneNumber":"577051420","addresses":[{"id":10,"userId":11,"city":"Tblisi","coutry":"Goergia","region":"Goergia","description":"sdhbjshb..."}]},{"id":12,"firstName":"ani","lastName":"Sani","email":"anni.sanikidze@gmail.com","phoneNumber":"577051420","addresses":[{"id":11,"userId":12,"city":"Tblisi","coutry":"Goergia","region":"Goergia","description":"sdhbjshb..."}]},{"id":13,"firstName":"ani","lastName":"Sani","email":"anni.sanikidze@gmail.com","phoneNumber":"577051420","addresses":[{"id":12,"userId":13,"city":"Tblisi","coutry":"Goergia","region":"Goergia","description":"sdhbjshb..."}]},{"id":14,"firstName":"ani","lastName":"Sani","email":"anni.sanikidze@gmail.com","phoneNumber":"577051420","addresses":[{"id":13,"userId":14,"city":"Tblisi","coutry":"Goergia","region":"Goergia","description":"sdhbjshb..."}]},{"id":15,"firstName":"aniko","lastName":"Saniko","email":"anni.sanikidze@gmail.com","phoneNumber":"577051420","addresses":[{"id":14,"userId":15,"city":"TblisiAniko","coutry":"GoergiaAniko","region":"GoergiaAniko","description":"sdhbjshb..."}]},{"id":16,"firstName":"ani","lastName":"Sani","email":"anni.sanikidze@gmail.com","phoneNumber":"577051420","addresses":[{"id":15,"userId":16,"city":"Tblisi","coutry":"Goergia","region":"Goergia","description":"sdhbjshb..."}]},{"id":17,"firstName":"ani","lastName":"Sani","email":"anni.sanikidze@gmail.com","phoneNumber":"577051420","addresses":[{"id":16,"userId":17,"city":"Tblisi","coutry":"Goergia","region":"Goergia","description":"sdhbjshb..."}]},{"id":18,"firstName":"ani","lastName":"Sani","email":"anni.sanikidze@gmail.com","phoneNumber":"577051420","addresses":[{"id":17,"userId":18,"city":"Tblisi","coutry":"Goergia","region":"Goergia","description":"sdhbjshb..."}]},{"id":19,"firstName":"ani","lastName":"Sani","email":"anni.sanikidze@gmail.com","phoneNumber":"577051420","addresses":[{"id":18,"userId":19,"city":"Tblisi","coutry":"Goergia","region":"Goergia","description":"sdhbjshb..."}]},{"id":20,"firstName":"aniko","lastName":"ann","email":"ann@gmail.com","phoneNumber":"577051420","addresses":[]},{"id":21,"firstName":"aniNow","lastName":"skjcbhsjh","email":"t@gmail.com","phoneNumber":"577051420","addresses":[]},{"id":22,"firstName":"string","lastName":"string","email":"s@gmail.com","phoneNumber":"577585645","addresses":[]},{"id":23,"firstName":"string","lastName":"string","email":"string@gmail.com","phoneNumber":"577051420","addresses":[]},{"id":24,"firstName":"string","lastName":"string","email":"string@gmail.com","phoneNumber":"577051420","addresses":[{"id":19,"userId":24,"city":"string","coutry":"string","region":"string","description":"string"}]},{"id":25,"firstName":"stringA","lastName":"stringA","email":"ani@ani.com","phoneNumber":"577051420","addresses":[{"id":20,"userId":25,"city":"string","coutry":"string","region":"string","description":"string"}]},{"id":26,"firstName":"string","lastName":"string","email":"stringEEEEEEEEEEEEEEEEEEEEE@gmail.com","phoneNumber":"566854595","addresses":[]},{"id":27,"firstName":"string","lastName":"string","email":"stringEEEEEEEEEEEEEEEEEEEEE@gmail.com","phoneNumber":"566854595","addresses":[]}]
+Headers = Content-Type:application/json; charset=utf-8
+
+
+*******Request Log*******
+IP = ::1
+Scheme = https
+Host = localhost:7167
+IsSecured = True
+Method = GET
+Query String = 
+Path = /api/Use
+Body = 
+Request Time = 31.01.2023 13:59:10
+
+*******Response Log*******
+Content type = 
+Status code = 404
+Body = 
+Headers = 
+
+*******Request Log*******
+IP = ::1
+Scheme = https
+Host = localhost:7167
+IsSecured = True
+Method = GET
+Query String = 
+Path = /api/User
+Body = 
+Request Time = 31.01.2023 13:59:17
+
+*******Response Log*******
+Content type = application/json; charset=utf-8
+Status code = 200
+Body = [{"id":1,"firstName":"AniSaniiiiiiiiiii","lastName":"string","email":"string","phoneNumber":"string","addresses":[]},{"id":2,"firstName":"Ani","lastName":"Sani","email":"anni@gmail.com","phoneNumber":"Ani","addresses":[{"id":2,"userId":2,"city":"Mcxeta","coutry":"georgia","region":"Mcetamtianeti","description":"ajhvdajvd"}]},{"id":5,"firstName":"string","lastName":"string","email":"string","phoneNumber":"string","addresses":[{"id":3,"userId":5,"city":"Prague","coutry":"Czech Republic","region":"shfbj","description":"string"},{"id":4,"userId":5,"city":"string","coutry":"string","region":"string","description":"string"}]},{"id":6,"firstName":"ani","lastName":"Sani","email":"anni.sanikidze@gmail.com","phoneNumber":"577051420","addresses":[{"id":5,"userId":6,"city":"Tblisi","coutry":"Goergia","region":"Goergia","description":"sdhbjshb..."}]},{"id":7,"firstName":"ani","lastName":"Sani","email":"anni.sanikidze@gmail.com","phoneNumber":"577051420","addresses":[{"id":6,"userId":7,"city":"Tblisi","coutry":"Goergia","region":"Goergia","description":"sdhbjshb..."}]},{"id":8,"firstName":"ani","lastName":"Sani","email":"anni.sanikidze@gmail.com","phoneNumber":"577051420","addresses":[{"id":7,"userId":8,"city":"Tblisi","coutry":"Goergia","region":"Goergia","description":"sdhbjshb..."}]},{"id":9,"firstName":"ani","lastName":"Sani","email":"anni.sanikidze@gmail.com","phoneNumber":"577051420","addresses":[{"id":8,"userId":9,"city":"Tblisi","coutry":"Goergia","region":"Goergia","description":"sdhbjshb..."}]},{"id":10,"firstName":"ani","lastName":"Sani","email":"anni.sanikidze@gmail.com","phoneNumber":"577051420","addresses":[{"id":9,"userId":10,"city":"Tblisi","coutry":"Goergia","region":"Goergia","description":"sdhbjshb..."}]},{"id":11,"firstName":"ani","lastName":"Sani","email":"anni.sanikidze@gmail.com","phoneNumber":"577051420","addresses":[{"id":10,"userId":11,"city":"Tblisi","coutry":"Goergia","region":"Goergia","description":"sdhbjshb..."}]},{"id":12,"firstName":"ani","lastName":"Sani","email":"anni.sanikidze@gmail.com","phoneNumber":"577051420","addresses":[{"id":11,"userId":12,"city":"Tblisi","coutry":"Goergia","region":"Goergia","description":"sdhbjshb..."}]},{"id":13,"firstName":"ani","lastName":"Sani","email":"anni.sanikidze@gmail.com","phoneNumber":"577051420","addresses":[{"id":12,"userId":13,"city":"Tblisi","coutry":"Goergia","region":"Goergia","description":"sdhbjshb..."}]},{"id":14,"firstName":"ani","lastName":"Sani","email":"anni.sanikidze@gmail.com","phoneNumber":"577051420","addresses":[{"id":13,"userId":14,"city":"Tblisi","coutry":"Goergia","region":"Goergia","description":"sdhbjshb..."}]},{"id":15,"firstName":"aniko","lastName":"Saniko","email":"anni.sanikidze@gmail.com","phoneNumber":"577051420","addresses":[{"id":14,"userId":15,"city":"TblisiAniko","coutry":"GoergiaAniko","region":"GoergiaAniko","description":"sdhbjshb..."}]},{"id":16,"firstName":"ani","lastName":"Sani","email":"anni.sanikidze@gmail.com","phoneNumber":"577051420","addresses":[{"id":15,"userId":16,"city":"Tblisi","coutry":"Goergia","region":"Goergia","description":"sdhbjshb..."}]},{"id":17,"firstName":"ani","lastName":"Sani","email":"anni.sanikidze@gmail.com","phoneNumber":"577051420","addresses":[{"id":16,"userId":17,"city":"Tblisi","coutry":"Goergia","region":"Goergia","description":"sdhbjshb..."}]},{"id":18,"firstName":"ani","lastName":"Sani","email":"anni.sanikidze@gmail.com","phoneNumber":"577051420","addresses":[{"id":17,"userId":18,"city":"Tblisi","coutry":"Goergia","region":"Goergia","description":"sdhbjshb..."}]},{"id":19,"firstName":"ani","lastName":"Sani","email":"anni.sanikidze@gmail.com","phoneNumber":"577051420","addresses":[{"id":18,"userId":19,"city":"Tblisi","coutry":"Goergia","region":"Goergia","description":"sdhbjshb..."}]},{"id":20,"firstName":"aniko","lastName":"ann","email":"ann@gmail.com","phoneNumber":"577051420","addresses":[]},{"id":21,"firstName":"aniNow","lastName":"skjcbhsjh","email":"t@gmail.com","phoneNumber":"577051420","addresses":[]},{"id":22,"firstName":"string","lastName":"string","email":"s@gmail.com","phoneNumber":"577585645","addresses":[]},{"id":23,"firstName":"string","lastName":"string","email":"string@gmail.com","phoneNumber":"577051420","addresses":[]},{"id":24,"firstName":"string","lastName":"string","email":"string@gmail.com","phoneNumber":"577051420","addresses":[{"id":19,"userId":24,"city":"string","coutry":"string","region":"string","description":"string"}]},{"id":25,"firstName":"stringA","lastName":"stringA","email":"ani@ani.com","phoneNumber":"577051420","addresses":[{"id":20,"userId":25,"city":"string","coutry":"string","region":"string","description":"string"}]},{"id":26,"firstName":"string","lastName":"string","email":"stringEEEEEEEEEEEEEEEEEEEEE@gmail.com","phoneNumber":"566854595","addresses":[]},{"id":27,"firstName":"string","lastName":"string","email":"stringEEEEEEEEEEEEEEEEEEEEE@gmail.com","phoneNumber":"566854595","addresses":[]}]
+Headers = Content-Type:application/json; charset=utf-8
+
+
+*******Request Log*******
+IP = ::1
+Scheme = https
+Host = localhost:7167
+IsSecured = True
+Method = POST
+Query String = 
+Path = /api/User
+Body = {
+  "firstName": "ა",
+  "lastName": "ს",
+  "email": "string",
+  "phoneNumber": "string",
+  "addresses": [
+    {
+      "city": "string",
+      "coutry": "string",
+      "region": "string",
+      "description": "string"
+    }
+  ]
+}
+Request Time = 31.01.2023 14:00:57
+
+*******Response Log*******
+Content type = application/problem+json; charset=utf-8
+Status code = 400
+Body = {"type":"https://tools.ietf.org/html/rfc7231#section-6.5.1","title":"One or more validation errors occurred.","status":400,"traceId":"00-0dec56e5d117022df1391b10fce8f3ec-f1d3b6fa28a17c05-00","errors":{"Email":["იმეილი არასწორ ფორმატშია მოცემული"],"LastName":["გვარი უნდა შედგებოდეს მინიმუმ 2, მაქსიმუმ 30 სიმბოლოსგან"],"FirstName":["სახელი უნდა შედგებოდეს მინიმუმ 2, მაქსიმუმ 20 სიმბოლოსგან"],"PhoneNumber":["ტელეფნის ნომერი არასწორ ფორმატშია მოცემული"]}}
+Headers = Content-Type:application/problem+json; charset=utf-8
+
+
+*******Request Log*******
+IP = ::1
+Scheme = https
+Host = localhost:7167
+IsSecured = True
+Method = POST
+Query String = 
+Path = /api/User
+Body = {
+  "firstName": "ა",
+  "lastName": "ს",
+  "email": "string",
+  "phoneNumber": "string",
+  "addresses": [
+    {
+      "city": "s",
+      "coutry": "string",
+      "region": "string",
+      "description": "string"
+    }
+  ]
+}
+Request Time = 31.01.2023 14:01:20
+
+*******Response Log*******
+Content type = application/problem+json; charset=utf-8
+Status code = 400
+Body = {"type":"https://tools.ietf.org/html/rfc7231#section-6.5.1","title":"One or more validation errors occurred.","status":400,"traceId":"00-99fc27f8146a355611e45be861d6be2d-98d5d67b352d1706-00","errors":{"Email":["იმეილი არასწორ ფორმატშია მოცემული"],"LastName":["გვარი უნდა შედგებოდეს მინიმუმ 2, მაქსიმუმ 30 სიმბოლოსგან"],"FirstName":["სახელი უნდა შედგებოდეს მინიმუმ 2, მაქსიმუმ 20 სიმბოლოსგან"],"PhoneNumber":["ტელეფნის ნომერი არასწორ ფორმატშია მოცემული"]}}
+Headers = Content-Type:application/problem+json; charset=utf-8
+
+
+*******Request Log*******
+IP = ::1
+Scheme = https
+Host = localhost:7167
+IsSecured = True
+Method = POST
+Query String = 
+Path = /api/User
+Body = {
+  "firstName": "ა",
+  "lastName": "ს",
+  "email": "string",
+  "phoneNumber": "string",
+  "addresses": [
+    {
+      "city": "",
+      "coutry": "string",
+      "region": "string",
+      "description": "string"
+    }
+  ]
+}
+Request Time = 31.01.2023 14:01:34
+
+*******Response Log*******
+Content type = application/problem+json; charset=utf-8
+Status code = 400
+Body = {"type":"https://tools.ietf.org/html/rfc7231#section-6.5.1","title":"One or more validation errors occurred.","status":400,"traceId":"00-aa247e95c0aaf67e0fdcbc49fe467ea3-8bf346c81a939318-00","errors":{"Email":["იმეილი არასწორ ფორმატშია მოცემული"],"LastName":["გვარი უნდა შედგებოდეს მინიმუმ 2, მაქსიმუმ 30 სიმბოლოსგან"],"FirstName":["სახელი უნდა შედგებოდეს მინიმუმ 2, მაქსიმუმ 20 სიმბოლოსგან"],"PhoneNumber":["ტელეფნის ნომერი არასწორ ფორმატშია მოცემული"],"Addresses[0].City":["ქალაქის დასახელება არ უნდა იყოს ცარიელი და უნდა შედგებოდეს მაქსიმუმ 20 სიმბოლოსგან"]}}
+Headers = Content-Type:application/problem+json; charset=utf-8
+
+
+*******Request Log*******
+IP = ::1
+Scheme = https
+Host = localhost:7167
+IsSecured = True
+Method = POST
+Query String = 
+Path = /api/User
+Body = {
+  "firstName": "ა",
+  "lastName": "ს",
+  "email": "string",
+  "phoneNumber": "string",
+  "addresses": [
+    {
+      "coutry": "string",
+      "region": "string",
+      "description": "string"
+    }
+  ]
+}
+Request Time = 31.01.2023 14:03:23
+
+*******Request Log*******
+IP = ::1
+Scheme = https
+Host = localhost:7167
+IsSecured = True
+Method = POST
+Query String = 
+Path = /api/User
+Body = {
+  "firstName": "ა",
+  "lastName": "ს",
+  "email": "string",
+  "phoneNumber": "string",
+  "addresses": [
+    {
+      "coutry": "string",
+      "region": "string",
+      "description": "string"
+    }
+  ]
+}
+Request Time = 31.01.2023 14:04:57
+
+*******Request Log*******
+IP = ::1
+Scheme = https
+Host = localhost:7167
+IsSecured = True
+Method = POST
+Query String = 
+Path = /api/User
+Body = {
+  "firstName": "ა",
+  "lastName": "ს",
+  "email": "string",
+  "phoneNumber": "string",
+  "addresses": [
+    {
+      "city": "string",
+      "coutry": "string",
+      "region": "string",
+      "description": "string"
+    }
+  ]
+}
+Request Time = 31.01.2023 14:19:24
+
+*******Response Log*******
+Content type = application/problem+json; charset=utf-8
+Status code = 400
+Body = {"type":"https://tools.ietf.org/html/rfc7231#section-6.5.1","title":"One or more validation errors occurred.","status":400,"traceId":"00-8eceae3cc5d0524e3f1f3c0521bda147-a4ed5d251e3d78c7-00","errors":{"Email":["იმეილი არასწორ ფორმატშია მოცემული"],"LastName":["გვარი უნდა შედგებოდეს მინიმუმ 2, მაქსიმუმ 30 სიმბოლოსგან"],"FirstName":["სახელი უნდა შედგებოდეს მინიმუმ 2, მაქსიმუმ 20 სიმბოლოსგან"],"PhoneNumber":["ტელეფნის ნომერი არასწორ ფორმატშია მოცემული"]}}
+Headers = Content-Type:application/problem+json; charset=utf-8
+
+
+*******Request Log*******
+IP = ::1
+Scheme = https
+Host = localhost:7167
+IsSecured = True
+Method = POST
+Query String = 
+Path = /api/User
+Body = {
+  "firstName": "ა",
+  "lastName": "ს",
+  "email": "string",
+  "phoneNumber": "string",
+  "addresses": [
+    {
+      "city": "string",
+      "coutry": "string",
+      "region": "string",
+      "description": "string"
+    }
+  ]
+}
+Request Time = 31.01.2023 14:20:28
+
+*******Response Log*******
+Content type = application/problem+json; charset=utf-8
+Status code = 400
+Body = {"type":"https://tools.ietf.org/html/rfc7231#section-6.5.1","title":"One or more validation errors occurred.","status":400,"traceId":"00-399a2b0a292f855815c2c299c8ce0827-562d7087ae219407-00","errors":{"Email":["იმეილი არასწორ ფორმატშია მოცემული"],"LastName":["გვარი უნდა შედგებოდეს მინიმუმ 2, მაქსიმუმ 30 სიმბოლოსგან"],"FirstName":["სახელი უნდა შედგებოდეს მინიმუმ 2, მაქსიმუმ 20 სიმბოლოსგან"],"PhoneNumber":["ტელეფნის ნომერი არასწორ ფორმატშია მოცემული"]}}
+Headers = Content-Type:application/problem+json; charset=utf-8
+
+
+*******Request Log*******
+IP = ::1
+Scheme = https
+Host = localhost:7167
+IsSecured = True
+Method = POST
+Query String = 
+Path = /api/User
+Body = {
+  "firstName": "ანი",
+  "lastName": "სანიკიძე",
+  "email": "ani@gmail.com",
+  "phoneNumber": "578898586",
+  "addresses": [
+    {
+      "city": "string",
+      "coutry": "",
+      "region": "string",
+      "description": "string"
+    }
+  ]
+}
+Request Time = 31.01.2023 14:21:28
+
+*******Response Log*******
+Content type = application/problem+json; charset=utf-8
+Status code = 400
+Body = {"type":"https://tools.ietf.org/html/rfc7231#section-6.5.1","title":"One or more validation errors occurred.","status":400,"traceId":"00-ccb6137f3d3574e4141f6d7e8a88b6a1-f31672e9f3f618a4-00","errors":{"Addresses[0].Coutry":["ქვეყნის დასახელება არ უნდა იყოს ცარიელი და უნდა შედგებოდეს მაქსიმუმ 20 სიმბოლოსგან"]}}
+Headers = Content-Type:application/problem+json; charset=utf-8
+
+
+*******Request Log*******
+IP = ::1
+Scheme = https
+Host = localhost:7167
+IsSecured = True
+Method = POST
+Query String = 
+Path = /api/User
+Body = {
+  "firstName": "ანი",
+  "lastName": "სანიკიძე",
+  "email": "ani@gmail.com",
+  "phoneNumber": "578898586",
+  "addresses": [
+    {
+      "city": "თბილისი",
+      "coutry": "საქართველო",
+      "region": "თბილისი",
+      "description": "აღწერა..."
+    }
+  ]
+}
+Request Time = 31.01.2023 14:23:44
+
+*******Response Log*******
+Content type = application/json; charset=utf-8
+Status code = 200
+Body = {"id":28,"firstName":"ანი","lastName":"სანიკიძე","email":"ani@gmail.com","phoneNumber":"578898586","addresses":[{"id":21,"userId":28,"city":"თბილისი","coutry":"საქართველო","region":"თბილისი","description":"აღწერა..."}]}
+Headers = Content-Type:application/json; charset=utf-8
+
+
+*******Request Log*******
+IP = ::1
+Scheme = https
+Host = localhost:7167
+IsSecured = True
+Method = PUT
+Query String = 
+Path = /api/User/100
+Body = 
+Request Time = 31.01.2023 14:26:52
+
+*******Response Log*******
+Content type = 
+Status code = 405
+Body = 
+Headers = Allow:DELETE, GET
+
+
+*******Request Log*******
+IP = ::1
+Scheme = https
+Host = localhost:7167
+IsSecured = True
+Method = PUT
+Query String = 
+Path = /api/User/100
+Body = 
+Request Time = 31.01.2023 14:27:09
+
+*******Response Log*******
+Content type = 
+Status code = 405
+Body = 
+Headers = Allow:DELETE, GET
+
+
+*******Request Log*******
+IP = ::1
+Scheme = https
+Host = localhost:7167
+IsSecured = True
+Method = PUT
+Query String = 
+Path = /api/User/100
+Body = 
+Request Time = 31.01.2023 14:27:14
+
+*******Response Log*******
+Content type = 
+Status code = 405
+Body = 
+Headers = Allow:DELETE, GET
+
+
+*******Request Log*******
+IP = ::1
+Scheme = https
+Host = localhost:7167
+IsSecured = True
+Method = PUT
+Query String = 
+Path = /api/User/100
+Body = 
+Request Time = 31.01.2023 14:27:15
+
+*******Response Log*******
+Content type = 
+Status code = 405
+Body = 
+Headers = Allow:DELETE, GET
+
+
+*******Request Log*******
+IP = ::1
+Scheme = https
+Host = localhost:7167
+IsSecured = True
+Method = PUT
+Query String = 
+Path = /api/User/100
+Body = 
+Request Time = 31.01.2023 14:27:48
+
+*******Response Log*******
+Content type = 
+Status code = 405
+Body = 
+Headers = Allow:DELETE, GET
+
+
+*******Request Log*******
+IP = ::1
+Scheme = https
+Host = localhost:7167
+IsSecured = True
+Method = PUT
+Query String = 
+Path = /api/User/100
+Body = {
+  "firstName": "Updated firstName",
+  "lastName": "",
+  "email": "string",
+  "phoneNumber": "string",
+  "addresses": [
+    {
+      "city": "string",
+      "coutry": "string",
+      "region": "string",
+      "description": "string"
+    }
+  ]
+}
+Request Time = 31.01.2023 14:28:38
+
+*******Response Log*******
+Content type = 
+Status code = 405
+Body = 
+Headers = Allow:DELETE, GET
+
+
+*******Request Log*******
+IP = ::1
+Scheme = https
+Host = localhost:7167
+IsSecured = True
+Method = PUT
+Query String = ?id=100
+Path = /api/User
+Body = {
+  "firstName": "string",
+  "lastName": "string",
+  "email": "string",
+  "phoneNumber": "string",
+  "addresses": [
+    {
+      "city": "string",
+      "coutry": "string",
+      "region": "string",
+      "description": "string"
+    }
+  ]
+}
+Request Time = 31.01.2023 14:29:34
+
+*******Response Log*******
+Content type = application/problem+json; charset=utf-8
+Status code = 400
+Body = {"type":"https://tools.ietf.org/html/rfc7231#section-6.5.1","title":"One or more validation errors occurred.","status":400,"traceId":"00-e22a002e91243264add549ef318b6371-d5ffedb2bf1cbba6-00","errors":{"Email":["Invalid email format"],"PhoneNumber":["Invalid phone number format"]}}
+Headers = Content-Type:application/problem+json; charset=utf-8
+
+
+*******Request Log*******
+IP = ::1
+Scheme = https
+Host = localhost:7167
+IsSecured = True
+Method = PUT
+Query String = 
+Path = /api/User/100
+Body = {
+  "firstName": "string",
+  "lastName": "string",
+  "email": "string",
+  "phoneNumber": "string",
+  "addresses": [
+    {
+      "city": "string",
+      "coutry": "string",
+      "region": "string",
+      "description": "string"
+    }
+  ]
+}
+Request Time = 31.01.2023 14:33:13
+
+*******Response Log*******
+Content type = application/problem+json; charset=utf-8
+Status code = 400
+Body = {"type":"https://tools.ietf.org/html/rfc7231#section-6.5.1","title":"One or more validation errors occurred.","status":400,"traceId":"00-00ebac9917b51e3c2581a0689da3e970-69cdaba8a44e258a-00","errors":{"Email":["Invalid email format"],"PhoneNumber":["Invalid phone number format"]}}
+Headers = Content-Type:application/problem+json; charset=utf-8
+
+
+*******Request Log*******
+IP = ::1
+Scheme = https
+Host = localhost:7167
+IsSecured = True
+Method = PUT
+Query String = 
+Path = /api/User/100
+Body = {
+  "firstName": "string",
+  "lastName": "string",
+  "email": "aani@gmail.com",
+  "phoneNumber": "577051420",
+  "addresses": [
+    {
+      "city": "string",
+      "coutry": "string",
+      "region": "string",
+      "description": "string"
+    }
+  ]
+}
+Request Time = 31.01.2023 14:33:36
+
+*******Request Log*******
+IP = ::1
+Scheme = https
+Host = localhost:7167
+IsSecured = True
+Method = PUT
+Query String = 
+Path = /api/User/100
+Body = {
+  "firstName": "Updated firstName",
+  "lastName": "",
+  "email": "string",
+  "phoneNumber": "string",
+  "addresses": [
+    {
+      "city": "string",
+      "coutry": "string",
+      "region": "string",
+      "description": "string"
+    }
+  ]
+}
+Request Time = 31.01.2023 14:34:10
+
+*******Response Log*******
+Content type = application/problem+json; charset=utf-8
+Status code = 400
+Body = {"type":"https://tools.ietf.org/html/rfc7231#section-6.5.1","title":"One or more validation errors occurred.","status":400,"traceId":"00-29335dff9a4bb2b2ff53bda4472cd7a7-c236f87f86e1804b-00","errors":{"Email":["იმეილი არასწორ ფორმატშია მოცემული"],"LastName":["გვარი უნდა შედგებოდეს მინიმუმ 2, მაქსიმუმ 30 სიმბოლოსგან"],"PhoneNumber":["ტელეფნის ნომერი არასწორ ფორმატშია მოცემული"]}}
+Headers = Content-Type:application/problem+json; charset=utf-8
+
+
+*******Request Log*******
+IP = ::1
+Scheme = https
+Host = localhost:7167
+IsSecured = True
+Method = PUT
+Query String = 
+Path = /api/User/100
+Body = {
+  "firstName": "Updated firstName",
+  "lastName": "Updated lastName",
+  "email": "updatedUser@gmail.com",
+  "phoneNumber": "577585945"
+}
+Request Time = 31.01.2023 14:37:08
+
+*******Request Log*******
+IP = ::1
+Scheme = https
+Host = localhost:7167
+IsSecured = True
+Method = PUT
+Query String = 
+Path = /api/User/1
+Body = {
+  "firstName": "Updated firstName",
+  "lastName": "Updated lastName",
+  "email": "updatedUser@gmail.com",
+  "phoneNumber": "577585945"
+}
+Request Time = 31.01.2023 14:37:25
+
+*******Request Log*******
+IP = ::1
+Scheme = https
+Host = localhost:7167
+IsSecured = True
+Method = PUT
+Query String = 
+Path = /api/User/1
+Body = {
+  "firstName": "Updated firstName",
+  "lastName": "Updated lastName",
+  "email": "updatedUser@gmail.com",
+  "phoneNumber": "577585945"
+}
+Request Time = 31.01.2023 14:38:28
+
+*******Request Log*******
+IP = ::1
+Scheme = https
+Host = localhost:7167
+IsSecured = True
+Method = PUT
+Query String = 
+Path = /api/User/1
+Body = {
+  "firstName": "Updated firstName",
+  "lastName": "Updated lastName",
+  "email": "updatedUser@gmail.com",
+  "phoneNumber": "577585945"
+}
+Request Time = 31.01.2023 14:40:46
+
+*******Request Log*******
+IP = ::1
+Scheme = https
+Host = localhost:7167
+IsSecured = True
+Method = PUT
+Query String = 
+Path = /api/User/1
+Body = {
+  "firstName": "Updated firstName",
+  "lastName": "Updated lastName",
+  "email": "updatedUser@gmail.com",
+  "phoneNumber": "577585945"
+}
+Request Time = 31.01.2023 14:43:30
+
+*******Request Log*******
+IP = ::1
+Scheme = https
+Host = localhost:7167
+IsSecured = True
+Method = PUT
+Query String = 
+Path = /api/User/1
+Body = {
+  "firstName": "string",
+  "lastName": "string",
+  "email": "string",
+  "phoneNumber": "string"
+}
+Request Time = 31.01.2023 14:45:24
+
+*******Request Log*******
+IP = ::1
+Scheme = https
+Host = localhost:7167
+IsSecured = True
+Method = PUT
+Query String = 
+Path = /api/User/1
+Body = {
+  "firstName": "string",
+  "lastName": "string",
+  "email": "string",
+  "phoneNumber": "string"
+}
+Request Time = 31.01.2023 14:46:39
+
+*******Request Log*******
+IP = ::1
+Scheme = https
+Host = localhost:7167
+IsSecured = True
+Method = PUT
+Query String = 
+Path = /api/User/1
+Body = {
+  "firstName": "string",
+  "lastName": "string",
+  "email": "string",
+  "phoneNumber": "string"
+}
+Request Time = 31.01.2023 14:48:37
+
+*******Response Log*******
+Content type = application/json; charset=utf-8
+Status code = 200
+Body = {"id":1,"firstName":"string","lastName":"string","email":"string","phoneNumber":"string","addresses":null}
+Headers = Content-Type:application/json; charset=utf-8
+
+
+*******Request Log*******
+IP = ::1
+Scheme = https
+Host = localhost:7167
+IsSecured = True
+Method = GET
+Query String = 
+Path = /api/User/5
+Body = {
+  "firstName": "s",
+  "lastName": "string",
+  "email": "string",
+  "phoneNumber": "string",
+  "addresses": []
+}
+Request Time = 01.02.2023 02:32:29
+
+*******Response Log*******
+Content type = application/json; charset=utf-8
+Status code = 200
+Body = {"id":5,"firstName":"string","lastName":"string","email":"string","phoneNumber":"string","addresses":[{"id":3,"userId":5,"city":"Prague","coutry":"Czech Republic","region":"shfbj","description":"string"},{"id":4,"userId":5,"city":"string","coutry":"string","region":"string","description":"string"}]}
+Headers = Content-Type:application/json; charset=utf-8
+
+
+*******Request Log*******
+IP = ::1
+Scheme = https
+Host = localhost:7167
+IsSecured = True
+Method = PUT
+Query String = 
+Path = /api/User/5
+Body = {
+  "firstName": "Updated firstName",
+  "lastName": "Updated lastName",
+  "email": "updatedUser@gmail.com",
+  "phoneNumber": "577585945"
+}
+Request Time = 01.02.2023 02:32:44
+
+*******Response Log*******
+Content type = application/json; charset=utf-8
+Status code = 200
+Body = {"id":5,"firstName":"Updated firstName","lastName":"Updated lastName","email":"updatedUser@gmail.com","phoneNumber":"577585945","addresses":null}
+Headers = Content-Type:application/json; charset=utf-8
+
+
+*******Request Log*******
+IP = ::1
+Scheme = https
+Host = localhost:7167
+IsSecured = True
+Method = GET
+Query String = 
+Path = /api/User/5
+Body = {
+  "firstName": "s",
+  "lastName": "string",
+  "email": "string",
+  "phoneNumber": "string",
+  "addresses": []
+}
+Request Time = 01.02.2023 02:45:34
+
+*******Response Log*******
+Content type = application/json; charset=utf-8
+Status code = 200
+Body = {"id":5,"firstName":"Updated firstName","lastName":"Updated lastName","email":"updatedUser@gmail.com","phoneNumber":"577585945","addresses":[{"id":3,"userId":5,"city":"Prague","coutry":"Czech Republic","region":"shfbj","description":"string"},{"id":4,"userId":5,"city":"string","coutry":"string","region":"string","description":"string"}]}
+Headers = Content-Type:application/json; charset=utf-8
+
+
+*******Request Log*******
+IP = ::1
+Scheme = https
+Host = localhost:7167
+IsSecured = True
+Method = DELETE
+Query String = 
+Path = /api/User/5
+Body = 
+Request Time = 01.02.2023 02:46:32
+
+*******Response Log*******
+Content type = 
+Status code = 204
+Body = 
+Headers = 
+
+*******Request Log*******
+IP = ::1
+Scheme = https
+Host = localhost:7167
+IsSecured = True
+Method = GET
+Query String = 
+Path = /api/Address
+Body = 
+Request Time = 01.02.2023 02:48:04
+
+*******Response Log*******
+Content type = application/json; charset=utf-8
+Status code = 200
+Body = [{"id":2,"userId":2,"city":"Mcxeta","coutry":"georgia","region":"Mcetamtianeti","description":"ajhvdajvd"},{"id":3,"userId":5,"city":"Prague","coutry":"Czech Republic","region":"shfbj","description":"string"},{"id":4,"userId":5,"city":"string","coutry":"string","region":"string","description":"string"},{"id":5,"userId":6,"city":"Tblisi","coutry":"Goergia","region":"Goergia","description":"sdhbjshb..."},{"id":6,"userId":7,"city":"Tblisi","coutry":"Goergia","region":"Goergia","description":"sdhbjshb..."},{"id":7,"userId":8,"city":"Tblisi","coutry":"Goergia","region":"Goergia","description":"sdhbjshb..."},{"id":8,"userId":9,"city":"Tblisi","coutry":"Goergia","region":"Goergia","description":"sdhbjshb..."},{"id":9,"userId":10,"city":"Tblisi","coutry":"Goergia","region":"Goergia","description":"sdhbjshb..."},{"id":10,"userId":11,"city":"Tblisi","coutry":"Goergia","region":"Goergia","description":"sdhbjshb..."},{"id":11,"userId":12,"city":"Tblisi","coutry":"Goergia","region":"Goergia","description":"sdhbjshb..."},{"id":12,"userId":13,"city":"Tblisi","coutry":"Goergia","region":"Goergia","description":"sdhbjshb..."},{"id":13,"userId":14,"city":"Tblisi","coutry":"Goergia","region":"Goergia","description":"sdhbjshb..."},{"id":14,"userId":15,"city":"TblisiAniko","coutry":"GoergiaAniko","region":"GoergiaAniko","description":"sdhbjshb..."},{"id":15,"userId":16,"city":"Tblisi","coutry":"Goergia","region":"Goergia","description":"sdhbjshb..."},{"id":16,"userId":17,"city":"Tblisi","coutry":"Goergia","region":"Goergia","description":"sdhbjshb..."},{"id":17,"userId":18,"city":"Tblisi","coutry":"Goergia","region":"Goergia","description":"sdhbjshb..."},{"id":18,"userId":19,"city":"Tblisi","coutry":"Goergia","region":"Goergia","description":"sdhbjshb..."},{"id":19,"userId":24,"city":"string","coutry":"string","region":"string","description":"string"},{"id":20,"userId":25,"city":"string","coutry":"string","region":"string","description":"string"},{"id":21,"userId":28,"city":"თბილისი","coutry":"საქართველო","region":"თბილისი","description":"აღწერა..."}]
+Headers = Content-Type:application/json; charset=utf-8
+
+
+*******Request Log*******
+IP = ::1
+Scheme = https
+Host = localhost:7167
+IsSecured = True
+Method = GET
+Query String = 
+Path = /api/Address
+Body = {
+  "firstName": "s",
+  "lastName": "string",
+  "email": "string",
+  "phoneNumber": "string",
+  "addresses": []
+}
+Request Time = 01.02.2023 02:48:42
+
+*******Response Log*******
+Content type = application/json; charset=utf-8
+Status code = 200
+Body = [{"id":2,"userId":2,"city":"Mcxeta","coutry":"georgia","region":"Mcetamtianeti","description":"ajhvdajvd"},{"id":3,"userId":5,"city":"Prague","coutry":"Czech Republic","region":"shfbj","description":"string"},{"id":4,"userId":5,"city":"string","coutry":"string","region":"string","description":"string"},{"id":5,"userId":6,"city":"Tblisi","coutry":"Goergia","region":"Goergia","description":"sdhbjshb..."},{"id":6,"userId":7,"city":"Tblisi","coutry":"Goergia","region":"Goergia","description":"sdhbjshb..."},{"id":7,"userId":8,"city":"Tblisi","coutry":"Goergia","region":"Goergia","description":"sdhbjshb..."},{"id":8,"userId":9,"city":"Tblisi","coutry":"Goergia","region":"Goergia","description":"sdhbjshb..."},{"id":9,"userId":10,"city":"Tblisi","coutry":"Goergia","region":"Goergia","description":"sdhbjshb..."},{"id":10,"userId":11,"city":"Tblisi","coutry":"Goergia","region":"Goergia","description":"sdhbjshb..."},{"id":11,"userId":12,"city":"Tblisi","coutry":"Goergia","region":"Goergia","description":"sdhbjshb..."},{"id":12,"userId":13,"city":"Tblisi","coutry":"Goergia","region":"Goergia","description":"sdhbjshb..."},{"id":13,"userId":14,"city":"Tblisi","coutry":"Goergia","region":"Goergia","description":"sdhbjshb..."},{"id":14,"userId":15,"city":"TblisiAniko","coutry":"GoergiaAniko","region":"GoergiaAniko","description":"sdhbjshb..."},{"id":15,"userId":16,"city":"Tblisi","coutry":"Goergia","region":"Goergia","description":"sdhbjshb..."},{"id":16,"userId":17,"city":"Tblisi","coutry":"Goergia","region":"Goergia","description":"sdhbjshb..."},{"id":17,"userId":18,"city":"Tblisi","coutry":"Goergia","region":"Goergia","description":"sdhbjshb..."},{"id":18,"userId":19,"city":"Tblisi","coutry":"Goergia","region":"Goergia","description":"sdhbjshb..."},{"id":19,"userId":24,"city":"string","coutry":"string","region":"string","description":"string"},{"id":20,"userId":25,"city":"string","coutry":"string","region":"string","description":"string"},{"id":21,"userId":28,"city":"თბილისი","coutry":"საქართველო","region":"თბილისი","description":"აღწერა..."}]
+Headers = Content-Type:application/json; charset=utf-8
+
+
+*******Request Log*******
+IP = ::1
+Scheme = https
+Host = localhost:7167
+IsSecured = True
+Method = GET
+Query String = 
+Path = /api/Addr
+Body = 
+Request Time = 01.02.2023 02:49:13
+
+*******Response Log*******
+Content type = 
+Status code = 404
+Body = 
+Headers = 
+
+*******Request Log*******
+IP = ::1
+Scheme = https
+Host = localhost:7167
+IsSecured = True
+Method = GET
+Query String = 
+Path = /api/Addr
+Body = 
+Request Time = 01.02.2023 02:49:16
+
+*******Response Log*******
+Content type = 
+Status code = 404
+Body = 
+Headers = 
+
+*******Request Log*******
+IP = ::1
+Scheme = https
+Host = localhost:7167
+IsSecured = True
+Method = GET
+Query String = 
+Path = /api/Address
+Body = 
+Request Time = 01.02.2023 02:49:23
+
+*******Response Log*******
+Content type = application/json; charset=utf-8
+Status code = 200
+Body = [{"id":2,"userId":2,"city":"Mcxeta","coutry":"georgia","region":"Mcetamtianeti","description":"ajhvdajvd"},{"id":3,"userId":5,"city":"Prague","coutry":"Czech Republic","region":"shfbj","description":"string"},{"id":4,"userId":5,"city":"string","coutry":"string","region":"string","description":"string"},{"id":5,"userId":6,"city":"Tblisi","coutry":"Goergia","region":"Goergia","description":"sdhbjshb..."},{"id":6,"userId":7,"city":"Tblisi","coutry":"Goergia","region":"Goergia","description":"sdhbjshb..."},{"id":7,"userId":8,"city":"Tblisi","coutry":"Goergia","region":"Goergia","description":"sdhbjshb..."},{"id":8,"userId":9,"city":"Tblisi","coutry":"Goergia","region":"Goergia","description":"sdhbjshb..."},{"id":9,"userId":10,"city":"Tblisi","coutry":"Goergia","region":"Goergia","description":"sdhbjshb..."},{"id":10,"userId":11,"city":"Tblisi","coutry":"Goergia","region":"Goergia","description":"sdhbjshb..."},{"id":11,"userId":12,"city":"Tblisi","coutry":"Goergia","region":"Goergia","description":"sdhbjshb..."},{"id":12,"userId":13,"city":"Tblisi","coutry":"Goergia","region":"Goergia","description":"sdhbjshb..."},{"id":13,"userId":14,"city":"Tblisi","coutry":"Goergia","region":"Goergia","description":"sdhbjshb..."},{"id":14,"userId":15,"city":"TblisiAniko","coutry":"GoergiaAniko","region":"GoergiaAniko","description":"sdhbjshb..."},{"id":15,"userId":16,"city":"Tblisi","coutry":"Goergia","region":"Goergia","description":"sdhbjshb..."},{"id":16,"userId":17,"city":"Tblisi","coutry":"Goergia","region":"Goergia","description":"sdhbjshb..."},{"id":17,"userId":18,"city":"Tblisi","coutry":"Goergia","region":"Goergia","description":"sdhbjshb..."},{"id":18,"userId":19,"city":"Tblisi","coutry":"Goergia","region":"Goergia","description":"sdhbjshb..."},{"id":19,"userId":24,"city":"string","coutry":"string","region":"string","description":"string"},{"id":20,"userId":25,"city":"string","coutry":"string","region":"string","description":"string"},{"id":21,"userId":28,"city":"თბილისი","coutry":"საქართველო","region":"თბილისი","description":"აღწერა..."}]
+Headers = Content-Type:application/json; charset=utf-8
+
+
+*******Request Log*******
+IP = ::1
+Scheme = https
+Host = localhost:7167
+IsSecured = True
+Method = GET
+Query String = 
+Path = /api/Address/5
+Body = {
+  "firstName": "s",
+  "lastName": "string",
+  "email": "string",
+  "phoneNumber": "string",
+  "addresses": []
+}
+Request Time = 01.02.2023 02:49:37
+
+*******Response Log*******
+Content type = application/json; charset=utf-8
+Status code = 200
+Body = {"id":5,"userId":6,"city":"Tblisi","coutry":"Goergia","region":"Goergia","description":"sdhbjshb..."}
+Headers = Content-Type:application/json; charset=utf-8
+
+
+*******Request Log*******
+IP = ::1
+Scheme = https
+Host = localhost:7167
+IsSecured = True
+Method = POST
+Query String = 
+Path = /api/Address
+Body = {
+  "userId":10,
+  "city": "vinna",
+  "coutry": "austria",
+  "region": "region...",
+  "description": "desc"
+}
+Request Time = 01.02.2023 03:02:36
+
+*******Request Log*******
+IP = ::1
+Scheme = https
+Host = localhost:7167
+IsSecured = True
+Method = POST
+Query String = 
+Path = /api/Address
+Body = {
+  "userId":10,
+  "city": "vinna",
+  "coutry": "austria",
+  "region": "region...",
+  "description": "desc"
+}
+Request Time = 01.02.2023 03:03:11
+
+*******Request Log*******
+IP = ::1
+Scheme = https
+Host = localhost:7167
+IsSecured = True
+Method = POST
+Query String = 
+Path = /api/Address
+Body = {
+  "userId":10,
+  "city": "vinna",
+  "coutry": "austria",
+  "region": "region...",
+  "description": "desc"
+}
+Request Time = 01.02.2023 03:04:42
+
+*******Request Log*******
+IP = ::1
+Scheme = https
+Host = localhost:7167
+IsSecured = True
+Method = POST
+Query String = 
+Path = /api/Address
+Body = {
+  "userId":10,
+  "city": "vinna",
+  "coutry": "austria",
+  "region": "region...",
+  "description": "desc"
+}
+Request Time = 01.02.2023 03:13:23
+
+*******Response Log*******
+Content type = application/json; charset=utf-8
+Status code = 200
+Body = {"id":25,"userId":10,"city":"vinna","coutry":"austria","region":"region...","description":"desc"}
+Headers = Content-Type:application/json; charset=utf-8
+
+
+*******Request Log*******
+IP = ::1
+Scheme = https
+Host = localhost:7167
+IsSecured = True
+Method = POST
+Query String = 
+Path = /api/Address
+Body = {
+  "userId":10,
+  "city": "",
+  "coutry": "Austria",
+  "region": "region...",
+  "description": "desc"
+}
+Request Time = 01.02.2023 09:15:56
+
+*******Response Log*******
+Content type = application/problem+json; charset=utf-8
+Status code = 400
+Body = {"type":"https://tools.ietf.org/html/rfc7231#section-6.5.1","title":"One or more validation errors occurred.","status":400,"traceId":"00-19969489ebca587f0f3a98be1e4781a0-afd3d54042f20e92-00","errors":{"City":["ქალაქის დასახელება არ უნდა იყოს ცარიელი და უნდა შედგებოდეს მაქსიმუმ 20 სიმბოლოსგან"]}}
+Headers = Content-Type:application/problem+json; charset=utf-8
+
+
+*******Request Log*******
+IP = ::1
+Scheme = https
+Host = localhost:7167
+IsSecured = True
+Method = POST
+Query String = 
+Path = /api/Address
+Body = {
+  "userId":10,
+  "city": "Viennaaaaaaaaaaaaaaaaaaaaaaa",
+  "coutry": "Austria",
+  "region": "region...",
+  "description": "desc"
+}
+Request Time = 01.02.2023 09:16:20
+
+*******Response Log*******
+Content type = application/problem+json; charset=utf-8
+Status code = 400
+Body = {"type":"https://tools.ietf.org/html/rfc7231#section-6.5.1","title":"One or more validation errors occurred.","status":400,"traceId":"00-2d4d58bc15734d656294b5da404c9977-9ab23415e79336db-00","errors":{"City":["ქალაქის დასახელება არ უნდა იყოს ცარიელი და უნდა შედგებოდეს მაქსიმუმ 20 სიმბოლოსგან"]}}
+Headers = Content-Type:application/problem+json; charset=utf-8
+
+
+*******Request Log*******
+IP = ::1
+Scheme = https
+Host = localhost:7167
+IsSecured = True
+Method = GET
+Query String = 
+Path = /api/User/10
+Body = 
+Request Time = 01.02.2023 09:17:55
+
+*******Response Log*******
+Content type = application/json; charset=utf-8
+Status code = 200
+Body = {"id":10,"firstName":"ani","lastName":"Sani","email":"anni.sanikidze@gmail.com","phoneNumber":"577051420","addresses":[{"id":9,"userId":10,"city":"Tblisi","coutry":"Goergia","region":"Goergia","description":"sdhbjshb..."},{"id":22,"userId":10,"city":"vinna","coutry":"austria","region":"region...","description":"desc"},{"id":23,"userId":10,"city":"vinna","coutry":"austria","region":"region...","description":"desc"},{"id":24,"userId":10,"city":"vinna","coutry":"austria","region":"region...","description":"desc"},{"id":25,"userId":10,"city":"vinna","coutry":"austria","region":"region...","description":"desc"}]}
+Headers = Content-Type:application/json; charset=utf-8
+
+
+*******Request Log*******
+IP = ::1
+Scheme = https
+Host = localhost:7167
+IsSecured = True
+Method = POST
+Query String = 
+Path = /api/Address
+Body = {
+  "userId":10,
+  "city": "ViennaUpdated",
+  "coutry": "Austria",
+  "region": "region...",
+  "description": "desc"
+}
+Request Time = 01.02.2023 09:18:50
+
+*******Response Log*******
+Content type = application/json; charset=utf-8
+Status code = 200
+Body = {"id":26,"userId":10,"city":"ViennaUpdated","coutry":"Austria","region":"region...","description":"desc"}
+Headers = Content-Type:application/json; charset=utf-8
+
+
+*******Request Log*******
+IP = ::1
+Scheme = https
+Host = localhost:7167
+IsSecured = True
+Method = GET
+Query String = 
+Path = /api/User/10
+Body = 
+Request Time = 01.02.2023 09:19:12
+
+*******Response Log*******
+Content type = application/json; charset=utf-8
+Status code = 200
+Body = {"id":10,"firstName":"ani","lastName":"Sani","email":"anni.sanikidze@gmail.com","phoneNumber":"577051420","addresses":[{"id":9,"userId":10,"city":"Tblisi","coutry":"Goergia","region":"Goergia","description":"sdhbjshb..."},{"id":22,"userId":10,"city":"vinna","coutry":"austria","region":"region...","description":"desc"},{"id":23,"userId":10,"city":"vinna","coutry":"austria","region":"region...","description":"desc"},{"id":24,"userId":10,"city":"vinna","coutry":"austria","region":"region...","description":"desc"},{"id":25,"userId":10,"city":"vinna","coutry":"austria","region":"region...","description":"desc"},{"id":26,"userId":10,"city":"ViennaUpdated","coutry":"Austria","region":"region...","description":"desc"}]}
+Headers = Content-Type:application/json; charset=utf-8
+
+
+*******Request Log*******
+IP = ::1
+Scheme = https
+Host = localhost:7167
+IsSecured = True
+Method = POST
+Query String = 
+Path = /api/Address
+Body = {
+  "userId":100,
+  "city": "ViennaUpdated",
+  "coutry": "Austria",
+  "region": "region...",
+  "description": "desc"
+}
+Request Time = 01.02.2023 09:19:44
+
+*******Request Log*******
+IP = ::1
+Scheme = https
+Host = localhost:7167
+IsSecured = True
+Method = POST
+Query String = 
+Path = /api/Address
+Body = {
+  "userId": 100,
+  "city": "string",
+  "coutry": "string",
+  "region": "string",
+  "description": "string"
+}
+Request Time = 01.02.2023 09:21:24
+
+*******Request Log*******
+IP = ::1
+Scheme = https
+Host = localhost:7167
+IsSecured = True
+Method = POST
+Query String = 
+Path = /api/Address
+Body = {
+  "userId": 10,
+  "city": "string",
+  "coutry": "string",
+  "region": "string",
+  "description": "string"
+}
+Request Time = 01.02.2023 09:21:54
+
+*******Response Log*******
+Content type = application/json; charset=utf-8
+Status code = 200
+Body = {"id":27,"userId":10,"city":"string","coutry":"string","region":"string","description":"string"}
+Headers = Content-Type:application/json; charset=utf-8
+
+
+*******Request Log*******
+IP = ::1
+Scheme = https
+Host = localhost:7167
+IsSecured = True
+Method = POST
+Query String = 
+Path = /api/Address
+Body = {
+  "userId": 11,
+  "city": "string",
+  "coutry": "string",
+  "region": "string",
+  "description": "string"
+}
+Request Time = 01.02.2023 09:22:21
+
+*******Response Log*******
+Content type = application/json; charset=utf-8
+Status code = 200
+Body = {"id":28,"userId":11,"city":"string","coutry":"string","region":"string","description":"string"}
+Headers = Content-Type:application/json; charset=utf-8
+
+
+*******Request Log*******
+IP = ::1
+Scheme = https
+Host = localhost:7167
+IsSecured = True
+Method = GET
+Query String = 
+Path = /api/User/11
+Body = 
+Request Time = 01.02.2023 09:22:42
+
+*******Response Log*******
+Content type = application/json; charset=utf-8
+Status code = 200
+Body = {"id":11,"firstName":"ani","lastName":"Sani","email":"anni.sanikidze@gmail.com","phoneNumber":"577051420","addresses":[{"id":10,"userId":11,"city":"Tblisi","coutry":"Goergia","region":"Goergia","description":"sdhbjshb..."},{"id":28,"userId":11,"city":"string","coutry":"string","region":"string","description":"string"}]}
+Headers = Content-Type:application/json; charset=utf-8
+
+
+*******Request Log*******
+IP = ::1
+Scheme = https
+Host = localhost:7167
+IsSecured = True
+Method = GET
+Query String = 
+Path = /api/User/10
+Body = 
+Request Time = 01.02.2023 09:22:53
+
+*******Response Log*******
+Content type = application/json; charset=utf-8
+Status code = 200
+Body = {"id":10,"firstName":"ani","lastName":"Sani","email":"anni.sanikidze@gmail.com","phoneNumber":"577051420","addresses":[{"id":9,"userId":10,"city":"Tblisi","coutry":"Goergia","region":"Goergia","description":"sdhbjshb..."},{"id":22,"userId":10,"city":"vinna","coutry":"austria","region":"region...","description":"desc"},{"id":23,"userId":10,"city":"vinna","coutry":"austria","region":"region...","description":"desc"},{"id":24,"userId":10,"city":"vinna","coutry":"austria","region":"region...","description":"desc"},{"id":25,"userId":10,"city":"vinna","coutry":"austria","region":"region...","description":"desc"},{"id":26,"userId":10,"city":"ViennaUpdated","coutry":"Austria","region":"region...","description":"desc"},{"id":27,"userId":10,"city":"string","coutry":"string","region":"string","description":"string"}]}
+Headers = Content-Type:application/json; charset=utf-8
+
+
+*******Request Log*******
+IP = ::1
+Scheme = https
+Host = localhost:7167
+IsSecured = True
+Method = GET
+Query String = 
+Path = /api/Address
+Body = 
+Request Time = 01.02.2023 09:23:47
+
+*******Response Log*******
+Content type = application/json; charset=utf-8
+Status code = 200
+Body = [{"id":2,"userId":2,"city":"Mcxeta","coutry":"georgia","region":"Mcetamtianeti","description":"ajhvdajvd"},{"id":3,"userId":5,"city":"Prague","coutry":"Czech Republic","region":"shfbj","description":"string"},{"id":4,"userId":5,"city":"string","coutry":"string","region":"string","description":"string"},{"id":5,"userId":6,"city":"Tblisi","coutry":"Goergia","region":"Goergia","description":"sdhbjshb..."},{"id":6,"userId":7,"city":"Tblisi","coutry":"Goergia","region":"Goergia","description":"sdhbjshb..."},{"id":7,"userId":8,"city":"Tblisi","coutry":"Goergia","region":"Goergia","description":"sdhbjshb..."},{"id":8,"userId":9,"city":"Tblisi","coutry":"Goergia","region":"Goergia","description":"sdhbjshb..."},{"id":9,"userId":10,"city":"Tblisi","coutry":"Goergia","region":"Goergia","description":"sdhbjshb..."},{"id":10,"userId":11,"city":"Tblisi","coutry":"Goergia","region":"Goergia","description":"sdhbjshb..."},{"id":11,"userId":12,"city":"Tblisi","coutry":"Goergia","region":"Goergia","description":"sdhbjshb..."},{"id":12,"userId":13,"city":"Tblisi","coutry":"Goergia","region":"Goergia","description":"sdhbjshb..."},{"id":13,"userId":14,"city":"Tblisi","coutry":"Goergia","region":"Goergia","description":"sdhbjshb..."},{"id":14,"userId":15,"city":"TblisiAniko","coutry":"GoergiaAniko","region":"GoergiaAniko","description":"sdhbjshb..."},{"id":15,"userId":16,"city":"Tblisi","coutry":"Goergia","region":"Goergia","description":"sdhbjshb..."},{"id":16,"userId":17,"city":"Tblisi","coutry":"Goergia","region":"Goergia","description":"sdhbjshb..."},{"id":17,"userId":18,"city":"Tblisi","coutry":"Goergia","region":"Goergia","description":"sdhbjshb..."},{"id":18,"userId":19,"city":"Tblisi","coutry":"Goergia","region":"Goergia","description":"sdhbjshb..."},{"id":19,"userId":24,"city":"string","coutry":"string","region":"string","description":"string"},{"id":20,"userId":25,"city":"string","coutry":"string","region":"string","description":"string"},{"id":21,"userId":28,"city":"თბილისი","coutry":"საქართველო","region":"თბილისი","description":"აღწერა..."},{"id":22,"userId":10,"city":"vinna","coutry":"austria","region":"region...","description":"desc"},{"id":23,"userId":10,"city":"vinna","coutry":"austria","region":"region...","description":"desc"},{"id":24,"userId":10,"city":"vinna","coutry":"austria","region":"region...","description":"desc"},{"id":25,"userId":10,"city":"vinna","coutry":"austria","region":"region...","description":"desc"},{"id":26,"userId":10,"city":"ViennaUpdated","coutry":"Austria","region":"region...","description":"desc"},{"id":27,"userId":10,"city":"string","coutry":"string","region":"string","description":"string"},{"id":28,"userId":11,"city":"string","coutry":"string","region":"string","description":"string"}]
+Headers = Content-Type:application/json; charset=utf-8
+
+
+*******Request Log*******
+IP = ::1
+Scheme = https
+Host = localhost:7167
+IsSecured = True
+Method = POST
+Query String = 
+Path = /api/Address
+Body = {
+  "userId":100,
+  "city": "Vienna",
+  "coutry": "Austria",
+  "region": "region...",
+  "description": "desc"
+}
+Request Time = 01.02.2023 09:24:11
+
+*******Request Log*******
+IP = ::1
+Scheme = https
+Host = localhost:7167
+IsSecured = True
+Method = POST
+Query String = 
+Path = /api/Address
+Body = {
+  "userId":10,
+  "city": "ViennaFinal",
+  "coutry": "Austria",
+  "region": "region...",
+  "description": "desc"
+}
+Request Time = 01.02.2023 09:24:34
+
+*******Response Log*******
+Content type = application/json; charset=utf-8
+Status code = 200
+Body = {"id":29,"userId":10,"city":"ViennaFinal","coutry":"Austria","region":"region...","description":"desc"}
+Headers = Content-Type:application/json; charset=utf-8
+
+
+*******Request Log*******
+IP = ::1
+Scheme = https
+Host = localhost:7167
+IsSecured = True
+Method = GET
+Query String = 
+Path = /api/Address/25
+Body = {
+  "firstName": "s",
+  "lastName": "string",
+  "email": "string",
+  "phoneNumber": "string",
+  "addresses": []
+}
+Request Time = 01.02.2023 09:26:16
+
+*******Response Log*******
+Content type = application/json; charset=utf-8
+Status code = 200
+Body = {"id":25,"userId":10,"city":"vinna","coutry":"austria","region":"region...","description":"desc"}
+Headers = Content-Type:application/json; charset=utf-8
+
+
+*******Request Log*******
+IP = ::1
+Scheme = https
+Host = localhost:7167
+IsSecured = True
+Method = PUT
+Query String = 
+Path = /api/Address/25
+Body = {
+  "userId": 14,
+  "city": "stringFor14",
+  "coutry": "string",
+  "region": "string",
+  "description": "string"
+}
+Request Time = 01.02.2023 09:26:40
+
+*******Response Log*******
+Content type = application/json; charset=utf-8
+Status code = 200
+Body = {"id":25,"userId":14,"city":"stringFor14","coutry":"string","region":"string","description":"string"}
+Headers = Content-Type:application/json; charset=utf-8
+
+
+*******Request Log*******
+IP = ::1
+Scheme = https
+Host = localhost:7167
+IsSecured = True
+Method = GET
+Query String = 
+Path = /api/Address/25
+Body = {
+  "firstName": "s",
+  "lastName": "string",
+  "email": "string",
+  "phoneNumber": "string",
+  "addresses": []
+}
+Request Time = 01.02.2023 09:26:52
+
+*******Response Log*******
+Content type = application/json; charset=utf-8
+Status code = 200
+Body = {"id":25,"userId":14,"city":"stringFor14","coutry":"string","region":"string","description":"string"}
+Headers = Content-Type:application/json; charset=utf-8
+
+
+*******Request Log*******
+IP = ::1
+Scheme = https
+Host = localhost:7167
+IsSecured = True
+Method = GET
+Query String = 
+Path = /api/User/14
+Body = {
+  "firstName": "s",
+  "lastName": "string",
+  "email": "string",
+  "phoneNumber": "string",
+  "addresses": []
+}
+Request Time = 01.02.2023 09:27:27
+
+*******Response Log*******
+Content type = application/json; charset=utf-8
+Status code = 200
+Body = {"id":14,"firstName":"ani","lastName":"Sani","email":"anni.sanikidze@gmail.com","phoneNumber":"577051420","addresses":[{"id":13,"userId":14,"city":"Tblisi","coutry":"Goergia","region":"Goergia","description":"sdhbjshb..."},{"id":25,"userId":14,"city":"stringFor14","coutry":"string","region":"string","description":"string"}]}
+Headers = Content-Type:application/json; charset=utf-8
+
+
+*******Request Log*******
+IP = ::1
+Scheme = https
+Host = localhost:7167
+IsSecured = True
+Method = DELETE
+Query String = 
+Path = /api/Address/25
+Body = 
+Request Time = 01.02.2023 09:28:31
+
+*******Response Log*******
+Content type = 
+Status code = 204
+Body = 
+Headers = 
+
+*******Request Log*******
+IP = ::1
+Scheme = https
+Host = localhost:7167
+IsSecured = True
+Method = GET
+Query String = 
+Path = /api/Address/25
+Body = {
+  "firstName": "s",
+  "lastName": "string",
+  "email": "string",
+  "phoneNumber": "string",
+  "addresses": []
+}
+Request Time = 01.02.2023 09:28:53
+
+*******Request Log*******
+IP = ::1
+Scheme = https
+Host = localhost:7167
+IsSecured = True
+Method = GET
+Query String = 
+Path = /api/Address/25
+Body = {
+  "firstName": "s",
+  "lastName": "string",
+  "email": "string",
+  "phoneNumber": "string",
+  "addresses": []
+}
+Request Time = 01.02.2023 09:29:51
+
+*******Request Log*******
+IP = ::1
+Scheme = https
+Host = localhost:7167
+IsSecured = True
+Method = GET
+Query String = 
+Path = /api/Address
+Body = 
+Request Time = 01.02.2023 09:30:01
+
+*******Response Log*******
+Content type = application/json; charset=utf-8
+Status code = 200
+Body = [{"id":2,"userId":2,"city":"Mcxeta","coutry":"georgia","region":"Mcetamtianeti","description":"ajhvdajvd"},{"id":3,"userId":5,"city":"Prague","coutry":"Czech Republic","region":"shfbj","description":"string"},{"id":4,"userId":5,"city":"string","coutry":"string","region":"string","description":"string"},{"id":5,"userId":6,"city":"Tblisi","coutry":"Goergia","region":"Goergia","description":"sdhbjshb..."},{"id":6,"userId":7,"city":"Tblisi","coutry":"Goergia","region":"Goergia","description":"sdhbjshb..."},{"id":7,"userId":8,"city":"Tblisi","coutry":"Goergia","region":"Goergia","description":"sdhbjshb..."},{"id":8,"userId":9,"city":"Tblisi","coutry":"Goergia","region":"Goergia","description":"sdhbjshb..."},{"id":9,"userId":10,"city":"Tblisi","coutry":"Goergia","region":"Goergia","description":"sdhbjshb..."},{"id":10,"userId":11,"city":"Tblisi","coutry":"Goergia","region":"Goergia","description":"sdhbjshb..."},{"id":11,"userId":12,"city":"Tblisi","coutry":"Goergia","region":"Goergia","description":"sdhbjshb..."},{"id":12,"userId":13,"city":"Tblisi","coutry":"Goergia","region":"Goergia","description":"sdhbjshb..."},{"id":13,"userId":14,"city":"Tblisi","coutry":"Goergia","region":"Goergia","description":"sdhbjshb..."},{"id":14,"userId":15,"city":"TblisiAniko","coutry":"GoergiaAniko","region":"GoergiaAniko","description":"sdhbjshb..."},{"id":15,"userId":16,"city":"Tblisi","coutry":"Goergia","region":"Goergia","description":"sdhbjshb..."},{"id":16,"userId":17,"city":"Tblisi","coutry":"Goergia","region":"Goergia","description":"sdhbjshb..."},{"id":17,"userId":18,"city":"Tblisi","coutry":"Goergia","region":"Goergia","description":"sdhbjshb..."},{"id":18,"userId":19,"city":"Tblisi","coutry":"Goergia","region":"Goergia","description":"sdhbjshb..."},{"id":19,"userId":24,"city":"string","coutry":"string","region":"string","description":"string"},{"id":20,"userId":25,"city":"string","coutry":"string","region":"string","description":"string"},{"id":21,"userId":28,"city":"თბილისი","coutry":"საქართველო","region":"თბილისი","description":"აღწერა..."},{"id":22,"userId":10,"city":"vinna","coutry":"austria","region":"region...","description":"desc"},{"id":23,"userId":10,"city":"vinna","coutry":"austria","region":"region...","description":"desc"},{"id":24,"userId":10,"city":"vinna","coutry":"austria","region":"region...","description":"desc"},{"id":26,"userId":10,"city":"ViennaUpdated","coutry":"Austria","region":"region...","description":"desc"},{"id":27,"userId":10,"city":"string","coutry":"string","region":"string","description":"string"},{"id":28,"userId":11,"city":"string","coutry":"string","region":"string","description":"string"},{"id":29,"userId":10,"city":"ViennaFinal","coutry":"Austria","region":"region...","description":"desc"}]
+Headers = Content-Type:application/json; charset=utf-8
+
+
+*******Request Log*******
+IP = ::1
+Scheme = https
+Host = localhost:7167
+IsSecured = True
+Method = GET
+Query String = 
+Path = /api/Address/25
+Body = {
+  "firstName": "s",
+  "lastName": "string",
+  "email": "string",
+  "phoneNumber": "string",
+  "addresses": []
+}
+Request Time = 01.02.2023 09:30:09
+
+*******Request Log*******
+IP = ::1
+Scheme = https
+Host = localhost:7167
+IsSecured = True
+Method = GET
+Query String = 
+Path = /api/Address/11
+Body = {
+  "firstName": "s",
+  "lastName": "string",
+  "email": "string",
+  "phoneNumber": "string",
+  "addresses": []
+}
+Request Time = 01.02.2023 09:30:19
+
+*******Response Log*******
+Content type = application/json; charset=utf-8
+Status code = 200
+Body = {"id":11,"userId":12,"city":"Tblisi","coutry":"Goergia","region":"Goergia","description":"sdhbjshb..."}
+Headers = Content-Type:application/json; charset=utf-8
+
+
+*******Request Log*******
+IP = ::1
+Scheme = https
+Host = localhost:7167
+IsSecured = True
+Method = GET
+Query String = 
+Path = /api/Address/11
+Body = {
+  "firstName": "s",
+  "lastName": "string",
+  "email": "string",
+  "phoneNumber": "string",
+  "addresses": []
+}
+Request Time = 01.02.2023 09:30:37
+
+*******Request Log*******
+IP = ::1
+Scheme = https
+Host = localhost:7167
+IsSecured = True
+Method = GET
+Query String = 
+Path = /api/Address/20
+Body = 
+Request Time = 01.02.2023 09:51:16
+
+*******Response Log*******
+Content type = application/json; charset=utf-8
+Status code = 200
+Body = {"id":20,"userId":25,"city":"string","coutry":"string","region":"string","description":"string"}
+Headers = Content-Type:application/json; charset=utf-8
+
+
+*******Request Log*******
+IP = ::1
+Scheme = https
+Host = localhost:7167
+IsSecured = True
+Method = GET
+Query String = 
+Path = /api/Address/200
+Body = 
+Request Time = 01.02.2023 09:51:46
+
+*******Request Log*******
+IP = ::1
+Scheme = https
+Host = localhost:7167
+IsSecured = True
+Method = GET
+Query String = 
+Path = /api/Address/200
+Body = 
+Request Time = 01.02.2023 09:54:19
+
+*******Request Log*******
+IP = ::1
+Scheme = https
+Host = localhost:7167
+IsSecured = True
+Method = GET
+Query String = 
+Path = /api/Address/100
+Body = 
+Request Time = 01.02.2023 10:06:21
+
+*******Request Log*******
+IP = ::1
+Scheme = https
+Host = localhost:7167
+IsSecured = True
+Method = GET
+Query String = 
+Path = /api/Address/110
+Body = {
+  "firstName": "s",
+  "lastName": "string",
+  "email": "string",
+  "phoneNumber": "string",
+  "addresses": []
+}
+Request Time = 01.02.2023 10:06:35
+
+*******Request Log*******
+IP = ::1
+Scheme = https
+Host = localhost:7167
+IsSecured = True
+Method = GET
+Query String = 
+Path = /api/Address/25
+Body = {
+  "firstName": "s",
+  "lastName": "string",
+  "email": "string",
+  "phoneNumber": "string",
+  "addresses": []
+}
+Request Time = 01.02.2023 10:07:14
+
+*******Request Log*******
+IP = ::1
+Scheme = https
+Host = localhost:7167
+IsSecured = True
+Method = DELETE
+Query String = 
+Path = /api/Address/15
+Body = 
+Request Time = 01.02.2023 10:07:36
+
+*******Response Log*******
+Content type = 
+Status code = 204
+Body = 
+Headers = 
+
+*******Request Log*******
+IP = ::1
+Scheme = https
+Host = localhost:7167
+IsSecured = True
+Method = GET
+Query String = 
+Path = /api/Address/15
+Body = {
+  "firstName": "s",
+  "lastName": "string",
+  "email": "string",
+  "phoneNumber": "string",
+  "addresses": []
+}
+Request Time = 01.02.2023 10:07:45
+
+*******Request Log*******
+IP = ::1
+Scheme = https
+Host = localhost:7167
+IsSecured = True
+Method = DELETE
+Query String = 
+Path = /api/Address/150
+Body = 
+Request Time = 01.02.2023 10:07:51
+
+*******Request Log*******
+IP = ::1
+Scheme = https
+Host = localhost:7167
+IsSecured = True
+Method = PUT
+Query String = 
+Path = /api/Address/20
+Body = {
+  "userId": 0,
+  "city": "string",
+  "coutry": "string",
+  "region": "string",
+  "description": "string"
+}
+Request Time = 01.02.2023 10:08:27
+
+*******Request Log*******
+IP = ::1
+Scheme = https
+Host = localhost:7167
+IsSecured = True
+Method = PUT
+Query String = 
+Path = /api/Address/20
+Body = {
+  "userId": 0,
+  "city": "string",
+  "coutry": "string",
+  "region": "string",
+  "description": "string"
+}
+Request Time = 01.02.2023 10:09:01
+
+*******Request Log*******
+IP = ::1
+Scheme = https
+Host = localhost:7167
+IsSecured = True
+Method = PUT
+Query String = 
+Path = /api/Address/20
+Body = {
+  "userId": 20,
+  "city": "string",
+  "coutry": "string",
+  "region": "string",
+  "description": "string"
+}
+Request Time = 01.02.2023 10:09:16
+
+*******Request Log*******
+IP = ::1
+Scheme = https
+Host = localhost:7167
+IsSecured = True
+Method = GET
+Query String = 
+Path = /api/User/20
+Body = 
+Request Time = 01.02.2023 10:09:56
+
+*******Response Log*******
+Content type = application/json; charset=utf-8
+Status code = 200
+Body = {"id":20,"firstName":"aniko","lastName":"ann","email":"ann@gmail.com","phoneNumber":"577051420","addresses":[]}
+Headers = Content-Type:application/json; charset=utf-8
+
+
+*******Request Log*******
+IP = ::1
+Scheme = https
+Host = localhost:7167
+IsSecured = True
+Method = GET
+Query String = 
+Path = /api/User/21
+Body = 
+Request Time = 01.02.2023 10:10:06
+
+*******Response Log*******
+Content type = application/json; charset=utf-8
+Status code = 200
+Body = {"id":21,"firstName":"aniNow","lastName":"skjcbhsjh","email":"t@gmail.com","phoneNumber":"577051420","addresses":[]}
+Headers = Content-Type:application/json; charset=utf-8
+
+
+*******Request Log*******
+IP = ::1
+Scheme = https
+Host = localhost:7167
+IsSecured = True
+Method = GET
+Query String = 
+Path = /api/User/5
+Body = 
+Request Time = 01.02.2023 10:10:14
+
+*******Response Log*******
+Content type = application/json; charset=utf-8
+Status code = 200
+Body = {"id":5,"firstName":"Updated firstName","lastName":"Updated lastName","email":"updatedUser@gmail.com","phoneNumber":"577585945","addresses":[{"id":3,"userId":5,"city":"Prague","coutry":"Czech Republic","region":"shfbj","description":"string"},{"id":4,"userId":5,"city":"string","coutry":"string","region":"string","description":"string"}]}
+Headers = Content-Type:application/json; charset=utf-8
+
+
+*******Request Log*******
+IP = ::1
+Scheme = https
+Host = localhost:7167
+IsSecured = True
+Method = PUT
+Query String = 
+Path = /api/Address/3
+Body = {
+  "userId": 4,
+  "city": "string",
+  "coutry": "string",
+  "region": "string",
+  "description": "string"
+}
+Request Time = 01.02.2023 10:10:59
+
+*******Request Log*******
+IP = ::1
+Scheme = https
+Host = localhost:7167
+IsSecured = True
+Method = PUT
+Query String = 
+Path = /api/Address/3
+Body = {
+  "userId": 9,
+  "city": "string",
+  "coutry": "string",
+  "region": "string",
+  "description": "string"
+}
+Request Time = 01.02.2023 10:11:11
+
+*******Request Log*******
+IP = ::1
+Scheme = https
+Host = localhost:7167
+IsSecured = True
+Method = GET
+Query String = 
+Path = /api/Address/3
+Body = 
+Request Time = 01.02.2023 10:12:29
+
+*******Response Log*******
+Content type = application/json; charset=utf-8
+Status code = 200
+Body = {"id":3,"userId":5,"city":"Prague","coutry":"Czech Republic","region":"shfbj","description":"string"}
+Headers = Content-Type:application/json; charset=utf-8
+
+
+*******Request Log*******
+IP = ::1
+Scheme = https
+Host = localhost:7167
+IsSecured = True
+Method = PUT
+Query String = 
+Path = /api/Address/3
+Body = {
+  "userId": 12,
+  "city": "string",
+  "coutry": "string",
+  "region": "string",
+  "description": "string"
+}
+Request Time = 01.02.2023 10:12:58
+
+*******Request Log*******
+IP = ::1
+Scheme = https
+Host = localhost:7167
+IsSecured = True
+Method = GET
+Query String = 
+Path = /api/Address
+Body = 
+Request Time = 01.02.2023 10:16:35
+
+*******Response Log*******
+Content type = application/json; charset=utf-8
+Status code = 200
+Body = [{"id":2,"userId":2,"city":"Mcxeta","coutry":"georgia","region":"Mcetamtianeti","description":"ajhvdajvd"},{"id":3,"userId":5,"city":"Prague","coutry":"Czech Republic","region":"shfbj","description":"string"},{"id":4,"userId":5,"city":"string","coutry":"string","region":"string","description":"string"},{"id":5,"userId":6,"city":"Tblisi","coutry":"Goergia","region":"Goergia","description":"sdhbjshb..."},{"id":6,"userId":7,"city":"Tblisi","coutry":"Goergia","region":"Goergia","description":"sdhbjshb..."},{"id":7,"userId":8,"city":"Tblisi","coutry":"Goergia","region":"Goergia","description":"sdhbjshb..."},{"id":8,"userId":9,"city":"Tblisi","coutry":"Goergia","region":"Goergia","description":"sdhbjshb..."},{"id":9,"userId":10,"city":"Tblisi","coutry":"Goergia","region":"Goergia","description":"sdhbjshb..."},{"id":10,"userId":11,"city":"Tblisi","coutry":"Goergia","region":"Goergia","description":"sdhbjshb..."},{"id":11,"userId":12,"city":"Tblisi","coutry":"Goergia","region":"Goergia","description":"sdhbjshb..."},{"id":12,"userId":13,"city":"Tblisi","coutry":"Goergia","region":"Goergia","description":"sdhbjshb..."},{"id":13,"userId":14,"city":"Tblisi","coutry":"Goergia","region":"Goergia","description":"sdhbjshb..."},{"id":14,"userId":15,"city":"TblisiAniko","coutry":"GoergiaAniko","region":"GoergiaAniko","description":"sdhbjshb..."},{"id":16,"userId":17,"city":"Tblisi","coutry":"Goergia","region":"Goergia","description":"sdhbjshb..."},{"id":17,"userId":18,"city":"Tblisi","coutry":"Goergia","region":"Goergia","description":"sdhbjshb..."},{"id":18,"userId":19,"city":"Tblisi","coutry":"Goergia","region":"Goergia","description":"sdhbjshb..."},{"id":19,"userId":24,"city":"string","coutry":"string","region":"string","description":"string"},{"id":20,"userId":25,"city":"string","coutry":"string","region":"string","description":"string"},{"id":21,"userId":28,"city":"თბილისი","coutry":"საქართველო","region":"თბილისი","description":"აღწერა..."},{"id":22,"userId":10,"city":"vinna","coutry":"austria","region":"region...","description":"desc"},{"id":23,"userId":10,"city":"vinna","coutry":"austria","region":"region...","description":"desc"},{"id":24,"userId":10,"city":"vinna","coutry":"austria","region":"region...","description":"desc"},{"id":26,"userId":10,"city":"ViennaUpdated","coutry":"Austria","region":"region...","description":"desc"},{"id":27,"userId":10,"city":"string","coutry":"string","region":"string","description":"string"},{"id":28,"userId":11,"city":"string","coutry":"string","region":"string","description":"string"},{"id":29,"userId":10,"city":"ViennaFinal","coutry":"Austria","region":"region...","description":"desc"}]
+Headers = Content-Type:application/json; charset=utf-8
+
+
+*******Request Log*******
+IP = ::1
+Scheme = https
+Host = localhost:7167
+IsSecured = True
+Method = PUT
+Query String = 
+Path = /api/Address/2
+Body = {
+  "userId": 4,
+  "city": "string",
+  "coutry": "string",
+  "region": "string",
+  "description": "string"
+}
+Request Time = 01.02.2023 10:17:11
+
+*******Request Log*******
+IP = ::1
+Scheme = https
+Host = localhost:7167
+IsSecured = True
+Method = PUT
+Query String = 
+Path = /api/Address/2
+Body = {
+  "userId": 6,
+  "city": "string",
+  "coutry": "string",
+  "region": "string",
+  "description": "string"
+}
+Request Time = 01.02.2023 10:17:20
+
+*******Request Log*******
+IP = ::1
+Scheme = https
+Host = localhost:7167
+IsSecured = True
+Method = PUT
+Query String = 
+Path = /api/Address/9
+Body = {
+  "userId": 10,
+  "city": "string",
+  "coutry": "string",
+  "region": "string",
+  "description": "string"
+}
+Request Time = 01.02.2023 10:19:34
+
+*******Request Log*******
+IP = ::1
+Scheme = https
+Host = localhost:7167
+IsSecured = True
+Method = GET
+Query String = 
+Path = /api/Address/5
+Body = 
+Request Time = 01.02.2023 10:20:35
+
+*******Response Log*******
+Content type = application/json; charset=utf-8
+Status code = 200
+Body = {"id":5,"userId":6,"city":"Tblisi","coutry":"Goergia","region":"Goergia","description":"sdhbjshb..."}
+Headers = Content-Type:application/json; charset=utf-8
+
+
+*******Request Log*******
+IP = ::1
+Scheme = https
+Host = localhost:7167
+IsSecured = True
+Method = GET
+Query String = 
+Path = /api/Address/500
+Body = 
+Request Time = 01.02.2023 10:21:05
+
+*******Request Log*******
+IP = ::1
+Scheme = https
+Host = localhost:7167
+IsSecured = True
+Method = GET
+Query String = 
+Path = /api/Address/100
+Body = 
+Request Time = 01.02.2023 10:22:30
+
+*******Request Log*******
+IP = ::1
+Scheme = https
+Host = localhost:7167
+IsSecured = True
+Method = GET
+Query String = 
+Path = /api/Address
+Body = 
+Request Time = 01.02.2023 10:22:51
+
+*******Response Log*******
+Content type = application/json; charset=utf-8
+Status code = 200
+Body = [{"id":2,"userId":2,"city":"Mcxeta","coutry":"georgia","region":"Mcetamtianeti","description":"ajhvdajvd"},{"id":3,"userId":5,"city":"Prague","coutry":"Czech Republic","region":"shfbj","description":"string"},{"id":4,"userId":5,"city":"string","coutry":"string","region":"string","description":"string"},{"id":5,"userId":6,"city":"Tblisi","coutry":"Goergia","region":"Goergia","description":"sdhbjshb..."},{"id":6,"userId":7,"city":"Tblisi","coutry":"Goergia","region":"Goergia","description":"sdhbjshb..."},{"id":7,"userId":8,"city":"Tblisi","coutry":"Goergia","region":"Goergia","description":"sdhbjshb..."},{"id":8,"userId":9,"city":"Tblisi","coutry":"Goergia","region":"Goergia","description":"sdhbjshb..."},{"id":9,"userId":10,"city":"Tblisi","coutry":"Goergia","region":"Goergia","description":"sdhbjshb..."},{"id":10,"userId":11,"city":"Tblisi","coutry":"Goergia","region":"Goergia","description":"sdhbjshb..."},{"id":11,"userId":12,"city":"Tblisi","coutry":"Goergia","region":"Goergia","description":"sdhbjshb..."},{"id":12,"userId":13,"city":"Tblisi","coutry":"Goergia","region":"Goergia","description":"sdhbjshb..."},{"id":13,"userId":14,"city":"Tblisi","coutry":"Goergia","region":"Goergia","description":"sdhbjshb..."},{"id":14,"userId":15,"city":"TblisiAniko","coutry":"GoergiaAniko","region":"GoergiaAniko","description":"sdhbjshb..."},{"id":16,"userId":17,"city":"Tblisi","coutry":"Goergia","region":"Goergia","description":"sdhbjshb..."},{"id":17,"userId":18,"city":"Tblisi","coutry":"Goergia","region":"Goergia","description":"sdhbjshb..."},{"id":18,"userId":19,"city":"Tblisi","coutry":"Goergia","region":"Goergia","description":"sdhbjshb..."},{"id":19,"userId":24,"city":"string","coutry":"string","region":"string","description":"string"},{"id":20,"userId":25,"city":"string","coutry":"string","region":"string","description":"string"},{"id":21,"userId":28,"city":"თბილისი","coutry":"საქართველო","region":"თბილისი","description":"აღწერა..."},{"id":22,"userId":10,"city":"vinna","coutry":"austria","region":"region...","description":"desc"},{"id":23,"userId":10,"city":"vinna","coutry":"austria","region":"region...","description":"desc"},{"id":24,"userId":10,"city":"vinna","coutry":"austria","region":"region...","description":"desc"},{"id":26,"userId":10,"city":"ViennaUpdated","coutry":"Austria","region":"region...","description":"desc"},{"id":27,"userId":10,"city":"string","coutry":"string","region":"string","description":"string"},{"id":28,"userId":11,"city":"string","coutry":"string","region":"string","description":"string"},{"id":29,"userId":10,"city":"ViennaFinal","coutry":"Austria","region":"region...","description":"desc"}]
+Headers = Content-Type:application/json; charset=utf-8
+
+
+*******Request Log*******
+IP = ::1
+Scheme = https
+Host = localhost:7167
+IsSecured = True
+Method = PUT
+Query String = 
+Path = /api/Address/2
+Body = {
+  "userId": 6,
+  "city": "string",
+  "coutry": "string",
+  "region": "string",
+  "description": "string"
+}
+Request Time = 01.02.2023 10:23:12
+
+*******Response Log*******
+Content type = application/json; charset=utf-8
+Status code = 200
+Body = {"id":2,"userId":6,"city":"string","coutry":"string","region":"string","description":"string"}
+Headers = Content-Type:application/json; charset=utf-8
+
+
+*******Request Log*******
+IP = ::1
+Scheme = https
+Host = localhost:7167
+IsSecured = True
+Method = GET
+Query String = 
+Path = /api/Address/2
+Body = 
+Request Time = 01.02.2023 10:23:28
+
+*******Response Log*******
+Content type = application/json; charset=utf-8
+Status code = 200
+Body = {"id":2,"userId":6,"city":"string","coutry":"string","region":"string","description":"string"}
+Headers = Content-Type:application/json; charset=utf-8
+
+
+*******Request Log*******
+IP = ::1
+Scheme = https
+Host = localhost:7167
+IsSecured = True
+Method = GET
+Query String = 
+Path = /api/Address/2
+Body = 
+Request Time = 01.02.2023 10:23:46
+
+*******Response Log*******
+Content type = application/json; charset=utf-8
+Status code = 200
+Body = {"id":2,"userId":6,"city":"string","coutry":"string","region":"string","description":"string"}
+Headers = Content-Type:application/json; charset=utf-8
+
+
+*******Request Log*******
+IP = ::1
+Scheme = https
+Host = localhost:7167
+IsSecured = True
+Method = DELETE
+Query String = 
+Path = /api/Address/2
+Body = 
+Request Time = 01.02.2023 10:23:54
+
+*******Response Log*******
+Content type = 
+Status code = 204
+Body = 
+Headers = 
+
+*******Request Log*******
+IP = ::1
+Scheme = https
+Host = localhost:7167
+IsSecured = True
+Method = GET
+Query String = 
+Path = /api/Address/2
+Body = 
+Request Time = 01.02.2023 10:24:00
+
+*******Response Log*******
+Content type = application/json; charset=utf-8
+Status code = 200
+Body = {"id":2,"userId":6,"city":"string","coutry":"string","region":"string","description":"string"}
+Headers = Content-Type:application/json; charset=utf-8
+
+
+*******Request Log*******
+IP = ::1
+Scheme = https
+Host = localhost:7167
+IsSecured = True
+Method = GET
+Query String = 
+Path = /api/Address/2
+Body = 
+Request Time = 01.02.2023 10:24:05
+
+*******Response Log*******
+Content type = application/json; charset=utf-8
+Status code = 200
+Body = {"id":2,"userId":6,"city":"string","coutry":"string","region":"string","description":"string"}
+Headers = Content-Type:application/json; charset=utf-8
+
+
+*******Request Log*******
+IP = ::1
+Scheme = https
+Host = localhost:7167
+IsSecured = True
+Method = GET
+Query String = 
+Path = /api/Address/2
+Body = 
+Request Time = 01.02.2023 10:24:16
+
+*******Response Log*******
+Content type = application/json; charset=utf-8
+Status code = 200
+Body = {"id":2,"userId":6,"city":"string","coutry":"string","region":"string","description":"string"}
+Headers = Content-Type:application/json; charset=utf-8
+
+
+*******Request Log*******
+IP = ::1
+Scheme = https
+Host = localhost:7167
+IsSecured = True
+Method = GET
+Query String = 
+Path = /api/Address/2
+Body = 
+Request Time = 01.02.2023 10:25:32
+
+*******Response Log*******
+Content type = application/json; charset=utf-8
+Status code = 200
+Body = {"id":2,"userId":6,"city":"string","coutry":"string","region":"string","description":"string"}
+Headers = Content-Type:application/json; charset=utf-8
+
+
+*******Request Log*******
+IP = ::1
+Scheme = https
+Host = localhost:7167
+IsSecured = True
+Method = DELETE
+Query String = 
+Path = /api/Address/2
+Body = 
+Request Time = 01.02.2023 10:25:43
+
+*******Response Log*******
+Content type = 
+Status code = 204
+Body = 
+Headers = 
+
+*******Request Log*******
+IP = ::1
+Scheme = https
+Host = localhost:7167
+IsSecured = True
+Method = GET
+Query String = 
+Path = /api/Address/2
+Body = 
+Request Time = 01.02.2023 10:25:47
+
+*******Request Log*******
+IP = ::1
+Scheme = https
+Host = localhost:7167
+IsSecured = True
+Method = POST
+Query String = 
+Path = /api/Address
+Body = {
+  "userId": 14,
+  "city": "FinalCity",
+  "coutry": "string",
+  "region": "string",
+  "description": "string"
+}
+Request Time = 01.02.2023 10:26:11
+
+*******Response Log*******
+Content type = application/json; charset=utf-8
+Status code = 200
+Body = {"id":30,"userId":14,"city":"FinalCity","coutry":"string","region":"string","description":"string"}
+Headers = Content-Type:application/json; charset=utf-8
+
+
+*******Request Log*******
+IP = ::1
+Scheme = https
+Host = localhost:7167
+IsSecured = True
+Method = POST
+Query String = 
+Path = /api/Address
+Body = {
+  "userId": 140,
+  "city": "FinalCity",
+  "coutry": "string",
+  "region": "string",
+  "description": "string"
+}
+Request Time = 01.02.2023 10:26:19
+
+*******Request Log*******
+IP = ::1
+Scheme = https
+Host = localhost:7167
+IsSecured = True
+Method = GET
+Query String = 
+Path = /api/User/14
+Body = 
+Request Time = 01.02.2023 10:26:32
+
+*******Response Log*******
+Content type = application/json; charset=utf-8
+Status code = 200
+Body = {"id":14,"firstName":"ani","lastName":"Sani","email":"anni.sanikidze@gmail.com","phoneNumber":"577051420","addresses":[{"id":13,"userId":14,"city":"Tblisi","coutry":"Goergia","region":"Goergia","description":"sdhbjshb..."},{"id":30,"userId":14,"city":"FinalCity","coutry":"string","region":"string","description":"string"}]}
+Headers = Content-Type:application/json; charset=utf-8
+
+
+*******Request Log*******
+IP = ::1
+Scheme = https
+Host = localhost:7167
+IsSecured = True
+Method = PUT
+Query String = 
+Path = /api/Address/30
+Body = {
+  "userId": 14,
+  "city": "FinalFInalCity",
+  "coutry": "string",
+  "region": "string",
+  "description": "string"
+}
+Request Time = 01.02.2023 10:27:11
+
+*******Request Log*******
+IP = ::1
+Scheme = https
+Host = localhost:7167
+IsSecured = True
+Method = GET
+Query String = 
+Path = /api/Address/20
+Body = 
+Request Time = 01.02.2023 10:29:15
+
+*******Response Log*******
+Content type = application/json; charset=utf-8
+Status code = 200
+Body = {"id":20,"userId":25,"city":"string","coutry":"string","region":"string","description":"string"}
+Headers = Content-Type:application/json; charset=utf-8
+
+
+*******Request Log*******
+IP = ::1
+Scheme = https
+Host = localhost:7167
+IsSecured = True
+Method = PUT
+Query String = 
+Path = /api/Address/20
+Body = {
+  "userId": 8,
+  "city": "string",
+  "coutry": "string",
+  "region": "string",
+  "description": "string"
+}
+Request Time = 01.02.2023 10:29:33
+
+*******Response Log*******
+Content type = application/json; charset=utf-8
+Status code = 200
+Body = {"id":20,"userId":8,"city":"string","coutry":"string","region":"string","description":"string"}
+Headers = Content-Type:application/json; charset=utf-8
+
+
+*******Request Log*******
+IP = ::1
+Scheme = https
+Host = localhost:7167
+IsSecured = True
+Method = GET
+Query String = 
+Path = /api/User/8
+Body = 
+Request Time = 01.02.2023 10:30:57
+
+*******Response Log*******
+Content type = application/json; charset=utf-8
+Status code = 200
+Body = {"id":8,"firstName":"ani","lastName":"Sani","email":"anni.sanikidze@gmail.com","phoneNumber":"577051420","addresses":[{"id":7,"userId":8,"city":"Tblisi","coutry":"Goergia","region":"Goergia","description":"sdhbjshb..."},{"id":20,"userId":8,"city":"string","coutry":"string","region":"string","description":"string"}]}
+Headers = Content-Type:application/json; charset=utf-8
+
+
+*******Request Log*******
+IP = ::1
+Scheme = https
+Host = localhost:7167
+IsSecured = True
+Method = PUT
+Query String = 
+Path = /api/Address/20
+Body = {
+  "userId": 8,
+  "city": "stringA",
+  "coutry": "string",
+  "region": "string",
+  "description": "string"
+}
+Request Time = 01.02.2023 10:31:13
+
+*******Request Log*******
+IP = ::1
+Scheme = https
+Host = localhost:7167
+IsSecured = True
+Method = GET
+Query String = 
+Path = /api/Address/20
+Body = 
+Request Time = 01.02.2023 10:31:58
+
+*******Request Log*******
+IP = ::1
+Scheme = https
+Host = localhost:7167
+IsSecured = True
+Method = PUT
+Query String = 
+Path = /api/Address/22
+Body = {
+  "userId": 8,
+  "city": "stringA",
+  "coutry": "string",
+  "region": "string",
+  "description": "string"
+}
+Request Time = 01.02.2023 10:35:12
+
+*******Request Log*******
+IP = ::1
+Scheme = https
+Host = localhost:7167
+IsSecured = True
+Method = PUT
+Query String = 
+Path = /api/Address/22
+Body = {
+  "userId": 8,
+  "city": "stringA",
+  "coutry": "string",
+  "region": "string",
+  "description": "string"
+}
+Request Time = 01.02.2023 10:35:12
+
+*******Response Log*******
+Content type = application/json; charset=utf-8
+Status code = 200
+Body = {"id":22,"userId":8,"city":"stringA","coutry":"string","region":"string","description":"string"}
+Headers = Content-Type:application/json; charset=utf-8
+
+
+*******Request Log*******
+IP = ::1
+Scheme = https
+Host = localhost:7167
+IsSecured = True
+Method = PUT
+Query String = 
+Path = /api/Address/22
+Body = {
+  "userId": 8,
+  "city": "stringAB",
+  "coutry": "string",
+  "region": "string",
+  "description": "string"
+}
+Request Time = 01.02.2023 10:35:29
+
+*******Request Log*******
+IP = ::1
+Scheme = https
+Host = localhost:7167
+IsSecured = True
+Method = GET
+Query String = 
+Path = /api/Address
+Body = 
+Request Time = 01.02.2023 10:39:30
+
+*******Response Log*******
+Content type = application/json; charset=utf-8
+Status code = 200
+Body = [{"id":3,"userId":5,"city":"Prague","coutry":"Czech Republic","region":"shfbj","description":"string"},{"id":4,"userId":5,"city":"string","coutry":"string","region":"string","description":"string"},{"id":5,"userId":6,"city":"Tblisi","coutry":"Goergia","region":"Goergia","description":"sdhbjshb..."},{"id":6,"userId":7,"city":"Tblisi","coutry":"Goergia","region":"Goergia","description":"sdhbjshb..."},{"id":7,"userId":8,"city":"Tblisi","coutry":"Goergia","region":"Goergia","description":"sdhbjshb..."},{"id":8,"userId":9,"city":"Tblisi","coutry":"Goergia","region":"Goergia","description":"sdhbjshb..."},{"id":9,"userId":10,"city":"Tblisi","coutry":"Goergia","region":"Goergia","description":"sdhbjshb..."},{"id":10,"userId":11,"city":"Tblisi","coutry":"Goergia","region":"Goergia","description":"sdhbjshb..."},{"id":11,"userId":12,"city":"Tblisi","coutry":"Goergia","region":"Goergia","description":"sdhbjshb..."},{"id":12,"userId":13,"city":"Tblisi","coutry":"Goergia","region":"Goergia","description":"sdhbjshb..."},{"id":13,"userId":14,"city":"Tblisi","coutry":"Goergia","region":"Goergia","description":"sdhbjshb..."},{"id":14,"userId":15,"city":"TblisiAniko","coutry":"GoergiaAniko","region":"GoergiaAniko","description":"sdhbjshb..."},{"id":16,"userId":17,"city":"Tblisi","coutry":"Goergia","region":"Goergia","description":"sdhbjshb..."},{"id":17,"userId":18,"city":"Tblisi","coutry":"Goergia","region":"Goergia","description":"sdhbjshb..."},{"id":18,"userId":19,"city":"Tblisi","coutry":"Goergia","region":"Goergia","description":"sdhbjshb..."},{"id":19,"userId":24,"city":"string","coutry":"string","region":"string","description":"string"},{"id":20,"userId":8,"city":"string","coutry":"string","region":"string","description":"string"},{"id":21,"userId":28,"city":"თბილისი","coutry":"საქართველო","region":"თბილისი","description":"აღწერა..."},{"id":22,"userId":8,"city":"stringA","coutry":"string","region":"string","description":"string"},{"id":23,"userId":10,"city":"vinna","coutry":"austria","region":"region...","description":"desc"},{"id":24,"userId":10,"city":"vinna","coutry":"austria","region":"region...","description":"desc"},{"id":26,"userId":10,"city":"ViennaUpdated","coutry":"Austria","region":"region...","description":"desc"},{"id":27,"userId":10,"city":"string","coutry":"string","region":"string","description":"string"},{"id":28,"userId":11,"city":"string","coutry":"string","region":"string","description":"string"},{"id":29,"userId":10,"city":"ViennaFinal","coutry":"Austria","region":"region...","description":"desc"},{"id":30,"userId":14,"city":"FinalCity","coutry":"string","region":"string","description":"string"}]
+Headers = Content-Type:application/json; charset=utf-8
+
+
+*******Request Log*******
+IP = ::1
+Scheme = https
+Host = localhost:7167
+IsSecured = True
+Method = GET
+Query String = 
+Path = /api/Address/3
+Body = 
+Request Time = 01.02.2023 10:39:45
+
+*******Response Log*******
+Content type = application/json; charset=utf-8
+Status code = 200
+Body = {"id":3,"userId":5,"city":"Prague","coutry":"Czech Republic","region":"shfbj","description":"string"}
+Headers = Content-Type:application/json; charset=utf-8
+
+
+*******Request Log*******
+IP = ::1
+Scheme = https
+Host = localhost:7167
+IsSecured = True
+Method = PUT
+Query String = 
+Path = /api/Address/3
+Body = {
+  "userId": 5,
+  "city": "stringAAAAAAAA",
+  "coutry": "string",
+  "region": "string",
+  "description": "string"
+}
+Request Time = 01.02.2023 10:40:04
+
+*******Request Log*******
+IP = ::1
+Scheme = https
+Host = localhost:7167
+IsSecured = True
+Method = PUT
+Query String = 
+Path = /api/Address/3
+Body = {
+  "userId": 5,
+  "city": "stringAAAAAAAA",
+  "coutry": "string",
+  "region": "string",
+  "description": "string"
+}
+Request Time = 01.02.2023 10:41:00
+
+*******Request Log*******
+IP = ::1
+Scheme = https
+Host = localhost:7167
+IsSecured = True
+Method = PUT
+Query String = 
+Path = /api/Address/3
+Body = {
+  "userId": 5,
+  "city": "stringAAAAAAAA",
+  "coutry": "string",
+  "region": "string",
+  "description": "string"
+}
+Request Time = 01.02.2023 10:41:14
+
+*******Request Log*******
+IP = ::1
+Scheme = https
+Host = localhost:7167
+IsSecured = True
+Method = GET
+Query String = 
+Path = /api/Address
+Body = 
+Request Time = 01.02.2023 10:42:04
+
+*******Response Log*******
+Content type = application/json; charset=utf-8
+Status code = 200
+Body = [{"id":3,"userId":5,"city":"Prague","coutry":"Czech Republic","region":"shfbj","description":"string"},{"id":4,"userId":5,"city":"string","coutry":"string","region":"string","description":"string"},{"id":5,"userId":6,"city":"Tblisi","coutry":"Goergia","region":"Goergia","description":"sdhbjshb..."},{"id":6,"userId":7,"city":"Tblisi","coutry":"Goergia","region":"Goergia","description":"sdhbjshb..."},{"id":7,"userId":8,"city":"Tblisi","coutry":"Goergia","region":"Goergia","description":"sdhbjshb..."},{"id":8,"userId":9,"city":"Tblisi","coutry":"Goergia","region":"Goergia","description":"sdhbjshb..."},{"id":9,"userId":10,"city":"Tblisi","coutry":"Goergia","region":"Goergia","description":"sdhbjshb..."},{"id":10,"userId":11,"city":"Tblisi","coutry":"Goergia","region":"Goergia","description":"sdhbjshb..."},{"id":11,"userId":12,"city":"Tblisi","coutry":"Goergia","region":"Goergia","description":"sdhbjshb..."},{"id":12,"userId":13,"city":"Tblisi","coutry":"Goergia","region":"Goergia","description":"sdhbjshb..."},{"id":13,"userId":14,"city":"Tblisi","coutry":"Goergia","region":"Goergia","description":"sdhbjshb..."},{"id":14,"userId":15,"city":"TblisiAniko","coutry":"GoergiaAniko","region":"GoergiaAniko","description":"sdhbjshb..."},{"id":16,"userId":17,"city":"Tblisi","coutry":"Goergia","region":"Goergia","description":"sdhbjshb..."},{"id":17,"userId":18,"city":"Tblisi","coutry":"Goergia","region":"Goergia","description":"sdhbjshb..."},{"id":18,"userId":19,"city":"Tblisi","coutry":"Goergia","region":"Goergia","description":"sdhbjshb..."},{"id":19,"userId":24,"city":"string","coutry":"string","region":"string","description":"string"},{"id":20,"userId":8,"city":"string","coutry":"string","region":"string","description":"string"},{"id":21,"userId":28,"city":"თბილისი","coutry":"საქართველო","region":"თბილისი","description":"აღწერა..."},{"id":22,"userId":8,"city":"stringA","coutry":"string","region":"string","description":"string"},{"id":23,"userId":10,"city":"vinna","coutry":"austria","region":"region...","description":"desc"},{"id":24,"userId":10,"city":"vinna","coutry":"austria","region":"region...","description":"desc"},{"id":26,"userId":10,"city":"ViennaUpdated","coutry":"Austria","region":"region...","description":"desc"},{"id":27,"userId":10,"city":"string","coutry":"string","region":"string","description":"string"},{"id":28,"userId":11,"city":"string","coutry":"string","region":"string","description":"string"},{"id":29,"userId":10,"city":"ViennaFinal","coutry":"Austria","region":"region...","description":"desc"},{"id":30,"userId":14,"city":"FinalCity","coutry":"string","region":"string","description":"string"}]
+Headers = Content-Type:application/json; charset=utf-8
+
+
+*******Request Log*******
+IP = ::1
+Scheme = https
+Host = localhost:7167
+IsSecured = True
+Method = PUT
+Query String = 
+Path = /api/Address/3
+Body = {
+  "userId": 5,
+  "city": "stringgggggggggg",
+  "coutry": "string",
+  "region": "string",
+  "description": "string"
+}
+Request Time = 01.02.2023 10:42:23
+
+*******Response Log*******
+Content type = application/problem+json; charset=utf-8
+Status code = 400
+Body = {"type":"https://tools.ietf.org/html/rfc7231#section-6.5.1","title":"One or more validation errors occurred.","status":400,"traceId":"00-a22f7873d3757b91fb431f9fd9ce7bd2-98c3daf33dbc7236-00","errors":{"City":["City name shoud not be empty with maximum length of 20 characters"]}}
+Headers = Content-Type:application/problem+json; charset=utf-8
+
+
+*******Request Log*******
+IP = ::1
+Scheme = https
+Host = localhost:7167
+IsSecured = True
+Method = PUT
+Query String = 
+Path = /api/Address/3
+Body = {
+  "userId": 5,
+  "city": "stringgg",
+  "coutry": "string",
+  "region": "string",
+  "description": "string"
+}
+Request Time = 01.02.2023 10:42:36
+
+*******Response Log*******
+Content type = application/json; charset=utf-8
+Status code = 200
+Body = {"id":3,"userId":5,"city":"stringgg","coutry":"string","region":"string","description":"string"}
+Headers = Content-Type:application/json; charset=utf-8
+
+
+*******Request Log*******
+IP = ::1
+Scheme = https
+Host = localhost:7167
+IsSecured = True
+Method = PUT
+Query String = 
+Path = /api/Address/3
+Body = {
+  "userId": 5,
+  "city": "stringggFinal",
+  "coutry": "string",
+  "region": "string",
+  "description": "string"
+}
+Request Time = 01.02.2023 10:43:16
+
+*******Response Log*******
+Content type = application/json; charset=utf-8
+Status code = 200
+Body = {"id":3,"userId":5,"city":"stringggFinal","coutry":"string","region":"string","description":"string"}
+Headers = Content-Type:application/json; charset=utf-8
+
+
+*******Request Log*******
+IP = ::1
+Scheme = https
+Host = localhost:7167
+IsSecured = True
+Method = GET
+Query String = 
+Path = /api/User/5
+Body = 
+Request Time = 01.02.2023 10:43:48
+
+*******Response Log*******
+Content type = application/json; charset=utf-8
+Status code = 200
+Body = {"id":5,"firstName":"Updated firstName","lastName":"Updated lastName","email":"updatedUser@gmail.com","phoneNumber":"577585945","addresses":[{"id":3,"userId":5,"city":"Prague","coutry":"Czech Republic","region":"shfbj","description":"string"},{"id":4,"userId":5,"city":"string","coutry":"string","region":"string","description":"string"}]}
+Headers = Content-Type:application/json; charset=utf-8
+
+
+*******Request Log*******
+IP = ::1
+Scheme = https
+Host = localhost:7167
+IsSecured = True
+Method = GET
+Query String = 
+Path = /api/Address/3
+Body = 
+Request Time = 01.02.2023 10:45:25
+
+*******Response Log*******
+Content type = application/json; charset=utf-8
+Status code = 200
+Body = {"id":3,"userId":5,"city":"Prague","coutry":"Czech Republic","region":"shfbj","description":"string"}
+Headers = Content-Type:application/json; charset=utf-8
+
+
+*******Request Log*******
+IP = ::1
+Scheme = https
+Host = localhost:7167
+IsSecured = True
+Method = PUT
+Query String = 
+Path = /api/Address/3
+Body = {
+  "userId": 5,
+  "city": "stringggFinal",
+  "coutry": "string",
+  "region": "string",
+  "description": "string"
+}
+Request Time = 01.02.2023 10:45:57
+
+*******Request Log*******
+IP = ::1
+Scheme = https
+Host = localhost:7167
+IsSecured = True
+Method = PUT
+Query String = 
+Path = /api/Address/3
+Body = {
+  "userId": 5,
+  "city": "string",
+  "coutry": "string",
+  "region": "string",
+  "description": "string"
+}
+Request Time = 01.02.2023 10:48:42
+
+*******Response Log*******
+Content type = application/json; charset=utf-8
+Status code = 200
+Body = {"id":3,"userId":5,"city":"string","coutry":"string","region":"string","description":"string"}
+Headers = Content-Type:application/json; charset=utf-8
+
+
+*******Request Log*******
+IP = ::1
+Scheme = https
+Host = localhost:7167
+IsSecured = True
+Method = GET
+Query String = 
+Path = /api/Address/3
+Body = 
+Request Time = 01.02.2023 10:49:27
+
+*******Response Log*******
+Content type = application/json; charset=utf-8
+Status code = 200
+Body = {"id":3,"userId":5,"city":"string","coutry":"string","region":"string","description":"string"}
+Headers = Content-Type:application/json; charset=utf-8
+
+
+*******Request Log*******
+IP = ::1
+Scheme = https
+Host = localhost:7167
+IsSecured = True
+Method = GET
+Query String = 
+Path = /api/User/5
+Body = 
+Request Time = 01.02.2023 10:49:48
+
+*******Response Log*******
+Content type = application/json; charset=utf-8
+Status code = 200
+Body = {"id":5,"firstName":"Updated firstName","lastName":"Updated lastName","email":"updatedUser@gmail.com","phoneNumber":"577585945","addresses":[{"id":3,"userId":5,"city":"string","coutry":"string","region":"string","description":"string"},{"id":4,"userId":5,"city":"string","coutry":"string","region":"string","description":"string"}]}
+Headers = Content-Type:application/json; charset=utf-8
+
+
+*******Request Log*******
+IP = ::1
+Scheme = https
+Host = localhost:7167
+IsSecured = True
+Method = PUT
+Query String = 
+Path = /api/Address/3
+Body = {
+  "userId": 500,
+  "city": "string",
+  "coutry": "string",
+  "region": "string",
+  "description": "string"
+}
+Request Time = 01.02.2023 10:50:03
+
+*******Request Log*******
+IP = ::1
+Scheme = https
+Host = localhost:7167
+IsSecured = True
+Method = PUT
+Query String = 
+Path = /api/Address/3
+Body = {
+  "userId": 5,
+  "city": "stringAA",
+  "coutry": "string",
+  "region": "string",
+  "description": "string"
+}
+Request Time = 01.02.2023 10:50:19
+
+*******Response Log*******
+Content type = application/json; charset=utf-8
+Status code = 200
+Body = {"id":3,"userId":5,"city":"stringAA","coutry":"string","region":"string","description":"string"}
+Headers = Content-Type:application/json; charset=utf-8
+
+
+*******Request Log*******
+IP = ::1
+Scheme = https
+Host = localhost:7167
+IsSecured = True
+Method = GET
+Query String = 
+Path = /api/User/5
+Body = 
+Request Time = 01.02.2023 10:50:34
+
+*******Response Log*******
+Content type = application/json; charset=utf-8
+Status code = 200
+Body = {"id":5,"firstName":"Updated firstName","lastName":"Updated lastName","email":"updatedUser@gmail.com","phoneNumber":"577585945","addresses":[{"id":3,"userId":5,"city":"stringAA","coutry":"string","region":"string","description":"string"},{"id":4,"userId":5,"city":"string","coutry":"string","region":"string","description":"string"}]}
+Headers = Content-Type:application/json; charset=utf-8
+
+
+*******Request Log*******
+IP = ::1
+Scheme = https
+Host = localhost:7167
+IsSecured = True
+Method = PUT
+Query String = 
+Path = /api/Address/3
+Body = {
+  "userId": 5,
+  "city": "stringAB",
+  "coutry": "string",
+  "region": "string",
+  "description": "string"
+}
+Request Time = 01.02.2023 10:50:47
+
+*******Response Log*******
+Content type = application/json; charset=utf-8
+Status code = 200
+Body = {"id":3,"userId":5,"city":"stringAB","coutry":"string","region":"string","description":"string"}
+Headers = Content-Type:application/json; charset=utf-8
+
+
+*******Request Log*******
+IP = ::1
+Scheme = https
+Host = localhost:7167
+IsSecured = True
+Method = GET
+Query String = 
+Path = /api/User/5
+Body = 
+Request Time = 01.02.2023 10:50:59
+
+*******Response Log*******
+Content type = application/json; charset=utf-8
+Status code = 200
+Body = {"id":5,"firstName":"Updated firstName","lastName":"Updated lastName","email":"updatedUser@gmail.com","phoneNumber":"577585945","addresses":[{"id":3,"userId":5,"city":"stringAB","coutry":"string","region":"string","description":"string"},{"id":4,"userId":5,"city":"string","coutry":"string","region":"string","description":"string"}]}
+Headers = Content-Type:application/json; charset=utf-8
+
+
+*******Request Log*******
+IP = ::1
+Scheme = https
+Host = localhost:7167
+IsSecured = True
+Method = DELETE
+Query String = 
+Path = /api/Address/500
+Body = 
+Request Time = 01.02.2023 10:51:16
+
+*******Request Log*******
+IP = ::1
+Scheme = https
+Host = localhost:7167
+IsSecured = True
+Method = DELETE
+Query String = 
+Path = /api/Address/5
+Body = 
+Request Time = 01.02.2023 10:51:22
+
+*******Response Log*******
+Content type = 
+Status code = 204
+Body = 
+Headers = 
+
+*******Request Log*******
+IP = ::1
+Scheme = https
+Host = localhost:7167
+IsSecured = True
+Method = GET
+Query String = 
+Path = /api/Address/5
+Body = 
+Request Time = 01.02.2023 10:51:30
+
+*******Request Log*******
+IP = ::1
+Scheme = https
+Host = localhost:7167
+IsSecured = True
+Method = DELETE
+Query String = 
+Path = /api/Address/5
+Body = 
+Request Time = 01.02.2023 10:51:35
+
+*******Request Log*******
+IP = ::1
+Scheme = https
+Host = localhost:7167
+IsSecured = True
+Method = POST
+Query String = 
+Path = /api/Address
+Body = {
+  "userId": 10,
+  "city": "stringAni",
+  "coutry": "stringANi",
+  "region": "string",
+  "description": "string"
+}
+Request Time = 01.02.2023 10:52:03
+
+*******Response Log*******
+Content type = application/json; charset=utf-8
+Status code = 200
+Body = {"id":31,"userId":10,"city":"stringAni","coutry":"stringANi","region":"string","description":"string"}
+Headers = Content-Type:application/json; charset=utf-8
+
+
+*******Request Log*******
+IP = ::1
+Scheme = https
+Host = localhost:7167
+IsSecured = True
+Method = GET
+Query String = 
+Path = /api/User/10
+Body = 
+Request Time = 01.02.2023 10:52:13
+
+*******Response Log*******
+Content type = application/json; charset=utf-8
+Status code = 200
+Body = {"id":10,"firstName":"ani","lastName":"Sani","email":"anni.sanikidze@gmail.com","phoneNumber":"577051420","addresses":[{"id":9,"userId":10,"city":"Tblisi","coutry":"Goergia","region":"Goergia","description":"sdhbjshb..."},{"id":23,"userId":10,"city":"vinna","coutry":"austria","region":"region...","description":"desc"},{"id":24,"userId":10,"city":"vinna","coutry":"austria","region":"region...","description":"desc"},{"id":26,"userId":10,"city":"ViennaUpdated","coutry":"Austria","region":"region...","description":"desc"},{"id":27,"userId":10,"city":"string","coutry":"string","region":"string","description":"string"},{"id":29,"userId":10,"city":"ViennaFinal","coutry":"Austria","region":"region...","description":"desc"},{"id":31,"userId":10,"city":"stringAni","coutry":"stringANi","region":"string","description":"string"}]}
+Headers = Content-Type:application/json; charset=utf-8
+
+
+*******Request Log*******
+IP = ::1
+Scheme = https
+Host = localhost:7167
+IsSecured = True
+Method = GET
+Query String = 
+Path = /api/Pizza
+Body = 
+Request Time = 01.02.2023 11:15:25
+
+*******Response Log*******
+Content type = application/json; charset=utf-8
+Status code = 200
+Body = [{"id":1,"name":"Pizza1","description":"Pizzaa","price":10.00,"imageFullPath":null,"caloryCount":300,"averageRank":6},{"id":3,"name":"Margarita","description":"margarita desc..","price":15.00,"imageFullPath":"Pizza3Image.Path","caloryCount":400,"averageRank":-1},{"id":5,"name":"peperonnn","description":"peperonni","price":20.00,"imageFullPath":null,"caloryCount":200,"averageRank":-1},{"id":6,"name":"string","description":"string","price":20.00,"imageFullPath":null,"caloryCount":20,"averageRank":-1}]
+Headers = Content-Type:application/json; charset=utf-8
+
+
+*******Request Log*******
+IP = ::1
+Scheme = https
+Host = localhost:7167
+IsSecured = True
+Method = GET
+Query String = 
+Path = /api/Pizza/1
+Body = 
+Request Time = 01.02.2023 11:15:44
+
+*******Response Log*******
+Content type = application/json; charset=utf-8
+Status code = 200
+Body = {"id":1,"name":"Pizza1","description":"Pizzaa","price":10.00,"imageFullPath":null,"caloryCount":300,"averageRank":6}
+Headers = Content-Type:application/json; charset=utf-8
+
+
+*******Request Log*******
+IP = ::1
+Scheme = https
+Host = localhost:7167
+IsSecured = True
+Method = GET
+Query String = 
+Path = /api/Pizza/100
+Body = 
+Request Time = 01.02.2023 11:15:57
+
+*******Request Log*******
+IP = ::1
+Scheme = https
+Host = localhost:7167
+IsSecured = True
+Method = POST
+Query String = 
+Path = /api/Pizza
+Body = {
+  "name": "PizzaFinal",
+  "description": "string",
+  "price": 30,
+  "caloryCount": 400
+}
+Request Time = 01.02.2023 11:16:26
+
+*******Request Log*******
+IP = ::1
+Scheme = https
+Host = localhost:7167
+IsSecured = True
+Method = POST
+Query String = 
+Path = /api/Pizza
+Body = {
+  "name": "PizzaFinal",
+  "description": "string",
+  "price": 30,
+  "caloryCount": 400
+}
+Request Time = 01.02.2023 11:17:16
+
+*******Request Log*******
+IP = ::1
+Scheme = https
+Host = localhost:7167
+IsSecured = True
+Method = POST
+Query String = 
+Path = /api/Pizza
+Body = {
+  "name": "PizzaFinal",
+  "description": "string",
+  "price": 30,
+  "caloryCount": 400
+}
+Request Time = 01.02.2023 11:18:35
+
+*******Request Log*******
+IP = ::1
+Scheme = https
+Host = localhost:7167
+IsSecured = True
+Method = POST
+Query String = 
+Path = /api/Pizza
+Body = {
+  "name": "string1",
+  "description": "string",
+  "price": 30,
+  "caloryCount": 400
+}
+Request Time = 01.02.2023 11:19:51
+
+*******Request Log*******
+IP = ::1
+Scheme = https
+Host = localhost:7167
+IsSecured = True
+Method = GET
+Query String = 
+Path = /api/Pizza/1
+Body = 
+Request Time = 01.02.2023 11:22:31
+
+*******Response Log*******
+Content type = application/json; charset=utf-8
+Status code = 200
+Body = {"id":1,"name":"Pizza1","description":"Pizzaa","price":10.00,"imageFullPath":null,"caloryCount":300,"averageRank":6}
+Headers = Content-Type:application/json; charset=utf-8
+
+
+*******Request Log*******
+IP = ::1
+Scheme = https
+Host = localhost:7167
+IsSecured = True
+Method = GET
+Query String = 
+Path = /api/Pizza/1
+Body = 
+Request Time = 01.02.2023 11:22:48
+
+*******Response Log*******
+Content type = application/json; charset=utf-8
+Status code = 200
+Body = {"id":1,"name":"Pizza1","description":"Pizzaa","price":10.00,"imageFullPath":null,"caloryCount":300,"averageRank":6}
+Headers = Content-Type:application/json; charset=utf-8
+
+
+*******Request Log*******
+IP = ::1
+Scheme = https
+Host = localhost:7167
+IsSecured = True
+Method = GET
+Query String = 
+Path = /api/Pizza
+Body = 
+Request Time = 01.02.2023 11:23:45
+
+*******Response Log*******
+Content type = application/json; charset=utf-8
+Status code = 200
+Body = [{"id":1,"name":"Pizza1","description":"Pizzaa","price":10.00,"imageFullPath":null,"caloryCount":300,"averageRank":6},{"id":3,"name":"Margarita","description":"margarita desc..","price":15.00,"imageFullPath":"Pizza3Image.Path","caloryCount":400,"averageRank":-1},{"id":5,"name":"peperonnn","description":"peperonni","price":20.00,"imageFullPath":null,"caloryCount":200,"averageRank":-1},{"id":6,"name":"string","description":"string","price":20.00,"imageFullPath":null,"caloryCount":20,"averageRank":-1},{"id":7,"name":"PizzaFinal","description":"string","price":30.00,"imageFullPath":null,"caloryCount":400,"averageRank":-1},{"id":8,"name":"PizzaFinal","description":"string","price":30.00,"imageFullPath":null,"caloryCount":400,"averageRank":-1},{"id":9,"name":"PizzaFinal","description":"string","price":30.00,"imageFullPath":null,"caloryCount":400,"averageRank":-1},{"id":10,"name":"string1","description":"string","price":30.00,"imageFullPath":null,"caloryCount":400,"averageRank":-1}]
+Headers = Content-Type:application/json; charset=utf-8
+
+
+*******Request Log*******
+IP = ::1
+Scheme = https
+Host = localhost:7167
+IsSecured = True
+Method = POST
+Query String = 
+Path = /api/Pizza
+Body = {
+  "name": "anikoPizza",
+  "description": "string",
+  "price": 0,
+  "caloryCount": 0
+}
+Request Time = 01.02.2023 11:24:11
+
+*******Response Log*******
+Content type = application/problem+json; charset=utf-8
+Status code = 400
+Body = {"type":"https://tools.ietf.org/html/rfc7231#section-6.5.1","title":"One or more validation errors occurred.","status":400,"traceId":"00-d4e47d1537d3ffa3b76695b9e952fbcb-0dcb1953a07e23aa-00","errors":{"Price":["'Price' must be greater than '0'.","Price field is mandatory and must be greater than 0"],"CaloryCount":["'Calory Count' must be greater than '0'.","Calory count is a mandatory field and must be greater than 0"]}}
+Headers = Content-Type:application/problem+json; charset=utf-8
+
+
+*******Request Log*******
+IP = ::1
+Scheme = https
+Host = localhost:7167
+IsSecured = True
+Method = POST
+Query String = 
+Path = /api/Pizza
+Body = {
+  "name": "string",
+  "description": "string",
+  "price": 0,
+  "caloryCount": 0
+}
+Request Time = 01.02.2023 11:25:40
+
+*******Response Log*******
+Content type = application/problem+json; charset=utf-8
+Status code = 400
+Body = {"type":"https://tools.ietf.org/html/rfc7231#section-6.5.1","title":"One or more validation errors occurred.","status":400,"traceId":"00-e33728d7a8c51fda787b9bfdb4c6d9e9-ebbdf71863ff0a4f-00","errors":{"Price":["Price field is mandatory and must be greater than 0"],"CaloryCount":["Calory count is a mandatory field and must be greater than 0"]}}
+Headers = Content-Type:application/problem+json; charset=utf-8
+
+
+*******Request Log*******
+IP = ::1
+Scheme = https
+Host = localhost:7167
+IsSecured = True
+Method = POST
+Query String = 
+Path = /api/Pizza
+Body = {
+  "name": "string",
+  "description": "string",
+  "price": "",
+  "caloryCount": 0
+}
+Request Time = 01.02.2023 11:25:55
+
+*******Response Log*******
+Content type = application/problem+json; charset=utf-8
+Status code = 400
+Body = {"type":"https://tools.ietf.org/html/rfc7231#section-6.5.1","title":"One or more validation errors occurred.","status":400,"traceId":"00-4075ccc7d42526712cd7a319bd7a5fb0-ca6bec77d57e0113-00","errors":{"request":["The request field is required."],"$.price":["The JSON value could not be converted to System.Decimal. Path: $.price | LineNumber: 3 | BytePositionInLine: 13."]}}
+Headers = Content-Type:application/problem+json; charset=utf-8
+
+
+*******Request Log*******
+IP = ::1
+Scheme = https
+Host = localhost:7167
+IsSecured = True
+Method = POST
+Query String = 
+Path = /api/Pizza
+Body = {
+  "name": "string",
+  "description": "string",
+  "price": 0,
+  "caloryCount": 0
+}
+Request Time = 01.02.2023 11:26:07
+
+*******Response Log*******
+Content type = application/problem+json; charset=utf-8
+Status code = 400
+Body = {"type":"https://tools.ietf.org/html/rfc7231#section-6.5.1","title":"One or more validation errors occurred.","status":400,"traceId":"00-61cadcd97247c80da035d3effb2863c7-45b9264a2b290b85-00","errors":{"Price":["Price field is mandatory and must be greater than 0"],"CaloryCount":["Calory count is a mandatory field and must be greater than 0"]}}
+Headers = Content-Type:application/problem+json; charset=utf-8
+
+
+*******Request Log*******
+IP = ::1
+Scheme = https
+Host = localhost:7167
+IsSecured = True
+Method = POST
+Query String = 
+Path = /api/Pizza
+Body = {
+  "name": "stringAnikoPizza",
+  "description": "string",
+  "price": 30,
+  "caloryCount": 300
+}
+Request Time = 01.02.2023 11:26:21
+
+*******Request Log*******
+IP = ::1
+Scheme = https
+Host = localhost:7167
+IsSecured = True
+Method = GET
+Query String = 
+Path = /api/Pizza
+Body = 
+Request Time = 01.02.2023 11:30:02
+
+*******Response Log*******
+Content type = application/json; charset=utf-8
+Status code = 200
+Body = [{"id":1,"name":"Pizza1","description":"Pizzaa","price":10.00,"imageFullPath":null,"caloryCount":300,"averageRank":6},{"id":3,"name":"Margarita","description":"margarita desc..","price":15.00,"imageFullPath":"Pizza3Image.Path","caloryCount":400,"averageRank":-1},{"id":5,"name":"peperonnn","description":"peperonni","price":20.00,"imageFullPath":null,"caloryCount":200,"averageRank":-1},{"id":6,"name":"string","description":"string","price":20.00,"imageFullPath":null,"caloryCount":20,"averageRank":-1},{"id":7,"name":"PizzaFinal","description":"string","price":30.00,"imageFullPath":null,"caloryCount":400,"averageRank":-1},{"id":8,"name":"PizzaFinal","description":"string","price":30.00,"imageFullPath":null,"caloryCount":400,"averageRank":-1},{"id":9,"name":"PizzaFinal","description":"string","price":30.00,"imageFullPath":null,"caloryCount":400,"averageRank":-1},{"id":10,"name":"string1","description":"string","price":30.00,"imageFullPath":null,"caloryCount":400,"averageRank":-1},{"id":11,"name":"stringAnikoPizza","description":"string","price":30.00,"imageFullPath":null,"caloryCount":300,"averageRank":-1}]
+Headers = Content-Type:application/json; charset=utf-8
+
+
+*******Request Log*******
+IP = ::1
+Scheme = https
+Host = localhost:7167
+IsSecured = True
+Method = POST
+Query String = 
+Path = /api/Pizza
+Body = {
+  "name": "finalkasdahb",
+  "description": "string",
+  "price": 20,
+  "caloryCount": 100
+}
+Request Time = 01.02.2023 11:30:28
+
+*******Response Log*******
+Content type = application/json; charset=utf-8
+Status code = 200
+Body = 12
+Headers = Content-Type:application/json; charset=utf-8
+
+
+*******Request Log*******
+IP = ::1
+Scheme = https
+Host = localhost:7167
+IsSecured = True
+Method = GET
+Query String = 
+Path = /api/Pizza/7
+Body = 
+Request Time = 01.02.2023 11:32:45
+
+*******Response Log*******
+Content type = application/json; charset=utf-8
+Status code = 200
+Body = {"id":7,"name":"PizzaFinal","description":"string","price":30.00,"imageFullPath":null,"caloryCount":400,"averageRank":-1}
+Headers = Content-Type:application/json; charset=utf-8
+
+
+*******Request Log*******
+IP = ::1
+Scheme = https
+Host = localhost:7167
+IsSecured = True
+Method = POST
+Query String = 
+Path = /api/Pizza
+Body = {
+  "name": "strinfdfffffffffffffffffffg",
+  "description": "string",
+  "price": 20,
+  "caloryCount": 20
+}
+Request Time = 01.02.2023 11:33:25
+
+*******Response Log*******
+Content type = application/problem+json; charset=utf-8
+Status code = 400
+Body = {"type":"https://tools.ietf.org/html/rfc7231#section-6.5.1","title":"One or more validation errors occurred.","status":400,"traceId":"00-b635c93ea259f5a5686a9a88df7e8519-d9cd332754073171-00","errors":{"Name":["Pizza name should consist of at least 2 characters and at most 20"]}}
+Headers = Content-Type:application/problem+json; charset=utf-8
+
+
+*******Request Log*******
+IP = ::1
+Scheme = https
+Host = localhost:7167
+IsSecured = True
+Method = POST
+Query String = 
+Path = /api/Pizza
+Body = {
+  "name": "strinfdffff",
+  "description": "string",
+  "price": 20,
+  "caloryCount": 20
+}
+Request Time = 01.02.2023 11:33:35
+
+*******Request Log*******
+IP = ::1
+Scheme = https
+Host = localhost:7167
+IsSecured = True
+Method = POST
+Query String = 
+Path = /api/Pizza
+Body = {
+  "name": "stringeereww",
+  "description": "string",
+  "price": 20,
+  "caloryCount": 20
+}
+Request Time = 01.02.2023 11:35:29
+
+*******Request Log*******
+IP = ::1
+Scheme = https
+Host = localhost:7167
+IsSecured = True
+Method = POST
+Query String = 
+Path = /api/Pizza
+Body = {
+  "name": "stringefbjhb",
+  "description": "string",
+  "price": 20,
+  "caloryCount": 20
+}
+Request Time = 01.02.2023 11:37:22
+
+*******Request Log*******
+IP = ::1
+Scheme = https
+Host = localhost:7167
+IsSecured = True
+Method = POST
+Query String = 
+Path = /api/Pizza
+Body = {
+  "name": "stringefbjhb",
+  "description": "string",
+  "price": 20,
+  "caloryCount": 20
+}
+Request Time = 01.02.2023 11:37:50
+
+*******Request Log*******
+IP = ::1
+Scheme = https
+Host = localhost:7167
+IsSecured = True
+Method = GET
+Query String = 
+Path = /api/Pizza/4
+Body = 
+Request Time = 01.02.2023 11:41:28
+
+*******Request Log*******
+IP = ::1
+Scheme = https
+Host = localhost:7167
+IsSecured = True
+Method = GET
+Query String = 
+Path = /api/Pizza/5
+Body = 
+Request Time = 01.02.2023 11:41:43
+
+*******Response Log*******
+Content type = application/json; charset=utf-8
+Status code = 200
+Body = {"id":5,"name":"peperonnn","description":"peperonni","price":20.00,"imageFullPath":"","caloryCount":200,"averageRank":-1}
+Headers = Content-Type:application/json; charset=utf-8
+
+
+*******Request Log*******
+IP = ::1
+Scheme = https
+Host = localhost:7167
+IsSecured = True
+Method = GET
+Query String = 
+Path = /api/Pizza
+Body = 
+Request Time = 01.02.2023 11:42:57
+
+*******Response Log*******
+Content type = application/json; charset=utf-8
+Status code = 200
+Body = [{"id":1,"name":"Pizza1","description":"Pizzaa","price":10.00,"imageFullPath":"","caloryCount":300,"averageRank":6},{"id":3,"name":"Margarita","description":"margarita desc..","price":15.00,"imageFullPath":"Pizza3Image.Path","caloryCount":400,"averageRank":-1},{"id":5,"name":"peperonnn","description":"peperonni","price":20.00,"imageFullPath":"","caloryCount":200,"averageRank":-1},{"id":6,"name":"string","description":"string","price":20.00,"imageFullPath":"","caloryCount":20,"averageRank":-1},{"id":7,"name":"PizzaFinal","description":"string","price":30.00,"imageFullPath":"","caloryCount":400,"averageRank":-1},{"id":8,"name":"PizzaFinal","description":"string","price":30.00,"imageFullPath":"","caloryCount":400,"averageRank":-1},{"id":9,"name":"PizzaFinal","description":"string","price":30.00,"imageFullPath":"","caloryCount":400,"averageRank":-1},{"id":10,"name":"string1","description":"string","price":30.00,"imageFullPath":"","caloryCount":400,"averageRank":-1},{"id":11,"name":"stringAnikoPizza","description":"string","price":30.00,"imageFullPath":"","caloryCount":300,"averageRank":-1},{"id":12,"name":"finalkasdahb","description":"string","price":20.00,"imageFullPath":"","caloryCount":100,"averageRank":-1},{"id":13,"name":"strinfdffff","description":"string","price":20.00,"imageFullPath":"","caloryCount":20,"averageRank":-1},{"id":14,"name":"stringeereww","description":"string","price":20.00,"imageFullPath":"","caloryCount":20,"averageRank":-1},{"id":15,"name":"stringefbjhb","description":"string","price":20.00,"imageFullPath":"","caloryCount":20,"averageRank":-1},{"id":16,"name":"stringefbjhb","description":"string","price":20.00,"imageFullPath":"","caloryCount":20,"averageRank":-1}]
+Headers = Content-Type:application/json; charset=utf-8
+
+
+*******Request Log*******
+IP = ::1
+Scheme = https
+Host = localhost:7167
+IsSecured = True
+Method = POST
+Query String = 
+Path = /api/Pizza
+Body = {
+  "name": "stringawdd",
+  "description": "stringwew",
+  "price": 10,
+  "caloryCount": 10
+}
+Request Time = 01.02.2023 11:43:44
+
+*******Request Log*******
+IP = ::1
+Scheme = https
+Host = localhost:7167
+IsSecured = True
+Method = POST
+Query String = 
+Path = /api/Pizza
+Body = {
+  "name": "LastPizza",
+  "description": "ajshbdjab",
+  "price": 200,
+  "caloryCount": 20
+}
+Request Time = 01.02.2023 11:46:17
+
+*******Response Log*******
+Content type = application/json; charset=utf-8
+Status code = 200
+Body = 18
+Headers = Content-Type:application/json; charset=utf-8
+
+
+*******Request Log*******
+IP = ::1
+Scheme = https
+Host = localhost:7167
+IsSecured = True
+Method = GET
+Query String = 
+Path = /api/Pizza/18
+Body = 
+Request Time = 01.02.2023 11:47:05
+
+*******Response Log*******
+Content type = application/json; charset=utf-8
+Status code = 200
+Body = {"id":18,"name":"LastPizza","description":"ajshbdjab","price":200.00,"imageFullPath":"","caloryCount":20,"averageRank":-1}
+Headers = Content-Type:application/json; charset=utf-8
+
+
+*******Request Log*******
+IP = ::1
+Scheme = https
+Host = localhost:7167
+IsSecured = True
+Method = PUT
+Query String = 
+Path = /api/Pizza/180
+Body = {
+  "name": "string",
+  "description": "string",
+  "price": 0,
+  "caloryCount": 0
+}
+Request Time = 01.02.2023 11:47:39
+
+*******Response Log*******
+Content type = application/problem+json; charset=utf-8
+Status code = 400
+Body = {"type":"https://tools.ietf.org/html/rfc7231#section-6.5.1","title":"One or more validation errors occurred.","status":400,"traceId":"00-ee55b6f0a42e84486d7c4c9fa1f1df85-a9aadc4f6e75935f-00","errors":{"Price":["Price field is mandatory and must be greater than 0"],"CaloryCount":["Calory count is a mandatory field and must be greater than 0"]}}
+Headers = Content-Type:application/problem+json; charset=utf-8
+
+
+*******Request Log*******
+IP = ::1
+Scheme = https
+Host = localhost:7167
+IsSecured = True
+Method = PUT
+Query String = 
+Path = /api/Pizza/180
+Body = {
+  "name": "string",
+  "description": "string",
+  "price": 200,
+  "caloryCount": 20
+}
+Request Time = 01.02.2023 11:47:50
+
+*******Request Log*******
+IP = ::1
+Scheme = https
+Host = localhost:7167
+IsSecured = True
+Method = PUT
+Query String = 
+Path = /api/Pizza/18
+Body = {
+  "name": "string",
+  "description": "string",
+  "price": 200,
+  "caloryCount": 20
+}
+Request Time = 01.02.2023 11:47:56
+
+*******Request Log*******
+IP = ::1
+Scheme = https
+Host = localhost:7167
+IsSecured = True
+Method = GET
+Query String = 
+Path = /api/Pizza/15
+Body = 
+Request Time = 01.02.2023 11:51:08
+
+*******Response Log*******
+Content type = application/json; charset=utf-8
+Status code = 200
+Body = {"id":15,"name":"stringefbjhb","description":"string","price":20.00,"imageFullPath":"","caloryCount":20,"averageRank":-1}
+Headers = Content-Type:application/json; charset=utf-8
+
+
+*******Request Log*******
+IP = ::1
+Scheme = https
+Host = localhost:7167
+IsSecured = True
+Method = POST
+Query String = 
+Path = /api/Pizza
+Body = {
+  "name": "stringksbeffjshb",
+  "description": "strinjahbdjabg",
+  "price": 50,
+  "caloryCount": 50
+}
+Request Time = 01.02.2023 11:51:38
+
+*******Response Log*******
+Content type = application/json; charset=utf-8
+Status code = 200
+Body = 19
+Headers = Content-Type:application/json; charset=utf-8
+
+
+*******Request Log*******
+IP = ::1
+Scheme = https
+Host = localhost:7167
+IsSecured = True
+Method = POST
+Query String = 
+Path = /api/Pizza
+Body = {
+  "name": "პიცა",
+  "description": "string",
+  "price": 350,
+  "caloryCount": 350
+}
+Request Time = 01.02.2023 11:54:30
+
+*******Request Log*******
+IP = ::1
+Scheme = https
+Host = localhost:7167
+IsSecured = True
+Method = POST
+Query String = 
+Path = /api/Pizza
+Body = {
+  "name": "Pica",
+  "description": "string",
+  "price": 200,
+  "caloryCount": 200
+}
+Request Time = 01.02.2023 11:55:34
+
+*******Response Log*******
+Content type = application/json; charset=utf-8
+Status code = 200
+Body = {"id":21,"name":"Pica","description":"string","price":200,"imageFullPath":"","caloryCount":200,"averageRank":-1}
+Headers = Content-Type:application/json; charset=utf-8
+
+
+*******Request Log*******
+IP = ::1
+Scheme = https
+Host = localhost:7167
+IsSecured = True
+Method = GET
+Query String = 
+Path = /api/Pizza/21
+Body = 
+Request Time = 01.02.2023 11:56:23
+
+*******Response Log*******
+Content type = application/json; charset=utf-8
+Status code = 200
+Body = {"id":21,"name":"Pica","description":"string","price":200.00,"imageFullPath":"","caloryCount":200,"averageRank":-1}
+Headers = Content-Type:application/json; charset=utf-8
+
+
+*******Request Log*******
+IP = ::1
+Scheme = https
+Host = localhost:7167
+IsSecured = True
+Method = PUT
+Query String = 
+Path = /api/Pizza/21
+Body = {
+  "name": "Pitsa",
+  "description": "pitsuka",
+  "price": 200,
+  "caloryCount": 400
+}
+Request Time = 01.02.2023 11:56:56
+
+*******Request Log*******
+IP = ::1
+Scheme = https
+Host = localhost:7167
+IsSecured = True
+Method = PUT
+Query String = 
+Path = /api/Pizza/21
+Body = {
+  "name": "pitsa",
+  "description": "pitsuka",
+  "price": 10,
+  "caloryCount": 100
+}
+Request Time = 01.02.2023 11:57:45
+
+*******Response Log*******
+Content type = application/json; charset=utf-8
+Status code = 200
+Body = {"id":21,"name":"pitsa","description":"pitsuka","price":10,"imageFullPath":"","caloryCount":100,"averageRank":-1}
+Headers = Content-Type:application/json; charset=utf-8
+
+
+*******Request Log*******
+IP = ::1
+Scheme = https
+Host = localhost:7167
+IsSecured = True
+Method = PUT
+Query String = 
+Path = /api/Pizza/21
+Body = {
+  "name": "pitsaa",
+  "description": "pitsuka",
+  "price": 10,
+  "caloryCount": 100
+}
+Request Time = 01.02.2023 11:58:01
+
+*******Response Log*******
+Content type = application/json; charset=utf-8
+Status code = 200
+Body = {"id":21,"name":"pitsaa","description":"pitsuka","price":10.00,"imageFullPath":"","caloryCount":100,"averageRank":-1}
+Headers = Content-Type:application/json; charset=utf-8
+
+
+*******Request Log*******
+IP = ::1
+Scheme = https
+Host = localhost:7167
+IsSecured = True
+Method = GET
+Query String = 
+Path = /api/Pizza/21
+Body = 
+Request Time = 01.02.2023 11:58:09
+
+*******Response Log*******
+Content type = application/json; charset=utf-8
+Status code = 200
+Body = {"id":21,"name":"pitsaa","description":"pitsuka","price":10.00,"imageFullPath":"","caloryCount":100,"averageRank":-1}
+Headers = Content-Type:application/json; charset=utf-8
+
+
+*******Request Log*******
+IP = ::1
+Scheme = https
+Host = localhost:7167
+IsSecured = True
+Method = DELETE
+Query String = 
+Path = /api/Pizza/21
+Body = 
+Request Time = 01.02.2023 11:58:25
+
+*******Response Log*******
+Content type = 
+Status code = 204
+Body = 
+Headers = 
+
+*******Request Log*******
+IP = ::1
+Scheme = https
+Host = localhost:7167
+IsSecured = True
+Method = GET
+Query String = 
+Path = /api/Pizza/21
+Body = 
+Request Time = 01.02.2023 11:58:32
+
+*******Request Log*******
+IP = ::1
+Scheme = https
+Host = localhost:7167
+IsSecured = True
+Method = GET
+Query String = 
+Path = /api/Rank/1
+Body = 
+Request Time = 01.02.2023 13:20:46
+
+*******Response Log*******
+Content type = application/json; charset=utf-8
+Status code = 200
+Body = {"id":1,"userId":1,"pizzaId":1,"rank":5}
+Headers = Content-Type:application/json; charset=utf-8
+
+
+*******Request Log*******
+IP = ::1
+Scheme = https
+Host = localhost:7167
+IsSecured = True
+Method = GET
+Query String = 
+Path = /api/Rank
+Body = 
+Request Time = 01.02.2023 13:20:58
+
+*******Response Log*******
+Content type = application/json; charset=utf-8
+Status code = 200
+Body = [{"id":1,"userId":1,"pizzaId":1,"rank":5},{"id":2,"userId":2,"pizzaId":2,"rank":7},{"id":3,"userId":2,"pizzaId":1,"rank":7}]
+Headers = Content-Type:application/json; charset=utf-8
+
+
+*******Request Log*******
+IP = ::1
+Scheme = https
+Host = localhost:7167
+IsSecured = True
+Method = POST
+Query String = 
+Path = /api/Rank
+Body = {
+  "userId": 1,
+  "pizzaId": 1,
+  "rank": 9
+}
+Request Time = 01.02.2023 13:21:16
+
+*******Request Log*******
+IP = ::1
+Scheme = https
+Host = localhost:7167
+IsSecured = True
+Method = POST
+Query String = 
+Path = /api/Rank
+Body = {
+  "userId": 2,
+  "pizzaId": 1,
+  "rank": 9
+}
+Request Time = 01.02.2023 13:21:28
+
+*******Request Log*******
+IP = ::1
+Scheme = https
+Host = localhost:7167
+IsSecured = True
+Method = POST
+Query String = 
+Path = /api/Rank
+Body = {
+  "userId": 8,
+  "pizzaId": 1,
+  "rank": 9
+}
+Request Time = 01.02.2023 13:21:36
+
+*******Request Log*******
+IP = ::1
+Scheme = https
+Host = localhost:7167
+IsSecured = True
+Method = POST
+Query String = 
+Path = /api/Rank
+Body = {
+  "userId": 8,
+  "pizzaId": 1,
+  "rank": 8
+}
+Request Time = 01.02.2023 13:22:26
+
+*******Request Log*******
+IP = ::1
+Scheme = https
+Host = localhost:7167
+IsSecured = True
+Method = GET
+Query String = 
+Path = /api/Order
+Body = 
+Request Time = 01.02.2023 13:23:03
+
+*******Response Log*******
+Content type = application/json; charset=utf-8
+Status code = 200
+Body = []
+Headers = Content-Type:application/json; charset=utf-8
+
+
+*******Request Log*******
+IP = ::1
+Scheme = https
+Host = localhost:7167
+IsSecured = True
+Method = GET
+Query String = 
+Path = /api/Order/1
+Body = 
+Request Time = 01.02.2023 13:27:13
+
+*******Request Log*******
+IP = ::1
+Scheme = https
+Host = localhost:7167
+IsSecured = True
+Method = GET
+Query String = 
+Path = /api/Order/2
+Body = 
+Request Time = 01.02.2023 13:27:23
+
+*******Request Log*******
+IP = ::1
+Scheme = https
+Host = localhost:7167
+IsSecured = True
+Method = GET
+Query String = 
+Path = /api/Order
+Body = 
+Request Time = 01.02.2023 13:44:49
+
+*******Response Log*******
+Content type = application/json; charset=utf-8
+Status code = 200
+Body = []
+Headers = Content-Type:application/json; charset=utf-8
+
+
+*******Request Log*******
+IP = ::1
+Scheme = https
+Host = localhost:7167
+IsSecured = True
+Method = GET
+Query String = 
+Path = /api/Order
+Body = 
+Request Time = 01.02.2023 13:45:37
+
+*******Request Log*******
+IP = ::1
+Scheme = https
+Host = localhost:7167
+IsSecured = True
+Method = POST
+Query String = 
+Path = /api/Order
+Body = {
+  "userId": 1,
+  "addressId": 1,
+  "pizzaId": 20
+}
+Request Time = 01.02.2023 14:02:15
+
+*******Response Log*******
+Content type = application/json; charset=utf-8
+Status code = 200
+Body = {"id":1,"userId":1,"addressId":1,"pizzaId":20}
+Headers = Content-Type:application/json; charset=utf-8
+
+
+*******Request Log*******
+IP = ::1
+Scheme = https
+Host = localhost:7167
+IsSecured = True
+Method = GET
+Query String = 
+Path = /api/Address/1
+Body = 
+Request Time = 01.02.2023 14:02:30
+
+*******Request Log*******
+IP = ::1
+Scheme = https
+Host = localhost:7167
+IsSecured = True
+Method = POST
+Query String = 
+Path = /api/Order
+Body = {
+  "userId": 1,
+  "addressId": 2,
+  "pizzaId": 3
+}
+Request Time = 01.02.2023 14:04:24
+
+*******Request Log*******
+IP = ::1
+Scheme = https
+Host = localhost:7167
+IsSecured = True
+Method = GET
+Query String = 
+Path = /api/Address/1
+Body = 
+Request Time = 01.02.2023 14:04:38
+
+*******Request Log*******
+IP = ::1
+Scheme = https
+Host = localhost:7167
+IsSecured = True
+Method = GET
+Query String = 
+Path = /api/User/1
+Body = 
+Request Time = 01.02.2023 14:04:52
+
+*******Response Log*******
+Content type = application/json; charset=utf-8
+Status code = 200
+Body = {"id":1,"firstName":"string","lastName":"string","email":"string","phoneNumber":"string","addresses":[]}
+Headers = Content-Type:application/json; charset=utf-8
+
+
+*******Request Log*******
+IP = ::1
+Scheme = https
+Host = localhost:7167
+IsSecured = True
+Method = GET
+Query String = 
+Path = /api/User/2
+Body = 
+Request Time = 01.02.2023 14:04:59
+
+*******Response Log*******
+Content type = application/json; charset=utf-8
+Status code = 200
+Body = {"id":2,"firstName":"Ani","lastName":"Sani","email":"anni@gmail.com","phoneNumber":"Ani","addresses":[]}
+Headers = Content-Type:application/json; charset=utf-8
+
+
+*******Request Log*******
+IP = ::1
+Scheme = https
+Host = localhost:7167
+IsSecured = True
+Method = GET
+Query String = 
+Path = /api/User/3
+Body = 
+Request Time = 01.02.2023 14:05:04
+
+*******Request Log*******
+IP = ::1
+Scheme = https
+Host = localhost:7167
+IsSecured = True
+Method = GET
+Query String = 
+Path = /api/User/4
+Body = 
+Request Time = 01.02.2023 14:05:10
+
+*******Request Log*******
+IP = ::1
+Scheme = https
+Host = localhost:7167
+IsSecured = True
+Method = GET
+Query String = 
+Path = /api/User/5
+Body = 
+Request Time = 01.02.2023 14:05:15
+
+*******Response Log*******
+Content type = application/json; charset=utf-8
+Status code = 200
+Body = {"id":5,"firstName":"Updated firstName","lastName":"Updated lastName","email":"updatedUser@gmail.com","phoneNumber":"577585945","addresses":[{"id":3,"userId":5,"city":"stringAB","coutry":"string","region":"string","description":"string"},{"id":4,"userId":5,"city":"string","coutry":"string","region":"string","description":"string"}]}
+Headers = Content-Type:application/json; charset=utf-8
+
+
+*******Request Log*******
+IP = ::1
+Scheme = https
+Host = localhost:7167
+IsSecured = True
+Method = POST
+Query String = 
+Path = /api/Order
+Body = {
+  "userId": 5,
+  "addressId": 3,
+  "pizzaId": 3
+}
+Request Time = 01.02.2023 14:05:28
+
+*******Response Log*******
+Content type = application/json; charset=utf-8
+Status code = 200
+Body = {"id":2,"userId":5,"addressId":3,"pizzaId":3}
+Headers = Content-Type:application/json; charset=utf-8
+
+
+*******Request Log*******
+IP = ::1
+Scheme = https
+Host = localhost:7167
+IsSecured = True
+Method = GET
+Query String = 
+Path = /api/Order
+Body = 
+Request Time = 01.02.2023 14:05:43
+
+*******Response Log*******
+Content type = application/json; charset=utf-8
+Status code = 200
+Body = [{"id":1,"userId":1,"addressId":1,"pizzaId":20},{"id":2,"userId":5,"addressId":3,"pizzaId":3}]
+Headers = Content-Type:application/json; charset=utf-8
+
+
+*******Request Log*******
+IP = ::1
+Scheme = https
+Host = localhost:7167
+IsSecured = True
+Method = GET
+Query String = 
+Path = /api/Order/1
+Body = 
+Request Time = 01.02.2023 14:05:58
+
+*******Response Log*******
+Content type = application/json; charset=utf-8
+Status code = 200
+Body = {"id":1,"userId":1,"addressId":1,"pizzaId":20}
+Headers = Content-Type:application/json; charset=utf-8
+
+
+*******Request Log*******
+IP = ::1
+Scheme = https
+Host = localhost:7167
+IsSecured = True
+Method = POST
+Query String = 
+Path = /api/Rank
+Body = {
+  "userId": 5,
+  "pizzaId": 3,
+  "rank": 10
+}
+Request Time = 01.02.2023 14:06:37
+
+*******Request Log*******
+IP = ::1
+Scheme = https
+Host = localhost:7167
+IsSecured = True
+Method = GET
+Query String = 
+Path = /api/Order
+Body = 
+Request Time = 01.02.2023 14:07:38
+
+*******Response Log*******
+Content type = application/json; charset=utf-8
+Status code = 200
+Body = [{"id":1,"userId":1,"addressId":1,"pizzaId":20},{"id":2,"userId":5,"addressId":3,"pizzaId":3}]
+Headers = Content-Type:application/json; charset=utf-8
+
+
+*******Request Log*******
+IP = ::1
+Scheme = https
+Host = localhost:7167
+IsSecured = True
+Method = GET
+Query String = 
+Path = /api/Rank
+Body = 
+Request Time = 01.02.2023 14:08:13
+
+*******Response Log*******
+Content type = application/json; charset=utf-8
+Status code = 200
+Body = [{"id":1,"userId":1,"pizzaId":1,"rank":5},{"id":2,"userId":2,"pizzaId":2,"rank":7},{"id":3,"userId":2,"pizzaId":1,"rank":7}]
+Headers = Content-Type:application/json; charset=utf-8
+
+
+*******Request Log*******
+IP = ::1
+Scheme = https
+Host = localhost:7167
+IsSecured = True
+Method = GET
+Query String = 
+Path = /api/Rank/2
+Body = 
+Request Time = 01.02.2023 14:08:31
+
+*******Response Log*******
+Content type = application/json; charset=utf-8
+Status code = 200
+Body = {"id":2,"userId":2,"pizzaId":2,"rank":7}
+Headers = Content-Type:application/json; charset=utf-8
+
+
+*******Request Log*******
+IP = ::1
+Scheme = https
+Host = localhost:7167
+IsSecured = True
+Method = POST
+Query String = 
+Path = /api/Rank
+Body = {
+  "userId": 5,
+  "pizzaId": 3,
+  "rank": 9
+}
+Request Time = 01.02.2023 14:09:31
+
+*******Request Log*******
+IP = ::1
+Scheme = https
+Host = localhost:7167
+IsSecured = True
+Method = GET
+Query String = 
+Path = /api/Order
+Body = 
+Request Time = 01.02.2023 14:18:23
+
+*******Response Log*******
+Content type = application/json; charset=utf-8
+Status code = 200
+Body = [{"id":1,"userId":1,"addressId":1,"pizzaId":20},{"id":2,"userId":5,"addressId":3,"pizzaId":3}]
+Headers = Content-Type:application/json; charset=utf-8
+
+
+*******Request Log*******
+IP = ::1
+Scheme = https
+Host = localhost:7167
+IsSecured = True
+Method = POST
+Query String = 
+Path = /api/Rank
+Body = {
+  "userId": 5,
+  "pizzaId": 3,
+  "rank": 9
+}
+Request Time = 01.02.2023 14:19:01
+
+*******Response Log*******
+Content type = application/json; charset=utf-8
+Status code = 200
+Body = {"id":4,"userId":5,"pizzaId":3,"rank":9}
+Headers = Content-Type:application/json; charset=utf-8
+
+
+*******Request Log*******
+IP = ::1
+Scheme = https
+Host = localhost:7167
+IsSecured = True
+Method = GET
+Query String = 
+Path = /api/Pizza/3
+Body = 
+Request Time = 01.02.2023 14:19:51
+
+*******Response Log*******
+Content type = application/json; charset=utf-8
+Status code = 200
+Body = {"id":3,"name":"Margarita","description":"margarita desc..","price":15.00,"imageFullPath":"Pizza3Image.Path","caloryCount":400,"averageRank":9}
+Headers = Content-Type:application/json; charset=utf-8
+
+
+*******Request Log*******
+IP = ::1
+Scheme = https
+Host = localhost:7167
+IsSecured = True
+Method = GET
+Query String = 
+Path = /api/Image
+Body = 
+Request Time = 01.02.2023 14:30:56
+
+*******Response Log*******
+Content type = application/json; charset=utf-8
+Status code = 200
+Body = [{"pizzaId":2,"originalName":"Pizza2 Image","path":"Pizza2Image.Path"},{"pizzaId":3,"originalName":"Pizza3 Image","path":"Pizza3Image.Path"}]
+Headers = Content-Type:application/json; charset=utf-8
+
+
+*******Request Log*******
+IP = ::1
+Scheme = https
+Host = localhost:7167
+IsSecured = True
+Method = GET
+Query String = 
+Path = /api/Image/1
+Body = 
+Request Time = 01.02.2023 14:31:11
+
+*******Request Log*******
+IP = ::1
+Scheme = https
+Host = localhost:7167
+IsSecured = True
+Method = GET
+Query String = 
+Path = /api/Pizza/2
+Body = 
+Request Time = 01.02.2023 14:31:27
+
+*******Request Log*******
+IP = ::1
+Scheme = https
+Host = localhost:7167
+IsSecured = True
+Method = GET
+Query String = 
+Path = /api/Pizza/3
+Body = 
+Request Time = 01.02.2023 14:31:50
+
+*******Response Log*******
+Content type = application/json; charset=utf-8
+Status code = 200
+Body = {"id":3,"name":"Margarita","description":"margarita desc..","price":15.00,"imageFullPath":"Pizza3Image.Path","caloryCount":400,"averageRank":9}
+Headers = Content-Type:application/json; charset=utf-8
+
+
+*******Request Log*******
+IP = ::1
+Scheme = https
+Host = localhost:7167
+IsSecured = True
+Method = GET
+Query String = 
+Path = /api/Image/2
+Body = 
+Request Time = 01.02.2023 14:32:18
+
+*******Response Log*******
+Content type = application/json; charset=utf-8
+Status code = 200
+Body = {"pizzaId":2,"originalName":"Pizza2 Image","path":"Pizza2Image.Path"}
+Headers = Content-Type:application/json; charset=utf-8
+
+
+*******Request Log*******
+IP = ::1
+Scheme = https
+Host = localhost:7167
+IsSecured = True
+Method = POST
+Query String = 
+Path = /api/Image
+Body = {
+  "pizzaId": 5,
+  "originalName": "New Image for pizza 5",
+  "path": "pathb jb 5"
+}
+Request Time = 01.02.2023 14:33:12
+
+*******Response Log*******
+Content type = application/json; charset=utf-8
+Status code = 200
+Body = {"pizzaId":5,"originalName":"New Image for pizza 5","path":"pathb jb 5"}
+Headers = Content-Type:application/json; charset=utf-8
+
+
+*******Request Log*******
+IP = ::1
+Scheme = https
+Host = localhost:7167
+IsSecured = True
+Method = GET
+Query String = 
+Path = /api/Pizza/5
+Body = 
+Request Time = 01.02.2023 14:33:47
+
+*******Response Log*******
+Content type = application/json; charset=utf-8
+Status code = 200
+Body = {"id":5,"name":"peperonnn","description":"peperonni","price":20.00,"imageFullPath":"pathb jb 5","caloryCount":200,"averageRank":-1}
+Headers = Content-Type:application/json; charset=utf-8
+
+
+*******Request Log*******
+IP = ::1
+Scheme = https
+Host = localhost:7167
+IsSecured = True
+Method = GET
+Query String = 
+Path = /api/Image
+Body = 
+Request Time = 01.02.2023 14:34:25
+
+*******Response Log*******
+Content type = application/json; charset=utf-8
+Status code = 200
+Body = [{"pizzaId":2,"originalName":"Pizza2 Image","path":"Pizza2Image.Path"},{"pizzaId":3,"originalName":"Pizza3 Image","path":"Pizza3Image.Path"},{"pizzaId":5,"originalName":"New Image for pizza 5","path":"pathb jb 5"}]
+Headers = Content-Type:application/json; charset=utf-8
+
+
+*******Request Log*******
+IP = ::1
+Scheme = https
+Host = localhost:7167
+IsSecured = True
+Method = GET
+Query String = 
+Path = /api/Image
+Body = 
+Request Time = 01.02.2023 14:37:21
+
+*******Response Log*******
+Content type = application/json; charset=utf-8
+Status code = 200
+Body = [{"id":2,"pizzaId":2,"originalName":"Pizza2 Image","path":"Pizza2Image.Path"},{"id":3,"pizzaId":3,"originalName":"Pizza3 Image","path":"Pizza3Image.Path"},{"id":4,"pizzaId":5,"originalName":"New Image for pizza 5","path":"pathb jb 5"}]
+Headers = Content-Type:application/json; charset=utf-8
+
+
+*******Request Log*******
+IP = ::1
+Scheme = https
+Host = localhost:7167
+IsSecured = True
+Method = PUT
+Query String = 
+Path = /api/Image/2
+Body = {
+  "pizzaId": 20,
+  "originalName": "string",
+  "path": "string"
+}
+Request Time = 01.02.2023 14:37:49
+
+*******Response Log*******
+Content type = 
+Status code = 200
+Body = 
+Headers = 
+
+*******Request Log*******
+IP = ::1
+Scheme = https
+Host = localhost:7167
+IsSecured = True
+Method = PUT
+Query String = 
+Path = /api/Image/2
+Body = {
+  "pizzaId": 20,
+  "originalName": "string",
+  "path": "string"
+}
+Request Time = 01.02.2023 14:38:58
+
+*******Response Log*******
+Content type = application/json; charset=utf-8
+Status code = 200
+Body = {"id":2,"pizzaId":20,"originalName":"string","path":"string"}
+Headers = Content-Type:application/json; charset=utf-8
+
+
+*******Request Log*******
+IP = ::1
+Scheme = https
+Host = localhost:7167
+IsSecured = True
+Method = GET
+Query String = 
+Path = /api/Image
+Body = 
+Request Time = 01.02.2023 14:39:08
+
+*******Response Log*******
+Content type = application/json; charset=utf-8
+Status code = 200
+Body = [{"id":2,"pizzaId":20,"originalName":"string","path":"string"},{"id":3,"pizzaId":3,"originalName":"Pizza3 Image","path":"Pizza3Image.Path"},{"id":4,"pizzaId":5,"originalName":"New Image for pizza 5","path":"pathb jb 5"}]
+Headers = Content-Type:application/json; charset=utf-8
+
+
+*******Request Log*******
+IP = ::1
+Scheme = https
+Host = localhost:7167
+IsSecured = True
+Method = GET
+Query String = 
+Path = /api/User/20
+Body = 
+Request Time = 01.02.2023 14:39:25
+
+*******Response Log*******
+Content type = application/json; charset=utf-8
+Status code = 200
+Body = {"id":20,"firstName":"aniko","lastName":"ann","email":"ann@gmail.com","phoneNumber":"577051420","addresses":[]}
+Headers = Content-Type:application/json; charset=utf-8
+
+
+*******Request Log*******
+IP = ::1
+Scheme = https
+Host = localhost:7167
+IsSecured = True
+Method = GET
+Query String = 
+Path = /api/Pizza/20
+Body = 
+Request Time = 01.02.2023 14:39:41
+
+*******Response Log*******
+Content type = application/json; charset=utf-8
+Status code = 200
+Body = {"id":20,"name":"პიცა","description":"string","price":350.00,"imageFullPath":"string","caloryCount":350,"averageRank":-1}
+Headers = Content-Type:application/json; charset=utf-8
+
+
+*******Request Log*******
+IP = ::1
+Scheme = https
+Host = localhost:7167
+IsSecured = True
+Method = DELETE
+Query String = 
+Path = /api/Image/2
+Body = 
+Request Time = 01.02.2023 14:39:58
+
+*******Response Log*******
+Content type = 
+Status code = 200
+Body = 
+Headers = 
+
+*******Request Log*******
+IP = ::1
+Scheme = https
+Host = localhost:7167
+IsSecured = True
+Method = GET
+Query String = 
+Path = /api/Pizza/20
+Body = 
+Request Time = 01.02.2023 14:40:08
+
+*******Response Log*******
+Content type = application/json; charset=utf-8
+Status code = 200
+Body = {"id":20,"name":"პიცა","description":"string","price":350.00,"imageFullPath":"","caloryCount":350,"averageRank":-1}
+Headers = Content-Type:application/json; charset=utf-8
+
+
+*******Request Log*******
+IP = ::1
+Scheme = https
+Host = localhost:7167
+IsSecured = True
+Method = GET
+Query String = 
+Path = /api/Address
+Body = 
+Request Time = 01.02.2023 16:13:48
+
+*******Response Log*******
+Content type = application/json; charset=utf-8
+Status code = 200
+Body = [{"id":3,"userId":5,"city":"stringAB","coutry":"string","region":"string","description":"string"},{"id":4,"userId":5,"city":"string","coutry":"string","region":"string","description":"string"},{"id":6,"userId":7,"city":"Tblisi","coutry":"Goergia","region":"Goergia","description":"sdhbjshb..."},{"id":7,"userId":8,"city":"Tblisi","coutry":"Goergia","region":"Goergia","description":"sdhbjshb..."},{"id":8,"userId":9,"city":"Tblisi","coutry":"Goergia","region":"Goergia","description":"sdhbjshb..."},{"id":9,"userId":10,"city":"Tblisi","coutry":"Goergia","region":"Goergia","description":"sdhbjshb..."},{"id":10,"userId":11,"city":"Tblisi","coutry":"Goergia","region":"Goergia","description":"sdhbjshb..."},{"id":11,"userId":12,"city":"Tblisi","coutry":"Goergia","region":"Goergia","description":"sdhbjshb..."},{"id":12,"userId":13,"city":"Tblisi","coutry":"Goergia","region":"Goergia","description":"sdhbjshb..."},{"id":13,"userId":14,"city":"Tblisi","coutry":"Goergia","region":"Goergia","description":"sdhbjshb..."},{"id":14,"userId":15,"city":"TblisiAniko","coutry":"GoergiaAniko","region":"GoergiaAniko","description":"sdhbjshb..."},{"id":16,"userId":17,"city":"Tblisi","coutry":"Goergia","region":"Goergia","description":"sdhbjshb..."},{"id":17,"userId":18,"city":"Tblisi","coutry":"Goergia","region":"Goergia","description":"sdhbjshb..."},{"id":18,"userId":19,"city":"Tblisi","coutry":"Goergia","region":"Goergia","description":"sdhbjshb..."},{"id":19,"userId":24,"city":"string","coutry":"string","region":"string","description":"string"},{"id":20,"userId":8,"city":"string","coutry":"string","region":"string","description":"string"},{"id":21,"userId":28,"city":"თბილისი","coutry":"საქართველო","region":"თბილისი","description":"აღწერა..."},{"id":22,"userId":8,"city":"stringA","coutry":"string","region":"string","description":"string"},{"id":23,"userId":10,"city":"vinna","coutry":"austria","region":"region...","description":"desc"},{"id":24,"userId":10,"city":"vinna","coutry":"austria","region":"region...","description":"desc"},{"id":26,"userId":10,"city":"ViennaUpdated","coutry":"Austria","region":"region...","description":"desc"},{"id":27,"userId":10,"city":"string","coutry":"string","region":"string","description":"string"},{"id":28,"userId":11,"city":"string","coutry":"string","region":"string","description":"string"},{"id":29,"userId":10,"city":"ViennaFinal","coutry":"Austria","region":"region...","description":"desc"},{"id":30,"userId":14,"city":"FinalCity","coutry":"string","region":"string","description":"string"},{"id":31,"userId":10,"city":"stringAni","coutry":"stringANi","region":"string","description":"string"}]
+Headers = Content-Type:application/json; charset=utf-8
+

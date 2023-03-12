@@ -1,0 +1,172 @@
+﻿
+*******Exception Log*******{"LogLevel":2,"Code":"UserNotFound","TraceId":"0HMO255O0BPVJ:00000001","Type":"https://datatracker.ietf.org/doc/html/rfc7231#section-6.5.4","Title":"User was not found","Status":404,"Detail":null,"Instance":"/api/User/100","Extensions":{"TraceId":"0HMO255O0BPVJ:00000001"}}
+*******Exception Log*******
+{"LogLevel":2,"Code":"UserNotFound","TraceId":"0HMO257IJTK4M:00000001","Type":"https://datatracker.ietf.org/doc/html/rfc7231#section-6.5.4","Title":"User was not found","Status":404,"Detail":null,"Instance":"/api/User/100","Extensions":{"TraceId":"0HMO257IJTK4M:00000001"}}
+*******Exception Log*******
+{"LogLevel":2,"Code":"UserNotFound","TraceId":"0HMO25B5RLVPL:00000001","Type":"https://datatracker.ietf.org/doc/html/rfc7231#section-6.5.4","Title":"User was not found","Status":404,"Detail":null,"Instance":"/api/User/100","Extensions":{"TraceId":"0HMO25B5RLVPL:00000001"}}
+*******Exception Log*******
+{"LogLevel":4,"Code":"UnhandledError","TraceId":"0HMO264QHCEF0:00000009","Type":null,"Title":"No route matches the supplied values.","Status":500,"Detail":null,"Instance":"/api/User","Extensions":{"TraceId":"0HMO264QHCEF0:00000009"}}
+*******Exception Log*******
+{"LogLevel":4,"Code":"UnhandledError","TraceId":"0HMO2662LCFF3:0000000B","Type":null,"Title":"No route matches the supplied values.","Status":500,"Detail":null,"Instance":"/api/User","Extensions":{"TraceId":"0HMO2662LCFF3:0000000B"}}
+*******Exception Log*******
+{"LogLevel":2,"Code":"UserNotFound","TraceId":"0HMO2MFBPFK28:00000001","Type":"https://datatracker.ietf.org/doc/html/rfc7231#section-6.5.4","Title":"User was not found","Status":404,"Detail":null,"Instance":"/api/User/100","Extensions":{"TraceId":"0HMO2MFBPFK28:00000001"}}
+*******Exception Log*******
+{"LogLevel":2,"Code":"UserNotFound","TraceId":"0HMO2MHMBFL3N:00000001","Type":"https://datatracker.ietf.org/doc/html/rfc7231#section-6.5.4","Title":"User was not found","Status":404,"Detail":null,"Instance":"/api/User/100","Extensions":{"TraceId":"0HMO2MHMBFL3N:00000001"}}
+*******Exception Log*******
+{"LogLevel":2,"Code":"UserNotFound","TraceId":"0HMO2MJNG21T6:00000001","Type":"https://datatracker.ietf.org/doc/html/rfc7231#section-6.5.4","Title":"მომხმარებელი ვერ მოიძებნა","Status":404,"Detail":null,"Instance":"/api/User/100","Extensions":{"TraceId":"0HMO2MJNG21T6:00000001"}}
+*******Exception Log*******
+{"LogLevel":4,"Code":"UnhandledError","TraceId":"0HMO2MLHHC0JJ:00000009","Type":null,"Title":"Culture is not supported. (Parameter 'name')\r\nen-US,en;q=0.9 is an invalid culture identifier.","Status":500,"Detail":null,"Instance":"/api/User/100","Extensions":{"TraceId":"0HMO2MLHHC0JJ:00000009"}}
+*******Exception Log*******
+{"LogLevel":2,"Code":"UserNotFound","TraceId":"0HMO2MN0GUDKF:00000009","Type":"https://datatracker.ietf.org/doc/html/rfc7231#section-6.5.4","Title":"User was not found","Status":404,"Detail":null,"Instance":"/api/User/100","Extensions":{"TraceId":"0HMO2MN0GUDKF:00000009"}}
+*******Exception Log*******
+{"LogLevel":2,"Code":"UserNotFound","TraceId":"0HMO2MQ9Q9SOQ:00000002","Type":"https://datatracker.ietf.org/doc/html/rfc7231#section-6.5.4","Title":"User was not found","Status":404,"Detail":null,"Instance":"/api/User/100","Extensions":{"TraceId":"0HMO2MQ9Q9SOQ:00000002"}}
+*******Exception Log*******
+{"LogLevel":2,"Code":"UserNotFound","TraceId":"0HMO2MS8KMNB7:00000002","Type":"https://datatracker.ietf.org/doc/html/rfc7231#section-6.5.4","Title":"მომხმარებელი ვერ მოიძებნა","Status":404,"Detail":null,"Instance":"/api/User/100","Extensions":{"TraceId":"0HMO2MS8KMNB7:00000002"}}
+*******Exception Log*******
+{"LogLevel":2,"Code":"UserNotFound","TraceId":"0HMO2MS8KMNB8:00000001","Type":"https://datatracker.ietf.org/doc/html/rfc7231#section-6.5.4","Title":"User was not found","Status":404,"Detail":null,"Instance":"/api/User/100","Extensions":{"TraceId":"0HMO2MS8KMNB8:00000001"}}
+*******Exception Log*******
+{"LogLevel":2,"Code":"UserNotFound","TraceId":"0HMO2N3P26M2Q:00000002","Type":"https://datatracker.ietf.org/doc/html/rfc7231#section-6.5.4","Title":"მომხმარებელივერ მოიძებნა","Status":404,"Detail":null,"Instance":"/api/User/100","Extensions":{"TraceId":"0HMO2N3P26M2Q:00000002"}}
+*******Exception Log*******
+{"LogLevel":2,"Code":"UserNotFound","TraceId":"0HMO2N3P26M2Q:00000003","Type":"https://datatracker.ietf.org/doc/html/rfc7231#section-6.5.4","Title":"User was not found","Status":404,"Detail":null,"Instance":"/api/User/100","Extensions":{"TraceId":"0HMO2N3P26M2Q:00000003"}}
+*******Exception Log*******
+{"LogLevel":2,"Code":"UserNotFound","TraceId":"0HMO3E3R4J3G0:00000001","Type":"https://datatracker.ietf.org/doc/html/rfc7231#section-6.5.4","Title":"User was not found","Status":404,"Detail":null,"Instance":"/api/User/100","Extensions":{"TraceId":"0HMO3E3R4J3G0:00000001"}}
+*******Exception Log*******
+{"LogLevel":2,"Code":"UserNotFound","TraceId":"0HMO3E5KS9HR7:00000004","Type":"https://datatracker.ietf.org/doc/html/rfc7231#section-6.5.4","Title":"მომხმარებელი ვერ მოიძებნა","Status":404,"Detail":null,"Instance":"/api/User/100","Extensions":{"TraceId":"0HMO3E5KS9HR7:00000004"}}
+*******Exception Log*******
+{"LogLevel":4,"Code":"UnhandledError","TraceId":"0HMO3EAAPH2IK:00000002","Type":null,"Title":"Object reference not set to an instance of an object.","Status":500,"Detail":null,"Instance":"/api/User","Extensions":{"TraceId":"0HMO3EAAPH2IK:00000002"}}
+*******Exception Log*******
+{"LogLevel":2,"Code":"UserNotFound","TraceId":"0HMO3EQ1CHF71:0000000B","Type":"https://datatracker.ietf.org/doc/html/rfc7231#section-6.5.4","Title":"User was not found","Status":404,"Detail":null,"Instance":"/api/User/100","Extensions":{"TraceId":"0HMO3EQ1CHF71:0000000B"}}
+*******Exception Log*******
+{"LogLevel":2,"Code":"UserNotFound","TraceId":"0HMO3ES5EFA83:00000002","Type":"https://datatracker.ietf.org/doc/html/rfc7231#section-6.5.4","Title":"მომხმარებელი ვერ მოიძებნა","Status":404,"Detail":null,"Instance":"/api/User/100","Extensions":{"TraceId":"0HMO3ES5EFA83:00000002"}}
+*******Exception Log*******
+{"LogLevel":4,"Code":"UnhandledError","TraceId":"0HMO3ES5EFA83:00000003","Type":null,"Title":"The instance of entity type 'User' cannot be tracked because another instance with the same key value for {'Id'} is already being tracked. When attaching existing entities, ensure that only one entity instance with a given key value is attached. Consider using 'DbContextOptionsBuilder.EnableSensitiveDataLogging' to see the conflicting key values.","Status":500,"Detail":null,"Instance":"/api/User/1","Extensions":{"TraceId":"0HMO3ES5EFA83:00000003"}}
+*******Exception Log*******
+{"LogLevel":4,"Code":"UnhandledError","TraceId":"0HMO3EUAS9872:00000002","Type":null,"Title":"The instance of entity type 'User' cannot be tracked because another instance with the same key value for {'Id'} is already being tracked. When attaching existing entities, ensure that only one entity instance with a given key value is attached. Consider using 'DbContextOptionsBuilder.EnableSensitiveDataLogging' to see the conflicting key values.","Status":500,"Detail":null,"Instance":"/api/User/1","Extensions":{"TraceId":"0HMO3EUAS9872:00000002"}}
+*******Exception Log*******
+{"LogLevel":4,"Code":"UnhandledError","TraceId":"0HMO3EVT2IJ7E:00000002","Type":null,"Title":"The instance of entity type 'User' cannot be tracked because another instance with the same key value for {'Id'} is already being tracked. When attaching existing entities, ensure that only one entity instance with a given key value is attached. Consider using 'DbContextOptionsBuilder.EnableSensitiveDataLogging' to see the conflicting key values.","Status":500,"Detail":null,"Instance":"/api/User/1","Extensions":{"TraceId":"0HMO3EVT2IJ7E:00000002"}}
+*******Exception Log*******
+{"LogLevel":4,"Code":"UnhandledError","TraceId":"0HMO3F2KJT95H:0000000B","Type":null,"Title":"No route matches the supplied values.","Status":500,"Detail":null,"Instance":"/api/Address","Extensions":{"TraceId":"0HMO3F2KJT95H:0000000B"}}
+*******Exception Log*******
+{"LogLevel":4,"Code":"UnhandledError","TraceId":"0HMO3F2KJT95J:00000001","Type":null,"Title":"No route matches the supplied values.","Status":500,"Detail":null,"Instance":"/api/Address","Extensions":{"TraceId":"0HMO3F2KJT95J:00000001"}}
+*******Exception Log*******
+{"LogLevel":4,"Code":"UnhandledError","TraceId":"0HMO3RTUENSHH:00000009","Type":null,"Title":"No route matches the supplied values.","Status":500,"Detail":null,"Instance":"/api/Address","Extensions":{"TraceId":"0HMO3RTUENSHH:00000009"}}
+*******Exception Log*******
+{"LogLevel":4,"Code":"UnhandledError","TraceId":"0HMO3S2PKIL5M:00000001","Type":null,"Title":"Value cannot be null. (Parameter 'entity')","Status":500,"Detail":null,"Instance":"/api/Address","Extensions":{"TraceId":"0HMO3S2PKIL5M:00000001"}}
+*******Exception Log*******
+{"LogLevel":2,"Code":"UserNotFound","TraceId":"0HMO42GFOUG2I:00000001","Type":"https://datatracker.ietf.org/doc/html/rfc7231#section-6.5.4","Title":"User was not found","Status":404,"Detail":null,"Instance":"/api/Address","Extensions":{"TraceId":"0HMO42GFOUG2I:00000001"}}
+*******Exception Log*******
+{"LogLevel":2,"Code":"UserNotFound","TraceId":"0HMO42GFOUG2K:00000003","Type":"https://datatracker.ietf.org/doc/html/rfc7231#section-6.5.4","Title":"მომხმარებელი ვერ მოიძებნა","Status":404,"Detail":null,"Instance":"/api/Address","Extensions":{"TraceId":"0HMO42GFOUG2K:00000003"}}
+*******Exception Log*******
+{"LogLevel":4,"Code":"UnhandledError","TraceId":"0HMO42GFOUG2K:00000008","Type":null,"Title":"Not Found","Status":500,"Detail":null,"Instance":"/api/Address/25","Extensions":{"TraceId":"0HMO42GFOUG2K:00000008"}}
+*******Exception Log*******
+{"LogLevel":4,"Code":"UnhandledError","TraceId":"0HMO42GFOUG2K:00000009","Type":null,"Title":"Not Found","Status":500,"Detail":null,"Instance":"/api/Address/25","Extensions":{"TraceId":"0HMO42GFOUG2K:00000009"}}
+*******Exception Log*******
+{"LogLevel":4,"Code":"UnhandledError","TraceId":"0HMO42GFOUG2K:0000000B","Type":null,"Title":"Not Found","Status":500,"Detail":null,"Instance":"/api/Address/25","Extensions":{"TraceId":"0HMO42GFOUG2K:0000000B"}}
+*******Exception Log*******
+{"LogLevel":4,"Code":"UnhandledError","TraceId":"0HMO4314CFPLN:0000000B","Type":null,"Title":"Could not find the resource \"PizzaRestaurant.Application.Localizations.ClassNames.resources\" among the resources \"PizzaRestaurant.Application.Helpers.Localizations.ClassNames.resources\", \"PizzaRestaurant.Application.Helpers.Localizations.ErrorMessages.resources\" embedded in the assembly \"PizzaRestaurant.Application\", nor among the resources in any satellite assemblies for the specified culture. Perhaps the resources were embedded with an incorrect name.","Status":500,"Detail":null,"Instance":"/api/Address/200","Extensions":{"TraceId":"0HMO4314CFPLN:0000000B"}}
+*******Exception Log*******
+{"LogLevel":4,"Code":"UnhandledError","TraceId":"0HMO432UGUT03:00000009","Type":null,"Title":"Could not find the resource \"PizzaRestaurant.Application.Localizations.ClassNames.resources\" among the resources \"PizzaRestaurant.Application.Helpers.Localizations.ClassNames.resources\", \"PizzaRestaurant.Application.Helpers.Localizations.ErrorMessages.resources\" embedded in the assembly \"PizzaRestaurant.Application\", nor among the resources in any satellite assemblies for the specified culture. Perhaps the resources were embedded with an incorrect name.","Status":500,"Detail":null,"Instance":"/api/Address/200","Extensions":{"TraceId":"0HMO432UGUT03:00000009"}}
+*******Exception Log*******
+{"LogLevel":2,"Code":"AddressNotFound","TraceId":"0HMO439MCG5F0:00000009","Type":"https://datatracker.ietf.org/doc/html/rfc7231#section-6.5.4","Title":"Address was not found","Status":404,"Detail":null,"Instance":"/api/Address/100","Extensions":{"TraceId":"0HMO439MCG5F0:00000009"}}
+*******Exception Log*******
+{"LogLevel":2,"Code":"AddressNotFound","TraceId":"0HMO439MCG5F2:00000002","Type":"https://datatracker.ietf.org/doc/html/rfc7231#section-6.5.4","Title":"მისამართი ვერ მოიძებნა","Status":404,"Detail":null,"Instance":"/api/Address/110","Extensions":{"TraceId":"0HMO439MCG5F2:00000002"}}
+*******Exception Log*******
+{"LogLevel":2,"Code":"AddressNotFound","TraceId":"0HMO439MCG5F2:00000003","Type":"https://datatracker.ietf.org/doc/html/rfc7231#section-6.5.4","Title":"მისამართი ვერ მოიძებნა","Status":404,"Detail":null,"Instance":"/api/Address/25","Extensions":{"TraceId":"0HMO439MCG5F2:00000003"}}
+*******Exception Log*******
+{"LogLevel":2,"Code":"AddressNotFound","TraceId":"0HMO439MCG5F2:00000005","Type":"https://datatracker.ietf.org/doc/html/rfc7231#section-6.5.4","Title":"მისამართი ვერ მოიძებნა","Status":404,"Detail":null,"Instance":"/api/Address/15","Extensions":{"TraceId":"0HMO439MCG5F2:00000005"}}
+*******Exception Log*******
+{"LogLevel":2,"Code":"AddressNotFound","TraceId":"0HMO439MCG5F2:00000006","Type":"https://datatracker.ietf.org/doc/html/rfc7231#section-6.5.4","Title":"მისამართი ვერ მოიძებნა","Status":404,"Detail":null,"Instance":"/api/Address/150","Extensions":{"TraceId":"0HMO439MCG5F2:00000006"}}
+*******Exception Log*******
+{"LogLevel":2,"Code":"UserNotFound","TraceId":"0HMO439MCG5F0:0000000B","Type":"https://datatracker.ietf.org/doc/html/rfc7231#section-6.5.4","Title":"User was not found","Status":404,"Detail":null,"Instance":"/api/Address/20","Extensions":{"TraceId":"0HMO439MCG5F0:0000000B"}}
+*******Exception Log*******
+{"LogLevel":2,"Code":"UserNotFound","TraceId":"0HMO439MCG5F2:00000007","Type":"https://datatracker.ietf.org/doc/html/rfc7231#section-6.5.4","Title":"მომხმარებელი ვერ მოიძებნა","Status":404,"Detail":null,"Instance":"/api/Address/20","Extensions":{"TraceId":"0HMO439MCG5F2:00000007"}}
+*******Exception Log*******
+{"LogLevel":4,"Code":"UnhandledError","TraceId":"0HMO439MCG5F2:00000008","Type":null,"Title":"The instance of entity type 'Address' cannot be tracked because another instance with the same key value for {'Id'} is already being tracked. When attaching existing entities, ensure that only one entity instance with a given key value is attached. Consider using 'DbContextOptionsBuilder.EnableSensitiveDataLogging' to see the conflicting key values.","Status":500,"Detail":null,"Instance":"/api/Address/20","Extensions":{"TraceId":"0HMO439MCG5F2:00000008"}}
+*******Exception Log*******
+{"LogLevel":2,"Code":"UserNotFound","TraceId":"0HMO439MCG5F0:00000013","Type":"https://datatracker.ietf.org/doc/html/rfc7231#section-6.5.4","Title":"User was not found","Status":404,"Detail":null,"Instance":"/api/Address/3","Extensions":{"TraceId":"0HMO439MCG5F0:00000013"}}
+*******Exception Log*******
+{"LogLevel":4,"Code":"UnhandledError","TraceId":"0HMO439MCG5F0:00000015","Type":null,"Title":"The instance of entity type 'Address' cannot be tracked because another instance with the same key value for {'Id'} is already being tracked. When attaching existing entities, ensure that only one entity instance with a given key value is attached. Consider using 'DbContextOptionsBuilder.EnableSensitiveDataLogging' to see the conflicting key values.","Status":500,"Detail":null,"Instance":"/api/Address/3","Extensions":{"TraceId":"0HMO439MCG5F0:00000015"}}
+*******Exception Log*******
+{"LogLevel":4,"Code":"UnhandledError","TraceId":"0HMO43CVAMIMP:0000000B","Type":null,"Title":"The instance of entity type 'Address' cannot be tracked because another instance with the same key value for {'Id'} is already being tracked. When attaching existing entities, ensure that only one entity instance with a given key value is attached. Consider using 'DbContextOptionsBuilder.EnableSensitiveDataLogging' to see the conflicting key values.","Status":500,"Detail":null,"Instance":"/api/Address/3","Extensions":{"TraceId":"0HMO43CVAMIMP:0000000B"}}
+*******Exception Log*******
+{"LogLevel":2,"Code":"UserNotFound","TraceId":"0HMO43F9L0K9L:0000000B","Type":"https://datatracker.ietf.org/doc/html/rfc7231#section-6.5.4","Title":"User was not found","Status":404,"Detail":null,"Instance":"/api/Address/2","Extensions":{"TraceId":"0HMO43F9L0K9L:0000000B"}}
+*******Exception Log*******
+{"LogLevel":4,"Code":"UnhandledError","TraceId":"0HMO43F9L0K9L:0000000D","Type":null,"Title":"The instance of entity type 'Address' cannot be tracked because another instance with the same key value for {'Id'} is already being tracked. When attaching existing entities, ensure that only one entity instance with a given key value is attached. Consider using 'DbContextOptionsBuilder.EnableSensitiveDataLogging' to see the conflicting key values.","Status":500,"Detail":null,"Instance":"/api/Address/2","Extensions":{"TraceId":"0HMO43F9L0K9L:0000000D"}}
+*******Exception Log*******
+{"LogLevel":4,"Code":"UnhandledError","TraceId":"0HMO43GVGO6JI:00000009","Type":null,"Title":"The instance of entity type 'Address' cannot be tracked because another instance with the same key value for {'Id'} is already being tracked. When attaching existing entities, ensure that only one entity instance with a given key value is attached. Consider using 'DbContextOptionsBuilder.EnableSensitiveDataLogging' to see the conflicting key values.","Status":500,"Detail":null,"Instance":"/api/Address/9","Extensions":{"TraceId":"0HMO43GVGO6JI:00000009"}}
+*******Exception Log*******
+{"LogLevel":4,"Code":"UnhandledError","TraceId":"0HMO43HL14TTV:0000000B","Type":null,"Title":"Value cannot be null. (Parameter 'entity')","Status":500,"Detail":null,"Instance":"/api/Address/500","Extensions":{"TraceId":"0HMO43HL14TTV:0000000B"}}
+*******Exception Log*******
+{"LogLevel":2,"Code":"AddressNotFound","TraceId":"0HMO43IN5UKM3:00000009","Type":"https://datatracker.ietf.org/doc/html/rfc7231#section-6.5.4","Title":"Address was not found","Status":404,"Detail":null,"Instance":"/api/Address/100","Extensions":{"TraceId":"0HMO43IN5UKM3:00000009"}}
+*******Exception Log*******
+{"LogLevel":2,"Code":"AddressNotFound","TraceId":"0HMO43KCMILG6:0000000D","Type":"https://datatracker.ietf.org/doc/html/rfc7231#section-6.5.4","Title":"Address was not found","Status":404,"Detail":null,"Instance":"/api/Address/2","Extensions":{"TraceId":"0HMO43KCMILG6:0000000D"}}
+*******Exception Log*******
+{"LogLevel":2,"Code":"UserNotFound","TraceId":"0HMO43KCMILG6:00000011","Type":"https://datatracker.ietf.org/doc/html/rfc7231#section-6.5.4","Title":"User was not found","Status":404,"Detail":null,"Instance":"/api/Address","Extensions":{"TraceId":"0HMO43KCMILG6:00000011"}}
+*******Exception Log*******
+{"LogLevel":4,"Code":"UnhandledError","TraceId":"0HMO43KCMILG6:00000015","Type":null,"Title":"The instance of entity type 'Address' cannot be tracked because another instance with the same key value for {'Id'} is already being tracked. When attaching existing entities, ensure that only one entity instance with a given key value is attached. Consider using 'DbContextOptionsBuilder.EnableSensitiveDataLogging' to see the conflicting key values.","Status":500,"Detail":null,"Instance":"/api/Address/30","Extensions":{"TraceId":"0HMO43KCMILG6:00000015"}}
+*******Exception Log*******
+{"LogLevel":4,"Code":"UnhandledError","TraceId":"0HMO43MF1K5RB:0000000F","Type":null,"Title":"The instance of entity type 'Address' cannot be tracked because another instance with the same key value for {'Id'} is already being tracked. When attaching existing entities, ensure that only one entity instance with a given key value is attached. Consider using 'DbContextOptionsBuilder.EnableSensitiveDataLogging' to see the conflicting key values.","Status":500,"Detail":null,"Instance":"/api/Address/20","Extensions":{"TraceId":"0HMO43MF1K5RB:0000000F"}}
+*******Exception Log*******
+{"LogLevel":4,"Code":"UnhandledError","TraceId":"0HMO43MF1K5RB:00000011","Type":null,"Title":"The process cannot access the file 'C:\\Users\\User\\source\\repos\\AniSanikidze\\Day_39\\PizzaRestaurant\\PizzaRestaurant.API\\Infrastructure\\Logging\\Logs.txt' because it is being used by another process.","Status":500,"Detail":null,"Instance":"/api/Address/20","Extensions":{"TraceId":"0HMO43MF1K5RB:00000011"}}
+*******Exception Log*******
+{"LogLevel":4,"Code":"UnhandledError","TraceId":"0HMO43MF1K5RC:00000001","Type":null,"Title":"The process cannot access the file 'C:\\Users\\User\\source\\repos\\AniSanikidze\\Day_39\\PizzaRestaurant\\PizzaRestaurant.API\\Infrastructure\\Logging\\Logs.txt' because it is being used by another process.","Status":500,"Detail":null,"Instance":"/api/Address/20","Extensions":{"TraceId":"0HMO43MF1K5RC:00000001"}}
+*******Exception Log*******
+{"LogLevel":4,"Code":"UnhandledError","TraceId":"0HMO43MF1K5RB:00000013","Type":null,"Title":"The request stream was aborted.","Status":500,"Detail":null,"Instance":"/api/Address/22","Extensions":{"TraceId":"0HMO43MF1K5RB:00000013"}}
+*******Exception Log*******
+{"LogLevel":4,"Code":"UnhandledError","TraceId":"0HMO43MF1K5RC:00000005","Type":null,"Title":"The instance of entity type 'Address' cannot be tracked because another instance with the same key value for {'Id'} is already being tracked. When attaching existing entities, ensure that only one entity instance with a given key value is attached. Consider using 'DbContextOptionsBuilder.EnableSensitiveDataLogging' to see the conflicting key values.","Status":500,"Detail":null,"Instance":"/api/Address/22","Extensions":{"TraceId":"0HMO43MF1K5RC:00000005"}}
+*******Exception Log*******
+{"LogLevel":4,"Code":"UnhandledError","TraceId":"0HMO43S6RAVVR:00000001","Type":null,"Title":"The entity type 'AsyncStateMachineBox<<GetAsync>d__5>' was not found. Ensure that the entity type has been added to the model.","Status":500,"Detail":null,"Instance":"/api/Address/3","Extensions":{"TraceId":"0HMO43S6RAVVR:00000001"}}
+*******Exception Log*******
+{"LogLevel":4,"Code":"UnhandledError","TraceId":"0HMO43S6RAVVS:00000001","Type":null,"Title":"The entity type 'AsyncStateMachineBox<<GetAsync>d__5>' was not found. Ensure that the entity type has been added to the model.","Status":500,"Detail":null,"Instance":"/api/Address/3","Extensions":{"TraceId":"0HMO43S6RAVVS:00000001"}}
+*******Exception Log*******
+{"LogLevel":4,"Code":"UnhandledError","TraceId":"0HMO43S6RAVVS:00000003","Type":null,"Title":"Value cannot be null. (Parameter 'entity')","Status":500,"Detail":null,"Instance":"/api/Address/3","Extensions":{"TraceId":"0HMO43S6RAVVS:00000003"}}
+*******Exception Log*******
+{"LogLevel":2,"Code":"UserNotFound","TraceId":"0HMO4419572SK:00000001","Type":"https://datatracker.ietf.org/doc/html/rfc7231#section-6.5.4","Title":"User was not found","Status":404,"Detail":null,"Instance":"/api/Address/3","Extensions":{"TraceId":"0HMO4419572SK:00000001"}}
+*******Exception Log*******
+{"LogLevel":2,"Code":"AddressNotFound","TraceId":"0HMO4419572SO:00000001","Type":"https://datatracker.ietf.org/doc/html/rfc7231#section-6.5.4","Title":"Address was not found","Status":404,"Detail":null,"Instance":"/api/Address/500","Extensions":{"TraceId":"0HMO4419572SO:00000001"}}
+*******Exception Log*******
+{"LogLevel":2,"Code":"AddressNotFound","TraceId":"0HMO4419572SQ:00000001","Type":"https://datatracker.ietf.org/doc/html/rfc7231#section-6.5.4","Title":"Address was not found","Status":404,"Detail":null,"Instance":"/api/Address/5","Extensions":{"TraceId":"0HMO4419572SQ:00000001"}}
+*******Exception Log*******
+{"LogLevel":2,"Code":"AddressNotFound","TraceId":"0HMO4419572SQ:00000003","Type":"https://datatracker.ietf.org/doc/html/rfc7231#section-6.5.4","Title":"Address was not found","Status":404,"Detail":null,"Instance":"/api/Address/5","Extensions":{"TraceId":"0HMO4419572SQ:00000003"}}
+*******Exception Log*******
+{"LogLevel":2,"Code":"PizzaNotFound","TraceId":"0HMO44G8LD5AL:00000001","Type":"https://datatracker.ietf.org/doc/html/rfc7231#section-6.5.4","Title":"Pizza was not found","Status":404,"Detail":null,"Instance":"/api/Pizza/100","Extensions":{"TraceId":"0HMO44G8LD5AL:00000001"}}
+*******Exception Log*******
+{"LogLevel":4,"Code":"UnhandledError","TraceId":"0HMO44G8LD5AM:00000001","Type":null,"Title":"Object reference not set to an instance of an object.","Status":500,"Detail":null,"Instance":"/api/Pizza","Extensions":{"TraceId":"0HMO44G8LD5AM:00000001"}}
+*******Exception Log*******
+{"LogLevel":4,"Code":"UnhandledError","TraceId":"0HMO44G8LD5AM:00000003","Type":null,"Title":"Object reference not set to an instance of an object.","Status":500,"Detail":null,"Instance":"/api/Pizza","Extensions":{"TraceId":"0HMO44G8LD5AM:00000003"}}
+*******Exception Log*******
+{"LogLevel":4,"Code":"UnhandledError","TraceId":"0HMO44SD94HH2:00000009","Type":null,"Title":"Object reference not set to an instance of an object.","Status":500,"Detail":null,"Instance":"/api/Pizza","Extensions":{"TraceId":"0HMO44SD94HH2:00000009"}}
+*******Exception Log*******
+{"LogLevel":2,"Code":"PizzaNotFound","TraceId":"0HMO44UOSQP2A:00000009","Type":"https://datatracker.ietf.org/doc/html/rfc7231#section-6.5.4","Title":"Pizza was not found","Status":404,"Detail":null,"Instance":"/api/Pizza/4","Extensions":{"TraceId":"0HMO44UOSQP2A:00000009"}}
+*******Exception Log*******
+{"LogLevel":2,"Code":"PizzaNotFound","TraceId":"0HMO451D0DS87:0000000F","Type":"https://datatracker.ietf.org/doc/html/rfc7231#section-6.5.4","Title":"Pizza was not found","Status":404,"Detail":null,"Instance":"/api/Pizza/180","Extensions":{"TraceId":"0HMO451D0DS87:0000000F"}}
+*******Exception Log*******
+{"LogLevel":2,"Code":"PizzaNotFound","TraceId":"0HMO457O1IRB1:00000011","Type":"https://datatracker.ietf.org/doc/html/rfc7231#section-6.5.4","Title":"Pizza was not found","Status":404,"Detail":null,"Instance":"/api/Pizza/21","Extensions":{"TraceId":"0HMO457O1IRB1:00000011"}}
+*******Exception Log*******
+{"LogLevel":2,"Code":"RankAlreadyExists","TraceId":"0HMO46M7F224O:00000001","Type":"https://datatracker.ietf.org/doc/html/rfc7231#section-6.5.9","Title":"User has already ranked the pizza","Status":409,"Detail":null,"Instance":"/api/Rank","Extensions":{"TraceId":"0HMO46M7F224O:00000001"}}
+*******Exception Log*******
+{"LogLevel":2,"Code":"RankAlreadyExists","TraceId":"0HMO46M7F224P:00000001","Type":"https://datatracker.ietf.org/doc/html/rfc7231#section-6.5.9","Title":"User has already ranked the pizza","Status":409,"Detail":null,"Instance":"/api/Rank","Extensions":{"TraceId":"0HMO46M7F224P:00000001"}}
+*******Exception Log*******
+{"LogLevel":2,"Code":"UserHasNotOrderedPizza","TraceId":"0HMO46N5TSV64:00000001","Type":"https://datatracker.ietf.org/doc/html/rfc7231#section-6.5.9","Title":"Error while ranking the pizza. In order to rank the pizza, user should first order it.","Status":409,"Detail":null,"Instance":"/api/Rank","Extensions":{"TraceId":"0HMO46N5TSV64:00000001"}}
+*******Exception Log*******
+{"LogLevel":4,"Code":"UnhandledError","TraceId":"0HMO46PQK3M6M:00000009","Type":null,"Title":"Not Found","Status":500,"Detail":null,"Instance":"/api/Order/1","Extensions":{"TraceId":"0HMO46PQK3M6M:00000009"}}
+*******Exception Log*******
+{"LogLevel":4,"Code":"UnhandledError","TraceId":"0HMO46PQK3M6M:0000000B","Type":null,"Title":"Not Found","Status":500,"Detail":null,"Instance":"/api/Order/2","Extensions":{"TraceId":"0HMO46PQK3M6M:0000000B"}}
+*******Exception Log*******
+{"LogLevel":2,"Code":"AddressNotFound","TraceId":"0HMO47DBG14ND:00000001","Type":"https://datatracker.ietf.org/doc/html/rfc7231#section-6.5.4","Title":"Address was not found","Status":404,"Detail":null,"Instance":"/api/Address/1","Extensions":{"TraceId":"0HMO47DBG14ND:00000001"}}
+*******Exception Log*******
+{"LogLevel":2,"Code":"AddressDoesNotBelongToUser","TraceId":"0HMO47ECHPESI:00000009","Type":"https://datatracker.ietf.org/doc/html/rfc7231#section-6.5.9","Title":"Provided user and address do not correspond to each other","Status":409,"Detail":null,"Instance":"/api/Order","Extensions":{"TraceId":"0HMO47ECHPESI:00000009"}}
+*******Exception Log*******
+{"LogLevel":2,"Code":"AddressNotFound","TraceId":"0HMO47ECHPESI:0000000B","Type":"https://datatracker.ietf.org/doc/html/rfc7231#section-6.5.4","Title":"Address was not found","Status":404,"Detail":null,"Instance":"/api/Address/1","Extensions":{"TraceId":"0HMO47ECHPESI:0000000B"}}
+*******Exception Log*******
+{"LogLevel":2,"Code":"UserNotFound","TraceId":"0HMO47ECHPESI:00000011","Type":"https://datatracker.ietf.org/doc/html/rfc7231#section-6.5.4","Title":"User was not found","Status":404,"Detail":null,"Instance":"/api/User/3","Extensions":{"TraceId":"0HMO47ECHPESI:00000011"}}
+*******Exception Log*******
+{"LogLevel":2,"Code":"UserNotFound","TraceId":"0HMO47ECHPESI:00000013","Type":"https://datatracker.ietf.org/doc/html/rfc7231#section-6.5.4","Title":"User was not found","Status":404,"Detail":null,"Instance":"/api/User/4","Extensions":{"TraceId":"0HMO47ECHPESI:00000013"}}
+*******Exception Log*******
+{"LogLevel":2,"Code":"UserHasNotOrderedPizza","TraceId":"0HMO47ECHPESI:0000001D","Type":"https://datatracker.ietf.org/doc/html/rfc7231#section-6.5.9","Title":"Error while ranking the pizza. In order to rank the pizza, user should first order it.","Status":409,"Detail":null,"Instance":"/api/Rank","Extensions":{"TraceId":"0HMO47ECHPESI:0000001D"}}
+*******Exception Log*******
+{"LogLevel":2,"Code":"UserHasNotOrderedPizza","TraceId":"0HMO47GGTLMUD:0000000F","Type":"https://datatracker.ietf.org/doc/html/rfc7231#section-6.5.9","Title":"Error while ranking the pizza. In order to rank the pizza, user should first order it.","Status":409,"Detail":null,"Instance":"/api/Rank","Extensions":{"TraceId":"0HMO47GGTLMUD:0000000F"}}
+*******Exception Log*******
+{"LogLevel":2,"Code":"ImageNotFound","TraceId":"0HMO47TGSEA2Q:0000000B","Type":"https://datatracker.ietf.org/doc/html/rfc7231#section-6.5.4","Title":"Image was not found","Status":404,"Detail":null,"Instance":"/api/Image/1","Extensions":{"TraceId":"0HMO47TGSEA2Q:0000000B"}}
+*******Exception Log*******
+{"LogLevel":2,"Code":"PizzaNotFound","TraceId":"0HMO47TGSEA2Q:0000000D","Type":"https://datatracker.ietf.org/doc/html/rfc7231#section-6.5.4","Title":"Pizza was not found","Status":404,"Detail":null,"Instance":"/api/Pizza/2","Extensions":{"TraceId":"0HMO47TGSEA2Q:0000000D"}}
